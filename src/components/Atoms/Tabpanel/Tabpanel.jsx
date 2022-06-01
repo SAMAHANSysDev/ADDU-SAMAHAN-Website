@@ -22,8 +22,7 @@ export default function TabPanel(props) {
             <Flip bottom>
               <div className={styles["subHeading"]}>
               <h2 >{subHeading}</h2>
-              </div>
-              <div className={styles["contentContainer"]}>
+              
               <Typography variant = "h6" color = "common.white">{children}</Typography>
               </div>
             </Flip>
