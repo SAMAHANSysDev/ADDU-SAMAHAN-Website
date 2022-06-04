@@ -34,10 +34,8 @@ footer {
 /* CUSTOM FONT */
 @font-face {
   font-family: "brant bold";
-  src: url("https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/fonts%2Fbrant%2Fbrant-bold-webfont.woff2?alt=media&token=44ee6ad7-038c-4fe6-b30e-22ec0985c0eb")
-      format("woff2"),
-    url("https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/fonts%2Fbrant%2Fbrant-bold-webfont.woff?alt=media&token=fb7ffaeb-2fbf-4cc0-a30c-78f894477a9b")
-      format("woff");
+  src: url("/assets/fonts/brant/brant-bold-webfont.woff2") format("woff2"),
+    url("/assets/fonts/brant/brant-bold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
