@@ -222,10 +222,15 @@ const contentRecurrsion = (contents) => {
     }
 
     if (content.type === "title") {
+      var underline = "";
+      if (content.underline) {
+        underline = "-underlined";
+      }
+
       switch (content.align) {
         case "left":
           return (
-            <h2 key={index} className={styles["title--align-left"]}>
+            <h2 key={index} className={styles["title--align-left" + underline]}>
               {hasSubContent
                 ? contentRecurrsion(content.contents)
                 : content.contents}
@@ -234,7 +239,10 @@ const contentRecurrsion = (contents) => {
 
         case "right":
           return (
-            <h2 key={index} className={styles["title--align-right"]}>
+            <h2
+              key={index}
+              className={styles["title--align-right" + underline]}
+            >
               {hasSubContent
                 ? contentRecurrsion(content.contents)
                 : content.contents}
@@ -243,7 +251,10 @@ const contentRecurrsion = (contents) => {
 
         default:
           return (
-            <h2 key={index} className={styles["title--align-center"]}>
+            <h2
+              key={index}
+              className={styles["title--align-center" + underline]}
+            >
               {hasSubContent
                 ? contentRecurrsion(content.contents)
                 : content.contents}

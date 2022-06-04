@@ -12,7 +12,8 @@
         {
           "type": "title",
           "align": "left",
-          "contents": "Page 1: FAQs"
+          "underline": true,
+          "contents": "FAQs"
         },
         {
           "type": "description list",
@@ -105,7 +106,8 @@
         {
           "type": "title",
           "align": "left",
-          "contents": "Page 2: The Court"
+          "underline": true,
+          "contents": "The Court"
         },
         {
           "type": "description list",
@@ -146,7 +148,8 @@
         {
           "type": "title",
           "align": "left",
-          "contents": "Page 3: SJC Services"
+          "underline": true,
+          "contents": "SJC Services"
         },
         {
           "type": "description list",
@@ -205,7 +208,8 @@
         {
           "type": "title",
           "align": "left",
-          "contents": "Page 4: Petitions"
+          "underline": true,
+          "contents": "Petitions"
         },
         {
           "type": "description list",
@@ -246,7 +250,8 @@
         {
           "type": "title",
           "align": "left",
-          "contents": "Page 5: Decisions"
+          "underline": true,
+          "contents": "Decisions"
         },
         {
           "type": "description list",
@@ -321,7 +326,7 @@
         },
         {
           "type": "title large",
-          "contents": "Rulliings and Memos"
+          "contents": "Rullings and Memos"
         },
         {
           "type": "stretched button",

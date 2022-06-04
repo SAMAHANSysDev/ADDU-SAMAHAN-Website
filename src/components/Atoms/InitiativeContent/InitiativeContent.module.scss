@@ -85,6 +85,30 @@ $fontColor: $color--black;
   color: $fontColor;
 }
 
+.title--align-center-underlined {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  text-align: center;
+  color: $fontColor;
+  text-decoration: underline;
+}
+
+.title--align-left-underlined {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  text-align: left;
+  color: $fontColor;
+  text-decoration: underline;
+}
+
+.title--align-right-underlined {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  text-align: right;
+  color: $fontColor;
+  text-decoration: underline;
+}
+
 .title--large {
   font-size: $h2FontSize;
   font-weight: $h2FontWeight;
