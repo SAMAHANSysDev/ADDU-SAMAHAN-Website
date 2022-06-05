@@ -22,7 +22,7 @@ const style = {
   left: '50%',
   transform: 'translate(-50%, -50%)',
   width: '100%',
-  maxWidth: "60rem",
+  maxWidth: "90vw",
   height: "fit-content",
   maxHeight: "75%",
   bgcolor: 'background.paper',
