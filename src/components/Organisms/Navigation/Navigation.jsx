@@ -7,8 +7,13 @@ import { Icon } from "@iconify/react";
 import baselineKeyboardArrowDown from "@iconify/icons-ic/baseline-keyboard-arrow-down";
 import menuFill from "@iconify/icons-eva/menu-fill";
 import { image } from "../../../data/dataIndex";
+import { useMediaQuery } from "@mui/material";
 
 const Navigation = ({ transparent = false }) => {
+  /* IF SCREEN IS BETWEEN 992px TO 1200px, USE LOGO ONLY */
+  const minWidth1200px = useMediaQuery('(min-width:1200px)')
+  const maxWidth992px = useMediaQuery('(max-width:992px)')
+
   const [, setMenuClicked] = useState(false);
   const [, setSubMenuClicked] = useState(false);
   const header = useRef();
@@ -54,9 +59,9 @@ const Navigation = ({ transparent = false }) => {
               <Link href="/">
                 <div className={styles.samahan_logo}>
                   <Image.default
-                    src={image.samahanLogo}
+                    src={(minWidth1200px || maxWidth992px) ? image.samahanLogo : image.samahanLogoOnly}
                     alt="SAMAHAN Website Logo"
-                    width="220px"
+                    width={(minWidth1200px || maxWidth992px) ? "220px" : "42px"}
                     height="100%"
                     objectFit="contain"
                     draggable="false"
@@ -117,10 +122,25 @@ const Navigation = ({ transparent = false }) => {
                   STUDENT JUDICIAL COURT
                 </Link>
               </li>
-              <li className={styles["nav-links-1"]} ref={li_help_portal} id="li_help_portal">
-                <Link href="/help_portal">
-                  HELP PORTAL
+              <li className={styles["simula_logo"] + " " + styles["nav-links-1"]}>
+                <Link href="/">
+                  <Image.default
+                    src={image.AFYOPSimula}
+                    alt="SAMAHAN Website Logo"
+                    width="80px"
+                    height="100%"
+                    objectFit="contain"
+                    draggable="false"
+                    priority
+                  ></Image.default>
                 </Link>
+              </li>
+              <li
+                className={styles["nav-links-1"]}
+                ref={li_help_portal}
+                id="li_help_portal"
+              >
+                <Link href="/help_portal">HELP PORTAL</Link>
               </li>
             </ul>
           </div>

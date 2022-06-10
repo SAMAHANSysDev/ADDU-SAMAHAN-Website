@@ -126,7 +126,7 @@ $nav-list-2--position: $nav-links-1--ypadding + 4.5rem; // FOR POSITIONING DROPD
     display: none;
   }
 
-  .samahan_logo {
+  .samahan_logo, .simula_logo {
     /* CLEARER IMAGE */
     image-rendering: crisp-edges;
     image-rendering: -moz-crisp-edges; /* Firefox */
@@ -134,6 +134,11 @@ $nav-list-2--position: $nav-links-1--ypadding + 4.5rem; // FOR POSITIONING DROPD
     image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming)*/
     -ms-interpolation-mode: nearest-neighbor;
     cursor: pointer;
+  }
+
+  .simula_logo {
+    padding-block: 0 !important;
+    padding-left: 1.5rem !important;
   }
 
   /* HIDE HELP PORTAL LI VERSION */
