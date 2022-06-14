@@ -1,8 +1,16 @@
 import React from 'react'
+import Head from "next/head";
+
+import { AFYOPPage } from '../src/components/ComponentIndex'
 
 const afyop = () => {
   return (
-    <div>afyop</div>
+    <>
+      <Head>
+        <title>AFYOP Simula - SAMAHAN</title>
+      </Head>
+      <AFYOPPage />
+    </>
   )
 }
 

@@ -53,6 +53,7 @@ export { default as GsuiteFAQTemplate } from "./Template/GsuiteFAQTemplate/Gsuit
 export { default as RegFAQTemplate } from "./Template/RegFAQTemplate/RegFAQTemplate";
 export { default as SchFAQTemplate } from "./Template/SchFAQTemplate/SchFAQTemplate";
 export { default as SysDevTemplate } from "./Template/SysDevTemplate/SysDevTemplate";
+export { default as AFYOPTemplate } from "./Template/AFYOPTemplate/AFYOPTemplate";
 
 /* PAGES */
 export { default as AboutPage } from "./Pages/AboutPage/AboutPage";
@@ -74,3 +75,4 @@ export { default as CCPPage } from "./Pages/CCPPage/CCPPage";
 export { default as ClustersPage } from "./Pages/ClustersPage/ClustersPage";
 export { default as SummaryPage } from "./Pages/SummaryPage/SummaryPage";
 export { default as SysDevPage } from "./Pages/SysDevPage/SysDevPage";
+export { default as AFYOPPage } from "./Pages/AFYOPPage/AFYOPPage";
