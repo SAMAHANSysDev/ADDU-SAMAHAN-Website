@@ -1,12 +1,18 @@
-import React from 'react'
+import React from "react";
 
-import styles from './AFYOPButton.module.scss';
+import styles from "./AFYOPButton.module.scss";
 
-const AFYOPButton = ({ label, variant = "default" }) => {
-
+const AFYOPButton = ({ title, variant = "default" }) => {
   return (
-    <button type='button' className={styles["AFYOPButton"] + " " + styles[`AFYOPButton--${variant}`]}>{label}</button>
-  )
-}
+    <button
+      type="button"
+      className={
+        styles["AFYOPButton"] + " " + styles[`AFYOPButton--${variant}`]
+      }
+    >
+      {title}
+    </button>
+  );
+};
 
-export default AFYOPButton
+export default AFYOPButton;

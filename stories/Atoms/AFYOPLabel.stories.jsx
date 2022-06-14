@@ -7,20 +7,20 @@ export default {
 
 export const Default = {
   args: {
-    label: "Lorem Ipsum"
+    title: "Lorem Ipsum"
   }
 };
 
 export const h1 = {
   args: {
-    label: "Lorem Ipsum",
+    title: "Lorem Ipsum",
     variant: "h1"
   }
 };
 
 export const h5 = {
   args: {
-    label: "Lorem Ipsum",
+    title: "Lorem Ipsum",
     variant: "h5"
   }
 };

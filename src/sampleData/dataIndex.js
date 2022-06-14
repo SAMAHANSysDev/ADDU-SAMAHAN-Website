@@ -13,3 +13,4 @@ export { default as slideshowContent } from "./aboutSlideshow.json";
 export { default as sjcInData } from "./studentJudicialInitiatives.json";
 export { default as SysDevProfileSample } from "./SysDevProfileSample.json";
 export { default as SysDev } from "./SysDev.json";
+export { default as AFYOPContainerSample } from "./AFYOPContainerSample.json";

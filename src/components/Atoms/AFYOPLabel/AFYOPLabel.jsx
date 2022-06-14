@@ -2,10 +2,10 @@ import React from 'react'
 
 import styles from './AFYOPLabel.module.scss'
 
-const AFYOPLabel = ({ label, variant = "default" }) => {
+const AFYOPLabel = ({ title, variant = "default" }) => {
   return (
     <div className={styles["AFYOPLabel"] + " " + styles[`AFYOPLabel--${variant}`]}>
-        {label}
+        {title}
     </div>
   )
 }

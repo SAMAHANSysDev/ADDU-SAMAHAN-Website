@@ -28,6 +28,7 @@ export { default as FAQCategories } from "./Molecules/FAQCategories/FAQCategorie
 export { default as FAQAccordion } from "./Molecules/FAQAccordion/FAQAccordion";
 export { default as Carousel } from "./Molecules/Carousel/Carousel";
 export { default as SysDevProfile } from "./Molecules/SysDevProfile/SysDevProfile";
+export { default as AFYOPContainer } from "./Molecules/AFYOPContainer/AFYOPContainer";
 
 /* ORGANISMS */
 export { default as Navigation } from "./Organisms/Navigation/Navigation";
