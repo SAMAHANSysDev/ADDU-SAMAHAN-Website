@@ -14,6 +14,7 @@ export { default as SysDevSocials } from "./Atoms/SysDevSocials/SysDevSocials";
 export { default as InitiativeOfficeDescription } from "./Atoms/InitiativeOfficeDescription/InitiativeOfficeDescription";
 export { default as StretchedButton } from "./Atoms/StretchedButton/StretchedButton";
 export { default as AFYOPButton } from "./Atoms/AFYOPButton/AFYOPButton";
+export { default as AFYOPLabel } from "./Atoms/AFYOPLabel/AFYOPLabel";
 
 /* MOLECULES */
 export { default as DepartmentNavigation } from "./Molecules/DepartmentNavigation/DepartmentNavigation";

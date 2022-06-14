@@ -9,6 +9,14 @@
   cursor: pointer;
   text-align: center;
 
+  transition: transform 0.3s ease-in-out;
+
+  &--default:hover,
+  &--h1:hover,
+  &--h5-white:hover {
+    transform: translateY(-10px);
+  }
+
   &--default {
     font-size: $h5FontSize;
     font-weight: $h1FontWeight;

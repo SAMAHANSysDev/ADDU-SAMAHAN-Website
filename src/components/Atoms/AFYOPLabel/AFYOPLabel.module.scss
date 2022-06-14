@@ -1,0 +1,29 @@
+@import "../../../../styles/variables.scss";
+
+.AFYOPLabel {
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 1.25rem 2.5rem;
+  background-color: $color--AFYOP-yellow;
+
+  border-radius: 100px;
+  color: $color--AFYOP-brown;
+
+  &--default {
+    font-size: $h3FontSize;
+    font-weight: $h1FontWeight;
+  }
+
+  &--h1 {
+    font-size: $h1FontSize;
+    font-weight: $h1FontWeight;
+  }
+
+  &--h5 {
+    font-size: $h5FontSize;
+    font-weight: $h1FontWeight;
+  }
+}
