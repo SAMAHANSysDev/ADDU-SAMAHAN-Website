@@ -11,15 +11,15 @@ import { useMediaQuery } from "@mui/material";
 
 const Navigation = ({ transparent = false }) => {
   /* IF SCREEN IS BETWEEN 992px TO 1200px, USE LOGO ONLY */
-  const minWidth1200px = useMediaQuery('(min-width:1200px)')
-  const maxWidth992px = useMediaQuery('(max-width:992px)')
+  const minWidth1200px = useMediaQuery("(min-width:1200px)");
+  const maxWidth992px = useMediaQuery("(max-width:992px)");
 
   const [, setMenuClicked] = useState(false);
   const [, setSubMenuClicked] = useState(false);
   const header = useRef();
   const nav_list_1 = useRef();
   const nav_list_2 = useRef();
-  const li_help_portal = useRef();
+  // const li_help_portal = useRef();
 
   function handleClick() {
     setMenuClicked((prevClickState) => {
@@ -59,9 +59,13 @@ const Navigation = ({ transparent = false }) => {
               <Link href="/">
                 <div className={styles.samahan_logo}>
                   <Image.default
-                    src={(minWidth1200px || maxWidth992px) ? image.samahanLogo : image.samahanLogoOnly}
+                    src={
+                      minWidth1200px || maxWidth992px
+                        ? image.samahanLogo
+                        : image.samahanLogoOnly
+                    }
                     alt="SAMAHAN Website Logo"
-                    width={(minWidth1200px || maxWidth992px) ? "220px" : "42px"}
+                    width={minWidth1200px || maxWidth992px ? "220px" : "42px"}
                     height="100%"
                     objectFit="contain"
                     draggable="false"
@@ -122,8 +126,12 @@ const Navigation = ({ transparent = false }) => {
                   STUDENT JUDICIAL COURT
                 </Link>
               </li>
-              <li className={styles["simula_logo"] + " " + styles["nav-links-1"]}>
-                <Link href="/">
+
+              {/* AFYOP - SIMULA */}
+              <li
+                className={styles["simula_logo"] + " " + styles["nav-links-1"]}
+              >
+                <Link href="/afyop">
                   <Image.default
                     src={image.AFYOPSimula}
                     alt="SAMAHAN Website Logo"
@@ -136,8 +144,14 @@ const Navigation = ({ transparent = false }) => {
                 </Link>
               </li>
               <li
+                className={styles["nav-links-1"] + " " + styles["li_afyop"]}
+                id="li_afyop"
+              >
+                <Link href="/afyop">AFYOP - Simula</Link>
+              </li>
+              <li
                 className={styles["nav-links-1"]}
-                ref={li_help_portal}
+                // ref={li_help_portal}
                 id="li_help_portal"
               >
                 <Link href="/help_portal">HELP PORTAL</Link>

@@ -145,6 +145,11 @@ $nav-list-2--position: $nav-links-1--ypadding + 4.5rem; // FOR POSITIONING DROPD
   li[id="li_help_portal"] {
     display: none;
   }
+
+  /* HIDE AFYOP - SIMULA LI VERSION */
+  li[id="li_afyop"] {
+    display: none;
+  }
 }
 
 /* TRANSPARENT VERSION */
@@ -300,6 +305,16 @@ $nav-list-2--position: $nav-links-1--ypadding + 4.5rem; // FOR POSITIONING DROPD
 
     /* SHOW HELP PORTAL LI VERSION */
     li[id="li_help_portal"] {
+      display: block;
+    }
+
+    /* HIDE SIMULA LOGO */
+    .simula_logo {
+      display: none;
+    }
+
+    /* SHOW AFYOP - SIMULA LI VERSION */
+    li[id="li_afyop"] {
       display: block;
     }
   }
