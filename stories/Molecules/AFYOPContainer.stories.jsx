@@ -5,6 +5,11 @@ import { AFYOPContainerSample } from "../../src/sampleData/AFYOPContainerSample.
 export default {
   title: "Molecules/AFYOP Container",
   component: AFYOPContainer,
+  parameters:{
+    backgrounds:{
+        default: "ADDU Blue"
+    }
+}
 };
 
 export const Main = {

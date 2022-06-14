@@ -41,6 +41,7 @@ export { default as AboutSecondSection } from "./Organisms/AboutSecondSection/Ab
 export { default as InformationSection } from "./Organisms/InformationSection/InformationSection";
 export { default as FAQSection } from "./Organisms/FAQSection/FAQSection";
 export { default as Developers } from "./Organisms/Developers/Developers";
+export { default as AfyopFourthSection } from "./Organisms/AfyopFourthSection/AfyopFourthSection";
 
 /* TEMPLATES */
 export { default as AboutTemplate } from "./Template/AboutTemplate/AboutTemplate";

@@ -1,0 +1,10 @@
+@import "../../../../styles/variables.scss";
+
+.component-container{
+    display:grid;
+    flex-direction: column;
+}
+
+.grid-item{
+    display:flex;   
+}
