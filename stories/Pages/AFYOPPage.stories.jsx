@@ -1,7 +1,7 @@
 import { AFYOPPage } from '../../src/components/ComponentIndex';
 
 export default {
-  title: 'Page/AFYOP Page',
+  title: 'Pages/AFYOP Page',
   component: AFYOPPage,
 };
 

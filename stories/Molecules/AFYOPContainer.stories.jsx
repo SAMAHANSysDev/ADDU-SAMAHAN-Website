@@ -9,10 +9,8 @@ export default {
 
 export const Main = {
   args: {
-    label: {
-      title: AFYOPContainerSample.label.title,
-      variant: AFYOPContainerSample.label.variant,
-    },
+    title: AFYOPContainerSample.label.title,
+    variant: AFYOPContainerSample.label.variant,
     content: AFYOPContainerSample.content
   },
 };
