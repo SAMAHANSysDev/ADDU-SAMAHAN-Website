@@ -1,0 +1,54 @@
+{
+    "facilitators":[
+        {
+            "name": "Sapsal, John Paul",
+            "position": "Core Head Facilitator for AFYOP Activities",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/jpdsapsal22" },
+                { "site": "twitter", "url": "https://twitter.com/jpsapsal_22" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Lim, Ruperth Adrianne",
+            "position": "Core Head Facilitator for Pre-AFYOP Activities",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/limruperth" },
+                { "site": "twitter", "url": "https://twitter.com/limruperth" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Ng, Mariah Shane",
+            "position": "Core Facilitator for Training and Development",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/Rairaing" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Pang, Margaux",
+            "position": "Core Facilitator for Secretariat",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/Francesca7455" },
+                { "site": "twitter", "url": "https://twitter.com/margauxpang" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Tagalog, Dianna Kyle",
+            "position": "Core Facilitator for Secretariat",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/dkatagalog" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        }
+    ]
+}
