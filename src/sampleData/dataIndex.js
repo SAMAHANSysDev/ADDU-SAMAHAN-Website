@@ -15,3 +15,4 @@ export { default as SysDevProfileSample } from "./SysDevProfileSample.json";
 export { default as SysDev } from "./SysDev.json";
 export { default as AFYOPContainerSample } from "./AFYOPContainerSample.json";
 export { default as AFYOPSimulaTVSample } from "./AFYOPSimulaTVSample.json";
+export { default as CFData } from "./classFinderContent.json";

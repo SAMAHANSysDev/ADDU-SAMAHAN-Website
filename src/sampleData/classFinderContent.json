@@ -1,0 +1,29 @@
+{   
+    "content":{
+        "title":"Class Finder",
+        "variant":"Now Happening",
+        "items":[
+            {
+                "title":"Step 1",
+                "pic":"picture",
+                "text":"Go to www.sis.addu.edu.ph."
+            },
+            {
+                "title":"Step 2",
+                "pic":"picture",
+                "text":"Login using your AdDUNET username and password. Your login credentials can be found in the confirmation enrollment email sent once enrolled in the university."
+            },
+            {
+                "title":"Step 3",
+                "pic":"picture",
+                "text":"Once logged in, on the left side of the website, click on “My Registration”."
+            },
+            {
+                "title":"Step 4",
+                "pic":"picture",
+                "text":"Once the page loads, look at the “Section” label. Right next to it is the class section you belong to. Remember your section assignment, go to the Faci Finder section of the AFYOP Webpage, and look for the facilitator assigned to your class section."
+            }
+        ]
+        }
+    
+}

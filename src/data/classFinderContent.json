@@ -1,25 +1,29 @@
-{
-    "title":"Class Finder",
-    "items":[
-        {
-            "stepNum":1,
-            "pic":"picture",
-            "text":"khdgash"
-        },
-        {
-            "stepNum":2,
-            "pic":"picture",
-            "text":"khdgash"
-        },
-        {
-            "stepNum":3,
-            "pic":"picture",
-            "text":"khdgash"
-        },
-        {
-            "stepNum":4,
-            "pic":"picture",
-            "text":"khdgash"
+{   
+    "content":{
+        "title":"Class Finder",
+        "variant":"Now Happening",
+        "items":[
+            {
+                "title":"Step 1",
+                "pic":"picture",
+                "text":"Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+            },
+            {
+                "title":"Step 2",
+                "pic":"picture",
+                "text":"Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+            },
+            {
+                "title":"Step 3",
+                "pic":"picture",
+                "text":"Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+            },
+            {
+                "title":"Step 4",
+                "pic":"picture",
+                "text":"Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+            }
+        ]
         }
-    ]
+    
 }
