@@ -6,7 +6,7 @@ import { AFYOPSimulaTV } from '../../../data/dataIndex'
 const AFYOPPage = () => {
   return (
     <>
-        <AFYOPTemplate SimulaTVContent={AFYOPSimulaTV.content}/>
+      <AFYOPTemplate SimulaTVContent={AFYOPSimulaTV.SimulaTVTwitter}/>
     </>
   )
 }

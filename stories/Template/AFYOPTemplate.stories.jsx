@@ -8,6 +8,6 @@ export default {
 
 export const Main = {
   args: {
-    SimulaTVContent: AFYOPSimulaTVSample.content
+    SimulaTVContent: AFYOPSimulaTVSample.SimulaTVTwitter
   }
 };

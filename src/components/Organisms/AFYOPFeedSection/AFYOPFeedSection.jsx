@@ -15,13 +15,13 @@ const AFYOPFeedSection = ({ variant, content }) => {
             <div className={styles["SimulaTVEpisodes"]}>
               {content.map((episode) => {
                 return (
-                  <>
+                  <React.Fragment key={episode.title}>
                     <SimulaTVEP
                       epThumbnail={episode.thumbnail}
                       epTitle={episode.title}
                       epDescription={episode.description}
                     />
-                  </>
+                  </React.Fragment>
                 );
               })}
             </div>

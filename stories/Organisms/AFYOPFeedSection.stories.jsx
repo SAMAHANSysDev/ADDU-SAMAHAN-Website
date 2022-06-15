@@ -9,7 +9,7 @@ export default {
 
 export const Main = {
   args: {
-    variant: AFYOPSimulaTVSample.content.variant,
-    content: AFYOPSimulaTVSample.content.content
+    variant: AFYOPSimulaTVSample.SimulaTVTwitter.variant,
+    content: AFYOPSimulaTVSample.SimulaTVTwitter.content
   }
 };

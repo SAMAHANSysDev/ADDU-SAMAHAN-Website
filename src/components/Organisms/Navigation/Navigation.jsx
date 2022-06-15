@@ -132,15 +132,17 @@ const Navigation = ({ transparent = false }) => {
                 className={styles["simula_logo"] + " " + styles["nav-links-1"]}
               >
                 <Link href="/afyop">
-                  <Image.default
-                    src={image.AFYOPSimula}
-                    alt="SAMAHAN Website Logo"
-                    width="80px"
-                    height="100%"
-                    objectFit="contain"
-                    draggable="false"
-                    priority
-                  ></Image.default>
+                  <>
+                    <Image.default
+                      src={image.AFYOPSimula}
+                      alt="SAMAHAN Website Logo"
+                      width="80px"
+                      height="100%"
+                      objectFit="contain"
+                      draggable="false"
+                      priority
+                    ></Image.default>
+                  </>
                 </Link>
               </li>
               <li
