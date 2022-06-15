@@ -1,8 +1,8 @@
 import React from 'react'
 import styles from "./AfyopFourthSection.module.scss";
-import { AFYOPContainer, SimulaTVEP } from '../../ComponentIndex';
+import { AFYOPContainer, ClassFinderSteps, NowHappeningContent } from '../../ComponentIndex';
 
-const AfyopFourthSection = ({variant, content}) => {
+const AfyopFourthSection = ({variant, content, content2}) => {
   function RenderSimulaTVTwitter() {
     {
       /* FOR SIMULA TV ADN TWITTER FEED SECTION */
@@ -15,7 +15,7 @@ const AfyopFourthSection = ({variant, content}) => {
               {content.map((episode) => {
                 return (
                   <>
-                    <SimulaTVEP
+                    <ClassFinderSteps
                       epThumbnail={episode.thumbnail}
                       epTitle={episode.title}
                       epDescription={episode.description}
@@ -46,7 +46,7 @@ const AfyopFourthSection = ({variant, content}) => {
               {content.map((step) => {
                 return (
                   <>
-                    <SimulaTVEP
+                    <ClassFinderSteps
                       epThumbnail={step.pic}
                       epTitle={step.title}
                       epDescription={step.text}
@@ -63,7 +63,22 @@ const AfyopFourthSection = ({variant, content}) => {
         }
 
       <div className={styles["grid-container-2"]}>
-      <AFYOPContainer title={"NOW HAPPENING"}></AFYOPContainer>
+      <AFYOPContainer title={"NOW HAPPENING"}>
+        <div className={styles["ClassFinderPics"]}>
+                {content2.map((item) => {
+                  return (
+                    <>
+                      <NowHappeningContent
+                        time={item.DateTime}
+                        event={item.event}
+                        platform={item.platform}
+                        description={item.desc}
+                      />
+                    </>
+                  );
+                })}
+              </div>
+      </AFYOPContainer>
       </div>
       </>
     )

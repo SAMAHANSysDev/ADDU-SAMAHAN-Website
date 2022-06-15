@@ -15,6 +15,8 @@ export { default as InitiativeOfficeDescription } from "./Atoms/InitiativeOffice
 export { default as StretchedButton } from "./Atoms/StretchedButton/StretchedButton";
 export { default as AFYOPButton } from "./Atoms/AFYOPButton/AFYOPButton";
 export { default as AFYOPLabel } from "./Atoms/AFYOPLabel/AFYOPLabel";
+export { default as ClassFinderSteps } from "./Atoms/ClassFinderSteps/ClassFinderSteps"; 
+export { default as NowHappeningContent }  from "./Atoms/NowHappeningContent/NowHappeningContent";
 
 /* MOLECULES */
 export { default as DepartmentNavigation } from "./Molecules/DepartmentNavigation/DepartmentNavigation";

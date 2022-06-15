@@ -1,16 +1,16 @@
 {   
     "content":{
-        "title":"Class Finder",
+        "title":"CLASS FINDER",
         "variant":"Now Happening",
         "items":[
             {
                 "title":"Step 1",
-                "pic":"picture",
+                "pic":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FClass%20Finder%20Pics%2F1.png?alt=media&token=7fad23ad-d4f3-4022-a026-99a167652173",
                 "text":"Go to www.sis.addu.edu.ph."
             },
             {
                 "title":"Step 2",
-                "pic":"picture",
+                "pic":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FClass%20Finder%20Pics%2F2.png?alt=media&token=96939f13-c8ab-43ad-8b03-bca9a3fe301d",
                 "text":"Login using your AdDUNET username and password. Your login credentials can be found in the confirmation enrollment email sent once enrolled in the university."
             },
             {
