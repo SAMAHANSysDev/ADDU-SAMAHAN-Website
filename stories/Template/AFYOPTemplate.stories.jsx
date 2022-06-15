@@ -1,4 +1,5 @@
 import { AFYOPTemplate } from '../../src/components/ComponentIndex';
+import { AFYOPSimulaTVSample } from '../../src/sampleData/dataIndex';
 
 export default {
   title: 'Template/AFYOP Template',
@@ -6,5 +7,7 @@ export default {
 };
 
 export const Main = {
-  args: {}
+  args: {
+    SimulaTVContent: AFYOPSimulaTVSample.content
+  }
 };

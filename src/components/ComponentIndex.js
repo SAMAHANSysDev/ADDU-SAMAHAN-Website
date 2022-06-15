@@ -29,6 +29,7 @@ export { default as FAQAccordion } from "./Molecules/FAQAccordion/FAQAccordion";
 export { default as Carousel } from "./Molecules/Carousel/Carousel";
 export { default as SysDevProfile } from "./Molecules/SysDevProfile/SysDevProfile";
 export { default as AFYOPContainer } from "./Molecules/AFYOPContainer/AFYOPContainer";
+export { default as SimulaTVEP } from "./Atoms/SimulaTVEP/SimulaTVEP";
 
 /* ORGANISMS */
 export { default as Navigation } from "./Organisms/Navigation/Navigation";
@@ -42,6 +43,7 @@ export { default as InformationSection } from "./Organisms/InformationSection/In
 export { default as FAQSection } from "./Organisms/FAQSection/FAQSection";
 export { default as Developers } from "./Organisms/Developers/Developers";
 export { default as AfyopFourthSection } from "./Organisms/AfyopFourthSection/AfyopFourthSection";
+export { default as AFYOPFeedSection } from "./Organisms/AFYOPFeedSection/AFYOPFeedSection";
 
 /* TEMPLATES */
 export { default as AboutTemplate } from "./Template/AboutTemplate/AboutTemplate";

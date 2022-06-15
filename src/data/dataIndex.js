@@ -19,6 +19,7 @@ export { default as regFAQData } from "../data/regFAQs.json";
 export { default as schFAQData } from "../data/scholarFAQs.json";
 export { default as sjcInData } from "./studentJudicialInitiatives.json";
 export { default as SysDev } from "../data/SysDev.json";
+export { default as AFYOPSimulaTV } from "../data/AFYOPSimulaTV.json";
 
 /* INFORMATION AREA */
 export { default as EnrollmentAndPayment } from "../data/Information/EnrollmentAndPayment";

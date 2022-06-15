@@ -1,19 +1,13 @@
 import React from 'react'
 
 import styles from './AFYOPTemplate.module.scss'
-import { Navigation, Footer, AFYOPContainer, AFYOPButton } from '../../ComponentIndex'
+import { Navigation, Footer, AFYOPFeedSection } from '../../ComponentIndex'
 
-const AFYOPTemplate = () => {
+const AFYOPTemplate = ({ SimulaTVContent }) => {
   return (
     <>
         <Navigation />
-        <div className={styles["AFYOPTemplate"]}>
-          <div className="container">
-            <AFYOPContainer title={"Lorem Ipsum"} variant={"default"} content={"adasdasdasdasd"}>
-
-            </AFYOPContainer>
-          </div>
-        </div>
+        <AFYOPFeedSection variant={SimulaTVContent.variant} content={SimulaTVContent.content}/>
         <Footer />
     </>
   )
