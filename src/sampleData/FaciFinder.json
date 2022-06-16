@@ -6,7 +6,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/jpdsapsal22" },
-                { "site": "twitter", "url": "https://twitter.com/jpsapsal_22" }
+                { "site": "twitter", "url": "https://twitter.com/jpsapsal_22" },
+                { "site": "instagram", "url": "https://www.instagram.com/jpsapsal_22/" }
             ],
             "picture":"Lorem"
         },
@@ -16,7 +17,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/limruperth" },
-                { "site": "twitter", "url": "https://twitter.com/limruperth" }
+                { "site": "twitter", "url": "https://twitter.com/limruperth" },
+                { "site": "instagram", "url": "https://www.instagram.com/ruperthlim/" }
             ],
             "picture":"Lorem"
         },
@@ -36,7 +38,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Francesca7455" },
-                { "site": "twitter", "url": "https://twitter.com/margauxpang" }
+                { "site": "twitter", "url": "https://twitter.com/margauxpang" },
+                { "site": "instagram", "url": "https://www.instagram.com/margauxpang/" }
             ],
             "picture":"Lorem"
         },
@@ -46,7 +49,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/dkatagalog" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/diannatagalog_" },
+                { "site": "instagram", "url": "https://www.instagram.com/dkatagalog/" }
             ],
             "picture":"Lorem"
         },
@@ -56,7 +60,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "facebook.com/xzoreynx" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "twitter.com/xzoreynx" },
+                { "site": "instagram", "url": "instagram.com/xzoreynx" }
             ],
             "picture":"Lorem"
         },
@@ -66,7 +71,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/lxrence" },
-                { "site": "twitter", "url": "https://twitter.com/lxrencee" }
+                { "site": "twitter", "url": "https://twitter.com/lxrencee" },
+                { "site": "instagram", "url": "instagram.com/lxrence" }
             ],
             "picture":"Lorem"
         },
@@ -96,7 +102,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/chloemikaelasalas" },
-                { "site": "twitter", "url": "https://twitter.com/chloesalas_" }
+                { "site": "twitter", "url": "https://twitter.com/chloesalas_" },
+                { "site": "instagram", "url": "https://www.instagram.com/chloemikaelasalas" }
             ],
             "picture":"Lorem"
         },
@@ -106,7 +113,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/ignasstephanie" },
-                { "site": "twitter", "url": "https://twitter.com/stephanieignas" }
+                { "site": "twitter", "url": "https://twitter.com/stephanieignas" },
+                { "site": "instagram", "url": "https://www.instagram.com/stephanieignas" }
             ],
             "picture":"Lorem"
         },
@@ -126,7 +134,7 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/JohannBorral" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "instagram", "url": "https://www.instagram.com/genborral/" }
             ],
             "picture":"Lorem"
         },
@@ -135,7 +143,9 @@
             "position": "Junior Facilitator ",
             "classes":"Lorem",
             "socials":[
-                { "site": "facebook", "url": "https://www.facebook.com/sgacsta" }
+                { "site": "facebook", "url": "https://www.facebook.com/sgacsta" },
+                { "site": "twitter", "url": "https://twitter.com/sung_acosta?t=a2OJleOhrh_elxQVnixJ0w&s=09" },
+                { "site": "instagram", "url": "https://www.instagram.com/sg_acosta/" }
             ],
             "picture":"Lorem"
         },
@@ -145,7 +155,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/joannadanielleee/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/thejoannaang" },
+                { "site": "instagram", "url": "https://www.instagram.com/joannadanielleee" }
             ],
             "picture":"Lorem"
         },
@@ -155,7 +166,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/alyssacloe.antalan.5/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/cloeantalan" },
+                { "site": "instagram", "url": "https://www.instagram.com/acbantalan/"}
             ],
             "picture":"Lorem"
         },
@@ -165,7 +177,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/piarrieta" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/arrietapi" },
+                { "site": "instagram", "url": "https://www.instagram.com/sab.arrieta"}
             ],
             "picture":"Lorem"
         },
@@ -175,7 +188,7 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/profile.php?id=100025112900512" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/mikaelabalagot" }
             ],
             "picture":"Lorem"
         },
@@ -185,7 +198,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/jenieloumarie.cadena" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://www.twitter.com/jenieloucadena" },
+                { "site": "instagram", "url": "https://www.instagram.com/jenieloucadena" }
             ],
             "picture":"Lorem"
         },
@@ -195,7 +209,7 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/danikaqueen/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/corias_danika" }
             ],
             "picture":"Lorem"
         },
@@ -205,7 +219,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/franciscddavid" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/_clarkdavid" },
+                { "site": "instagram", "url": "https://instagram.com/_clarkdavid" }
             ],
             "picture":"Lorem"
         },
@@ -215,7 +230,7 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/rjangelod/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/rjangelod" }
             ],
             "picture":"Lorem"
         },
@@ -225,7 +240,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/fitzgerald.eyas.3/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/fitzeyas" },
+                { "site": "instagram", "url": "https://www.instagram.com/fitzeyas/" }
             ],
             "picture":"Lorem"
         },
@@ -235,7 +251,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/YshaFernandez.04/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/yshamaziiing" },
+                { "site": "instagram", "url": "https://www.instagram.com/yshamaziiing/?hl=en" }
             ],
             "picture":"Lorem"
         },
@@ -245,7 +262,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/daneossaur/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/DaneGomez_" },
+                { "site": "instagram", "url": "https://www.instagram.com/_danegomez/" }
             ],
             "picture":"Lorem"
         },
@@ -255,7 +273,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "facebook.com/nurainejaizzah" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/nuraineisla" },
+                { "site": "instagram", "url": "https://www.instagram.com/nurainejaizzah/" }
             ],
             "picture":"Lorem"
         },
@@ -265,7 +284,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/leenjulietlapatis/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/itsleenlapatis" },
+                { "site": "instagram", "url": "instagram.com/leenlapatis_/" }
             ],
             "picture":"Lorem"
         },
@@ -275,7 +295,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/chin.madria" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/frenzieledesma" },
+                { "site": "instagram", "url": "https://www.instagram.com/frenzieledesma/" }
             ],
             "picture":"Lorem"
         },
@@ -285,7 +306,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://facebook.com/chynamarie.legaspina/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/chylegaspina" },
+                { "site": "instagram", "url": "https://www.instagram.com/chylegaspina/" }
             ],
             "picture":"Lorem"
         },
@@ -295,7 +317,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "facebook.com/piolo.liquit" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "www.twitter.com/piol_liquit" },
+                { "site": "instagram", "url": "lorem" }
             ],
             "picture":"Lorem"
         },
@@ -305,7 +328,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/tmbmanapol" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "twitter.com/tmbmanapol" },
+                { "site": "instagram", "url": "instagram.com/tmbmanapol" }
             ],
             "picture":"Lorem"
         },
@@ -315,7 +339,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/parejaneekah" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/nikaparejarch" },
+                { "site": "instagram", "url": "https://www.instagram.com/neekah_pareja/" }
             ],
             "picture":"Lorem"
         },
@@ -325,7 +350,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/kat.parinas14" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/KathyParinas" },
+                { "site": "instagram", "url": "https://www.instagram.com/kathyparinas/" }
             ],
             "picture":"Lorem"
         },
@@ -335,7 +361,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/r3anrn" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/reanmarcoregno" },
+                { "site": "instagram", "url": "instagram.com/re_marcoregno" }
             ],
             "picture":"Lorem"
         },
@@ -345,7 +372,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/sakura.sakamotoii/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/sakurasakamoto_" },
+                { "site": "instagram", "url": "https://www.instagram.com/sakurasakamoto_/" }
             ],
             "picture":"Lorem"
         },
@@ -355,7 +383,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "fb.me/nenyagwyn" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/sottoninna" },
+                { "site": "instagram", "url": "https://instagram.com/sottoninna" }
             ],
             "picture":"Lorem"
         },
@@ -375,7 +404,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Tengthalia" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/thaliatengg" },
+                { "site": "instagram", "url": "https://www.instagram.com/thaliateng_/" }
             ],
             "picture":"Lorem"
         },
@@ -385,7 +415,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/margarille" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/margarille" },
+                { "site": "instagram", "url": "https://www.instagram.com/margarille/" }
             ],
             "picture":"Lorem"
         },
@@ -395,7 +426,7 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "www.facebook.com/paulinealexandra.tongco" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "twitter.com/paulinetongco" }
             ],
             "picture":"Lorem"
         },
@@ -405,7 +436,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/auunga" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://www.twitter.com/au_unga" },
+                { "site": "instagram", "url": "https://www.instagram.com/au_unga" }
             ],
             "picture":"Lorem"
         },
@@ -415,7 +447,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Victoriano.Neomi/" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/neomivictoriano" },
+                { "site": "instagram", "url": "https://www.instagram.com/neomivictoriano_/" }
             ],
             "picture":"Lorem"
         }
