@@ -49,6 +49,376 @@
                 { "site": "twitter", "url": "Lorem" }
             ],
             "picture":"Lorem"
+        },
+        {
+            "name": "Dabon, Zoreyn Victorio",
+            "position": "Core Facilitator for Productions, Events, and Activities",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "facebook.com/xzoreynx" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Macarayon, Lorence Alfred",
+            "position": "Core Facilitator for Finance and Sponsorships",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/lxrence" },
+                { "site": "twitter", "url": "https://twitter.com/lxrencee" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Castillo, Julieanne",
+            "position": "Core Facilitator for Content Development",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/julieannetancastillo/" },
+                { "site": "twitter", "url": "https://twitter.com/juiscastillo" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Wenceslao, Dianne",
+            "position": "Core Facilitator for Logistics",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/dianne.wnc" },
+                { "site": "twitter", "url": "https://twitter.com/didiwnc" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Salas, Chloe Mikaela",
+            "position": "Core Facilitator for Publicity and Promotions ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/chloemikaelasalas" },
+                { "site": "twitter", "url": "https://twitter.com/chloesalas_" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Ignas, Stephanie Lorraine",
+            "position": "Core Facilitator for Creatives ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/ignasstephanie" },
+                { "site": "twitter", "url": "https://twitter.com/stephanieignas" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Antigo, Prince Robin",
+            "position": "Senior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/bongching.antigo" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Remoroza, Johann",
+            "position": "Senior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/JohannBorral" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Acosta, Sung Goon",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/sgacsta" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Ang, Joanna Danielle",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/joannadanielleee/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Antalan, Alyssa Cloe",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/alyssacloe.antalan.5/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Arrieta, Patricia Isabelle",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/piarrieta" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Balagot, Mikaela Abrielle",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/profile.php?id=100025112900512" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Cadeña, Jenielou Marie",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/jenieloumarie.cadena" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Corias, Danika Maria Sandra",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/danikaqueen/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "David, Francis Clark",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/franciscddavid" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Dondonayos, Renil Jed Angelo",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/rjangelod/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Eyas, Fitzgerald",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/fitzgerald.eyas.3/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Fernandez, Khrysha Louise",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/YshaFernandez.04/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Gomez, Daniel Dave",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/daneossaur/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Isla, Nur-aine Jaizzah",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "facebook.com/nurainejaizzah" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Lapatis, Leen Juliet",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/leenjulietlapatis/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Ledesma, Frenzie Christine",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/chin.madria" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Legaspina, Chyna Marie",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://facebook.com/chynamarie.legaspina/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Liquit, Piolo",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "facebook.com/piolo.liquit" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Manapol, Trisha Mae Barral",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/tmbmanapol" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Pareja, Nika",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/parejaneekah" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Pariñas, Kathy Calatao",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/kat.parinas14" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Regno, Rean Marco",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/r3anrn" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Sakamoto, Sakura",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/sakura.sakamotoii/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Sotto, Niña Gwyn",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "fb.me/nenyagwyn" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Tawantawan, Ali Louis",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/alilouismanigos.tawantawan" }
+                
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Teng, Thalia Lim",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/Tengthalia" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Tinnae, Ville Margareth Dupa",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/margarille" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Tongco, Pauline Alexandra",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "www.facebook.com/paulinealexandra.tongco" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Unga, Mohammad Abdunur",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/auunga" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
+        },
+        {
+            "name": "Victoriano, Neomi",
+            "position": "Junior Facilitator ",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/Victoriano.Neomi/" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"Lorem"
         }
+
     ]
 }
