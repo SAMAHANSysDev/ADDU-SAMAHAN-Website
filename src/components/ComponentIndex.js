@@ -17,6 +17,7 @@ export { default as AFYOPButton } from "./Atoms/AFYOPButton/AFYOPButton";
 export { default as AFYOPLabel } from "./Atoms/AFYOPLabel/AFYOPLabel";
 export { default as ClassFinderSteps } from "./Atoms/ClassFinderSteps/ClassFinderSteps"; 
 export { default as NowHappeningContent }  from "./Atoms/NowHappeningContent/NowHappeningContent";
+export { default as Facilitator }  from "./Atoms/Facilitator/Facilitator";
 
 /* MOLECULES */
 export { default as DepartmentNavigation } from "./Molecules/DepartmentNavigation/DepartmentNavigation";
