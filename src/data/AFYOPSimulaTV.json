@@ -5,28 +5,39 @@
     "content": [
       {
         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
+        "title": "Simula TV Teaser",
+        "description": "AFYOP Simula is back for another year!",
+        "caption": "This time, we bring AFYOP Simula TV on a new adventure. Know more about being an Atenean and explore the wonders of the Ateneo university life. Dito magsisimula ang iyong kuwento. #AFYOPSimula2022"
+      },
+      {
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
         "title": "Episode 1",
-        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+        "description": "Reacting to Cluster Assumptions Part 1",
+        "caption": "What are the different assumptions and stereotypes of your cluster? We invited some of your favorite AFYOP Facilitators from the Accountancy, Business and Management, Computer Studies, and the Humanities and Letters cluster to react and discuss the different assumptions people have on their respective clusters."
       },
       {
         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
         "title": "Episode 2",
-        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+        "description": "Reacting to Cluster Assumptions Part 2",
+        "captions": "What are the different assumptions and stereotypes of your cluster? We invited some of your favorite AFYOP Facilitators from the Natural Sciences and Mathematics, School of Engineering and Architecture, School of Education, School of Nursing and the Social Sciences cluster to react and discuss the different assumptions people have on their respective clusters."
       },
       {
         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
         "title": "Episode 3",
-        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+        "description": "Atenean Study Tips",
+        "caption": "Entering college is one of the most important undertakings one must face especially in your academic journey. As an Atenean, we champion academic excellence and grit on our academics. Listen to your AFYOP Facilitators JP, Fitz, Nur, Meng, Re and Niña as they share some tips on how they study and manage their academic responsibilities."
       },
       {
         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
         "title": "Episode 4",
-        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+        "description": "Atenean Slangs",
+        "caption": "Purging? Magis? Gaz? If these words are unfamiliar to you, they are just some of the slangs every true Atenean has to know. Join Zoreyn, Thalia, Ali, Cloe, and Leen as they explain each of these common Atenean slangs. These may be the words you will be using in the university soon!"
       },
       {
         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
         "title": "Episode 5",
-        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+        "description": "Atenean Favorite Spots in the University",
+        "caption": "We all miss going back to the campus and enjoying the university life. As we transition to a blended set-up, we will soon get to visit these places once again! Know more from your AFYOP Facilitators some of the favorite tambayan and iconic spots in the university that every Atenean loves to visit."
       }
     ]
   }

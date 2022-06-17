@@ -20,6 +20,7 @@ const AFYOPFeedSection = ({ variant, content }) => {
                       epThumbnail={episode.thumbnail}
                       epTitle={episode.title}
                       epDescription={episode.description}
+                      epCaption={episode.caption}
                     />
                   </React.Fragment>
                 );
