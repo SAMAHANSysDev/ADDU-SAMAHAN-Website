@@ -1,0 +1,82 @@
+import React from "react";
+import styles from "./AFYOPLanding.module.scss";
+import Image from "next/image";
+import { AFYOPLabel, AFYOPButton } from "../../ComponentIndex";
+import useMediaQuery from "@mui/material/useMediaQuery";
+
+const AFYOPLanding = ({ AFYOPLandingData }) => {
+  const isScreenWidth576px = useMediaQuery("(max-width:576px)");
+  return (
+    <div className={styles["background"]}>
+      <div className={styles["AFYOPLanding"] + " container"}>
+        <div className={styles["AFYOP-logo"]}>
+          <Image.default
+            src="https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FAFYOP%20Landing%2FAFYOP%20LOGO.png?alt=media&token=67dba0f5-1d41-4990-be1e-0617d37c4cb9"
+            layout="responsive"
+            objectFit="cover"
+            width="100"
+            height="100"
+            draggable={false}
+          ></Image.default>
+        </div>
+
+        <div className={styles["AFYOP-text"]}>
+          <Image.default
+            src="https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FAFYOP%20Landing%2FAFYOP%20TEXT.png?alt=media&token=255a914b-b298-4d97-a8a3-4fa96a598b60"
+            layout="responsive"
+            objectFit="cover"
+            width="100"
+            height="15"
+            draggable={false}
+          ></Image.default>
+        </div>
+
+        <div className={styles["AFYOP-simula-logo"]}>
+          <Image.default
+            src="https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FAFYOP%20Landing%2FSIMULA%20LOGO.png?alt=media&token=c0bc1d5b-defc-444e-a5ff-84901dfbe4c5"
+            layout="responsive"
+            objectFit="cover"
+            width="100"
+            height="38"
+            draggable={false}
+          ></Image.default>
+        </div>
+
+        <section className={styles["first-year-onboard-section"]}>
+          <AFYOPLabel
+            title="Ateneo First Year Onboarding Program"
+            variant="h5"
+          ></AFYOPLabel>
+          <p className={styles["first-year-onboard-section--date"]}>
+            JUNE 28 - JULY 1, 2022
+          </p>
+        </section>
+
+        <section className={styles["body-text-section"]}>
+          {AFYOPLandingData.bodyText.map((pargraph) => (
+            <p>{pargraph}</p>
+          ))}
+        </section>
+
+        <section className={styles["finders-section"]}>
+          <div className={styles["class-finder"]}>
+            <AFYOPButton
+              title="CLASS FINDER"
+              variant={isScreenWidth576px ? "h3" : "h1"}
+            />
+            <p>Find your AFYOP class assignments</p>
+          </div>
+          <div className={styles["faci-finder"]}>
+            <AFYOPButton
+              title="FACI FINDER"
+              variant={isScreenWidth576px ? "h3" : "h1"}
+            />
+            <p>Afterwards, connect with your assigned facilitators.</p>
+          </div>
+        </section>
+      </div>
+    </div>
+  );
+};
+
+export default AFYOPLanding;

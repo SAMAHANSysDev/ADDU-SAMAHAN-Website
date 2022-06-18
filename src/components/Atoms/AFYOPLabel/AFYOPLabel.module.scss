@@ -8,10 +8,9 @@
   text-align: center;
   padding: 1.25rem 2.5rem;
   background-color: $color--AFYOP-yellow;
-
   border-radius: 100px;
   color: $color--AFYOP-brown;
-  white-space: nowrap;
+  // white-space: nowrap;
 
   &--default {
     font-size: $h3FontSize;
@@ -26,5 +25,6 @@
   &--h5 {
     font-size: $h5FontSize;
     font-weight: $h1FontWeight;
+    padding: 0.625rem 2.5rem;
   }
 }

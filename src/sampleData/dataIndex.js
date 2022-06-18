@@ -18,3 +18,4 @@ export { default as AFYOPSimulaTVSample } from "./AFYOPSimulaTVSample.json";
 export { default as CFData } from "./classFinderContent.json";
 export { default as NHData } from "./nowHappeningContent.json";
 export { default as FaciData } from "./FaciFinder.json";
+export { default as ALandingData } from "./AFYOPLanding.json";

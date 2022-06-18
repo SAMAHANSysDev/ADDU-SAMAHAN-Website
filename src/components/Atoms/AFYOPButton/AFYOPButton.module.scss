@@ -11,9 +11,7 @@
 
   transition: transform 0.3s ease-in-out;
 
-  &--default:hover,
-  &--h1:hover,
-  &--h5-white:hover {
+  &:hover {
     transform: translateY(-10px);
   }
 
@@ -27,6 +25,12 @@
     font-size: $h1FontSize;
     font-weight: 900;
     padding: 1.25rem 2.5rem;
+  }
+
+  &--h3 {
+    font-size: $h3FontSize;
+    font-weight: $h3FontWeight;
+    padding: 0.938rem 2.5rem;
   }
 
   &--h5-white {

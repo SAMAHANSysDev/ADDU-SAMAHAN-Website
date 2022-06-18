@@ -15,9 +15,9 @@ export { default as InitiativeOfficeDescription } from "./Atoms/InitiativeOffice
 export { default as StretchedButton } from "./Atoms/StretchedButton/StretchedButton";
 export { default as AFYOPButton } from "./Atoms/AFYOPButton/AFYOPButton";
 export { default as AFYOPLabel } from "./Atoms/AFYOPLabel/AFYOPLabel";
-export { default as ClassFinderSteps } from "./Atoms/ClassFinderSteps/ClassFinderSteps"; 
-export { default as NowHappeningContent }  from "./Atoms/NowHappeningContent/NowHappeningContent";
-export { default as Facilitator }  from "./Atoms/Facilitator/Facilitator";
+export { default as ClassFinderSteps } from "./Atoms/ClassFinderSteps/ClassFinderSteps";
+export { default as NowHappeningContent } from "./Atoms/NowHappeningContent/NowHappeningContent";
+export { default as Facilitator } from "./Atoms/Facilitator/Facilitator";
 
 /* MOLECULES */
 export { default as DepartmentNavigation } from "./Molecules/DepartmentNavigation/DepartmentNavigation";
@@ -47,6 +47,7 @@ export { default as FAQSection } from "./Organisms/FAQSection/FAQSection";
 export { default as Developers } from "./Organisms/Developers/Developers";
 export { default as AfyopFourthSection } from "./Organisms/AfyopFourthSection/AfyopFourthSection";
 export { default as AFYOPFeedSection } from "./Organisms/AFYOPFeedSection/AFYOPFeedSection";
+export { default as AFYOPLanding } from "./Organisms/AFYOPLanding/AFYOPLanding";
 
 /* TEMPLATES */
 export { default as AboutTemplate } from "./Template/AboutTemplate/AboutTemplate";
