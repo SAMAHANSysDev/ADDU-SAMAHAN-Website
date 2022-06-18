@@ -10,53 +10,60 @@
 }
 
 .outerBox {
-  background-color: $color--primary;
   display: flex;
   flex-direction: column;
-  padding-bottom: 4rem;
+  padding: 4rem 0;
+  align-items: center;
+  justify-content: center;
+  height: fit-content;
 }
 
 .tabStyle {
   color: black;
 }
-
-.outerTab {
-  width: fit-content;
-  margin-left: 60px;
-}
 .header {
   text-align: center;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  // padding-top: 4rem;
+  // padding-bottom: 4rem;
   color: #ffff;
   font-weight: $h1FontWeight;
   font-size: 72px;
-  padding-left: 10rem;
+  // padding-left: 10rem;
 }
 .six {
   color: aquamarine;
 }
 
 .background {
-  position: relative;
+  // display: flex;
+  // align-items: center;
+  background-color: $color--primary;
+}
+
+.vertical-contents {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
 }
 
 @media (max-width: 992px) {
-  .background {
-    flex-wrap: wrap;
+  .header {
+    font-weight: $h1FontWeight;
+    font-size: 5rem;
+  }
+  .vertical-contents {
     flex-direction: column;
   }
-  .header {
-    text-align: center;
-    padding-bottom: 2rem;
-    color: #ffff;
-    font-weight: $h1FontWeight;
-    font-size: 2.625rem;
-    padding-left: 6rem;
-    flex-wrap: wrap;
+
+  .outerBox {
+    padding: 4rem 2rem;
   }
-  .headerContainer {
-    flex-wrap: wrap;
-    display: flex;
+}
+
+@media (max-width: 560px) {
+  .header {
+    font-weight: $h1FontWeight;
+    font-size: 3rem;
   }
 }

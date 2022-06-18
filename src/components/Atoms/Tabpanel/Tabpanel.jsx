@@ -21,9 +21,10 @@ export default function TabPanel(props) {
           <div className={styles["box"]}>
             <Flip bottom>
               <div className={styles["subHeading"]}>
-              <h2 >{subHeading}</h2>
-              
-              <Typography variant = "h6" color = "common.white">{children}</Typography>
+                <h2>{subHeading}</h2>
+              </div>
+              <div className={styles["contentContainer"]}>
+                <h1 className={styles["text-content"]}>{children}</h1>
               </div>
             </Flip>
           </div>

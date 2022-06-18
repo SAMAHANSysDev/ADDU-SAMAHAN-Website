@@ -1,38 +1,54 @@
 @import "../../../../styles/variables.scss";
 
-.content{
-    text-align: center;
-    justify-content: left;
-    color: $color--white;
-    padding-top: 3rem;
-    
+.content {
+  text-align: center;
+  justify-content: left;
+  color: $color--white;
+  //   padding-top: 3rem;
 }
 
-.subHeading{
-    text-align: center;
-    color: $color--white;
-    font-weight: bold;
-    padding-right: 3.125rem;
-    flex-wrap: wrap;
-    
+.subHeading {
+  text-align: center;
+  color: $color--white;
+  font-weight: bold;
 }
 
-.innerBox{
-    background-color: $color--primary;
-    width: 100%;
+.innerBox {
+  background-color: $color--primary;
+  width: 100%;
+  margin-top: 2rem;
+  position: relative;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  //   justify-content: "left";
+  //   display: "inline-block";
+}
+
+.contentContainer {
+  flex-wrap: wrap;
+  padding: 0 3rem;
+}
+
+.text-content {
+  font-size: $bodyFontSize;
+  font-weight: $bodyFontWeight;
+  color: $color--white;
+  line-height: 1.5rem;
+  text-align: justify;
+  text-indent: 5rem;
+  max-width: 50rem;
+  width: 100%;
+}
+
+@media (max-width: 992px) {
+  .contentContainer {
     padding: 0;
-    position: relative;
-}
-
-.box{
-    text-align: center;
-    width: 100%;
-    justify-content: 'left';
-     display: 'inline-block';
-     
-}
-
-.contentContainer{
-    display: flex;
-    justify-content: center;
+  }
 }

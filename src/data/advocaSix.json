@@ -1,57 +1,40 @@
 {
-    "title": "Advocasix",
-    "items": [
-        {
-            "heading" : "AdvocaSix",
-            "idx": 1,
-            "val" : 1,
-            "subHeading": "",
-            "desc" : "The Samahan ng mga Mag-aaral ng Pamantasan ng Ateneo de Davao, guided by its Jesuit, Filipino, and Mindanaoan values, aspires to be an autonomous student government that is genuinely present in championing here and now its chosen six pillar advocacies. We are:"
-
-        },
-        {
-            "heading" : "Good Governance",
-            "idx": 2,
-            "val" : 2,
-            "subHeading": "#HereForGoodGovernance",
-            "desc" : " Governance The SAMAHAN advocates for a maximized citizen engagement inside the university and beyond. It puts premium emphasis on our collective role in nation-building by providing spaces for perceptible discourses and stronger community linkages to thrive. As we chart the direction of our story for the next three to six years, now is the perfect chance to lobby for more programs anchored on peacebuilding and rural development, and promote the welfare of Mindanao through the Mindanao Youth Agenda. In our continuous effort to demand transparency and accountability from our country leaders, the SAMAHAN shall here and now be socially responsible, politically responsive to the emergent needs of the public, and grounded on the rule of law. "
-            
-        },
-        {
-            "heading" : "Holistic Health",
-            "idx": 3,
-            "val" : 3,
-            "subHeading": "#HereForHolisticHealth",
-            "desc" : "Propelled by our Ignatian ideals that prioritizes holistic formation, the SAMAHAN braves itself in spearheading programs that lead to physical, mental, and spiritual growth. While the world may have been stirred by the impending threat of the novel Coronavirus, leaving us in a standstill, we shall here and now create avenues for growth among Ateneans in restoring the vibrant university life in service of a bigger community outside the walls of the Ateneo, all while developing Ateneans imbued with physical vitality, mental fortitude, spiritual growth, and sexual integration. Here and now, every gift and talent is celebrated — all for the greater purpose of becoming better men and women for others, for Mindanao, and for the country. "
-        },
-        {
-            "heading" : "Youth Empowerment",
-            "idx": 4,
-            "val" : 4,
-            "subHeading": "#HereForYouthEmpowerment",
-            "desc" : "Tapping into the potential power of the youth to empower the future presupposes making progressive changes and building bridges for collaboration that positively impact our communities. The SAMAHAN recognizes here and now the innate talent of the youth in creating a more humane, accepting society who, by their vitality and visions that deviate from the traditional norms, offer sustainable movements and campaigns that seek to promote civic consciousness as a shared responsibility. In this light, the SAMAHAN shall hereby provide opportunities for character formation, skills development, and capacity-building that the youth are no longer just the hope of the future, but also, in face of overwhelming odds, the leaders of the now. "
-        },
-        {
-            "heading" : "Quality Education",
-            "idx": 5,
-            "val" : 5,
-            "subHeading": "#HereForQualityEducation",
-            "desc" : "The paradigm shift which compelled us to go fully online for two years has unfortunately compromised the quality and accessibility of educational opportunities. With renewed hope, however, we here and now, slowly yet surely, reopen the gates of our campus through blended learning. With this, the SAMAHAN takes in stride the challenges of the online setup in initiating projects that champion the right of every child to quality and inclusive education through the power of storytelling and closely-knitted community partnerships. Here and now, inclusivity and quality in education goes beyond the concentration on curriculums and teaching strategies, it is, in all angles, turning towards maximized learning and decreased barriers to equally engage in the classroom premise."
-        },
-        {
-            "heading" : "Climate Action",
-            "idx": 6,
-            "val" : 6,
-            "subHeading": "#HereForClimateAction",
-            "desc" : "The increasing urgency of climate change requires a type of SAMAHAN leadership that acknowledges it as a multi-layered, all-encompassing issue — that covers the scientific, economic, and political factors that contribute to exigency.  In response, the SAMAHAN shall launch environmental campaigns and propose university-wide legislations, in fulfillment of our eco-mmitment, that will provide classes, clubs, and organizations inside and outside the institution to participate in our clamor for climate justice and ecological sustainability. It is through our dynamic involvement in protection of our common home that we also safeguard our other rights to a fulfilling and meaningful life here and now. "
-        },
-        {
-            "heading" : "SOGIE",
-            "idx": 7,
-            "val" : 7,
-            "subHeading": "#HereForSOGIE",
-            "desc" : "The Ateneo is a cradle to people of various backgrounds. In our mission to promote inclusivity and coexistence, the SAMAHAN shall take a proactive stance in initiating discourses on Sexual Orientation, Gender Identity and Expression [SOGIE], and calling for the hopeful approval of the SOGIE or Anti-Discrimination Bill [ADB]. Now more than ever is the time to maneuver a long-term proposition for a SOGIE-specific gender sensitivity education and information dissemination. We aim to cultivate an environment that recognizes LGBTQ+ people as equals and ensures that their rights are protected in the same way that everyone else's are, notwithstanding their sexual orientation. Here and now, the SAMAHAN, in partnership with university offices, shall create spaces where every Atenean, in whatever field of discipline or extra-curricular interests they may find themselves in, may continue to be in pursuit of whatever sets their heart on fire — student leadership, culture and the arts, advocacy works, the academe. "
-        }
-        
-    ]
+  "title": "Advocasix",
+  "items": [
+    {
+      "heading": "AdvocaSix",
+      "subHeading": "#Preface",
+      "desc": "The Samahan ng mga Mag-aaral ng Pamantasan ng Ateneo de Davao, guided by its Jesuit, Filipino, and Mindanaoan values, aspires to be an autonomous student government that is genuinely present in championing here and now its chosen six pillar advocacies."
+    },
+    {
+      "heading": "Good Governance",
+      "subHeading": "#HereForGoodGovernance",
+      "desc": " Governance The SAMAHAN advocates for a maximized citizen engagement inside the university and beyond. It puts premium emphasis on our collective role in nation-building by providing spaces for perceptible discourses and stronger community linkages to thrive. As we chart the direction of our story for the next three to six years, now is the perfect chance to lobby for more programs anchored on peacebuilding and rural development, and promote the welfare of Mindanao through the Mindanao Youth Agenda. In our continuous effort to demand transparency and accountability from our country leaders, the SAMAHAN shall here and now be socially responsible, politically responsive to the emergent needs of the public, and grounded on the rule of law. "
+    },
+    {
+      "heading": "Holistic Health",
+      "subHeading": "#HereForHolisticHealth",
+      "desc": "Propelled by our Ignatian ideals that prioritizes holistic formation, the SAMAHAN braves itself in spearheading programs that lead to physical, mental, and spiritual growth. While the world may have been stirred by the impending threat of the novel Coronavirus, leaving us in a standstill, we shall here and now create avenues for growth among Ateneans in restoring the vibrant university life in service of a bigger community outside the walls of the Ateneo, all while developing Ateneans imbued with physical vitality, mental fortitude, spiritual growth, and sexual integration. Here and now, every gift and talent is celebrated — all for the greater purpose of becoming better men and women for others, for Mindanao, and for the country. "
+    },
+    {
+      "heading": "Youth Empowerment",
+      "subHeading": "#HereForYouthEmpowerment",
+      "desc": "Tapping into the potential power of the youth to empower the future presupposes making progressive changes and building bridges for collaboration that positively impact our communities. The SAMAHAN recognizes here and now the innate talent of the youth in creating a more humane, accepting society who, by their vitality and visions that deviate from the traditional norms, offer sustainable movements and campaigns that seek to promote civic consciousness as a shared responsibility. In this light, the SAMAHAN shall hereby provide opportunities for character formation, skills development, and capacity-building that the youth are no longer just the hope of the future, but also, in face of overwhelming odds, the leaders of the now. "
+    },
+    {
+      "heading": "Quality Education",
+      "subHeading": "#HereForQualityEducation",
+      "desc": "The paradigm shift which compelled us to go fully online for two years has unfortunately compromised the quality and accessibility of educational opportunities. With renewed hope, however, we here and now, slowly yet surely, reopen the gates of our campus through blended learning. With this, the SAMAHAN takes in stride the challenges of the online setup in initiating projects that champion the right of every child to quality and inclusive education through the power of storytelling and closely-knitted community partnerships. Here and now, inclusivity and quality in education goes beyond the concentration on curriculums and teaching strategies, it is, in all angles, turning towards maximized learning and decreased barriers to equally engage in the classroom premise."
+    },
+    {
+      "heading": "Climate Action",
+      "subHeading": "#HereForClimateAction",
+      "desc": "The increasing urgency of climate change requires a type of SAMAHAN leadership that acknowledges it as a multi-layered, all-encompassing issue — that covers the scientific, economic, and political factors that contribute to exigency.  In response, the SAMAHAN shall launch environmental campaigns and propose university-wide legislations, in fulfillment of our eco-mmitment, that will provide classes, clubs, and organizations inside and outside the institution to participate in our clamor for climate justice and ecological sustainability. It is through our dynamic involvement in protection of our common home that we also safeguard our other rights to a fulfilling and meaningful life here and now. "
+    },
+    {
+      "heading": "SOGIE",
+      "subHeading": "#HereForSOGIE",
+      "desc": "The Ateneo is a cradle to people of various backgrounds. In our mission to promote inclusivity and coexistence, the SAMAHAN shall take a proactive stance in initiating discourses on Sexual Orientation, Gender Identity and Expression [SOGIE], and calling for the hopeful approval of the SOGIE or Anti-Discrimination Bill [ADB]. Now more than ever is the time to maneuver a long-term proposition for a SOGIE-specific gender sensitivity education and information dissemination. We aim to cultivate an environment that recognizes LGBTQ+ people as equals and ensures that their rights are protected in the same way that everyone else's are, notwithstanding their sexual orientation. Here and now, the SAMAHAN, in partnership with university offices, shall create spaces where every Atenean, in whatever field of discipline or extra-curricular interests they may find themselves in, may continue to be in pursuit of whatever sets their heart on fire — student leadership, culture and the arts, advocacy works, the academe. "
+    }
+  ]
 }

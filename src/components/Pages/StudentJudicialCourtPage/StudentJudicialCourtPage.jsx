@@ -1,10 +1,15 @@
 import React from "react";
 import { StudentJudicialCourtTemplate } from "../../ComponentIndex";
+import { sjcInData } from "../../../data/dataIndex";
 
-const StudentJudicialCourt = () => {
+const StudentJudicialCourt = ({ id, initialRoute }) => {
   return (
     <>
-      <StudentJudicialCourtTemplate />
+      <StudentJudicialCourtTemplate
+        id={id}
+        data={sjcInData}
+        initialRoute={initialRoute}
+      />
     </>
   );
 };

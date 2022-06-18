@@ -11,7 +11,7 @@ const Office = ({ officeTitle, officers }) => {
         </div>
         <div className={styles["officersContainer"]}>
           {officers.map((officer, index) => (
-            <div className={styles["officerContainer"]}>
+            <div key={index} className={styles["officerContainer"]}>
               <Officer
                 key={index}
                 name={officer.name}

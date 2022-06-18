@@ -4,7 +4,7 @@ import { StudentJudicialCourtPage } from "../../src/components/ComponentIndex";
 const student_judicial_court = () => {
   return (
     <>
-      <StudentJudicialCourtPage />
+      <StudentJudicialCourtPage id="" initialRoute="/student_judicial_court" />
     </>
   );
 };

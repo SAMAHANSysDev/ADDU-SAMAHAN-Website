@@ -11,7 +11,6 @@ const SummaryPage = () => {
           <iframe
             width="69%"
             height="2337x"
-            frameborder="0"
             scrolling="no"
             src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRopiweIMRKkRiGglXv3PmlnKI5FhwgmZ9zyfAwfSRqaLOcZ5ihs64gOGgm00HWWlTNOJMGH8jCTXGM/pubhtml?gid=1677787958&amp;single=true&amp;widget=true&amp;headers=false&wdHideGridlines=True&range=A1:M107"
           ></iframe>

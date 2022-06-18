@@ -23,10 +23,9 @@ const Carousel = ({ data }) => {
     <div>
       <div className={styles["sliderContainer"]}>
         <Slider {...settings}>
-          {data.content.map((item) => {
-            console.log(item);
+          {data.content.map((item, index) => {
             return (
-              <div className={styles["slick"]}>
+              <div key={index} className={styles["slick"]}>
                 <CarouselContent imgSrc={item} />
               </div>
             );

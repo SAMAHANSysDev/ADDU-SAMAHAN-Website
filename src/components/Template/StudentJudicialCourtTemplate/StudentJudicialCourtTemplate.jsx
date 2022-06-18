@@ -1,10 +1,14 @@
 import React from "react";
-import { Navigation, Footer } from "../../ComponentIndex";
-const StudentJudicialCourtTemplate = () => {
+import { Navigation, Footer, OfficeInitiative } from "../../ComponentIndex";
+import styles from "./StudentJudicialCourtTemplate.module.scss";
+
+const StudentJudicialCourtTemplate = ({ id, data, initialRoute }) => {
   return (
     <>
-      <Navigation />
-      <div>StudentJudicialCourtTemplate</div>
+      <div className={styles["student-judicial-court"]}>
+        <Navigation />
+        <OfficeInitiative id={id} data={data} initialRoute={initialRoute} />
+      </div>
       <Footer />
     </>
   );

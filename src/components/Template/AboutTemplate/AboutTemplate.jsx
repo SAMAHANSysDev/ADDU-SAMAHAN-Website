@@ -7,12 +7,18 @@ import {
   Department,
   Navigation,
   Footer,
-  
 } from "../../ComponentIndex";
 import styles from "./AboutTemplate.module.scss";
 import { Modal, Slide, Backdrop } from "@mui/material";
 
-const AboutTemplate = ({ scbData, sdData, abtData1, abtData2, aData, carouselPics }) => {
+const AboutTemplate = ({
+  scbData,
+  sdData,
+  abtData1,
+  abtData2,
+  aData,
+  carouselPics,
+}) => {
   const [openCentralBoard, setOpenCentralBoard] = useState(false);
   const handleOpenCentralBoard = () => setOpenCentralBoard(true);
   const handleCloseCentralBoard = () => setOpenCentralBoard(false);
@@ -25,7 +31,7 @@ const AboutTemplate = ({ scbData, sdData, abtData1, abtData2, aData, carouselPic
     <>
       <Navigation />
       <div className={"container" + styles["section"]}>
-        <AboutFirstSection data={abtData1} carouselPics = {carouselPics} />
+        <AboutFirstSection data={abtData1} carouselPics={carouselPics} />
       </div>
       <div className={"container" + styles["secondSection"]}>
         <AboutSecondSection data={abtData2} />

@@ -1,0 +1,42 @@
+{
+  "mainTitle": "JUDICIAL COURT",
+  "subTitle": "STUDENT",
+  "initiatives": [
+    {
+      "id": "initiative_1",
+      "initiativeNum": "Initiative 1",
+      "title": "ABOUT THE COURT",
+      "imgBgSrc": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FStudent%20Judicial%20Court%2FAbout%20the%20Court.png?alt=media&token=bb6bd16c-a4ba-402d-b0e0-ee7720c7b3b1",
+      "contents": [
+        {
+          "type": "paragraph",
+          "contents": ""
+        }
+      ]
+    },
+    {
+      "id": "initiative_2",
+      "initiativeNum": "Initiative 2",
+      "title": "SAMAHAN MAP",
+      "imgBgSrc": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FStudent%20Judicial%20Court%2FSamahan%20Map.png?alt=media&token=a3c8b8dd-bc90-41e5-962c-ba83199534dd",
+      "contents": [
+        {
+          "type": "paragraph",
+          "contents": ""
+        }
+      ]
+    },
+    {
+      "id": "initiative_3",
+      "initiativeNum": "Initiative 3",
+      "title": "STUDENT JUDICIAL COURT ARCHIVES",
+      "imgBgSrc": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FStudent%20Judicial%20Court%2FStudent%20Judicial%20Court%20Archives.png?alt=media&token=4fcf4b1f-1490-43e4-b68c-308597bff880",
+      "contents": [
+        {
+          "type": "paragraph",
+          "contents": ""
+        }
+      ]
+    }
+  ]
+}
