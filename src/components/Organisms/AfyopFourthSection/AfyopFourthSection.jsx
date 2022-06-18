@@ -14,14 +14,13 @@ const AfyopFourthSection = ({variant, content, content2}) => {
             <div className={styles["SimulaTVEpisodes"]}>
               {content.map((episode) => {
                 return (
-                  <>
+                  <React.Fragment key={episode.title}>
                     <ClassFinderSteps
-                      key={episode.title}
                       epThumbnail={episode.thumbnail}
                       epTitle={episode.title}
                       epDescription={episode.description}
                     />
-                  </>
+                    </React.Fragment>                    
                 );
               })}
             </div>
@@ -46,14 +45,13 @@ const AfyopFourthSection = ({variant, content, content2}) => {
             <div className={styles["ClassFinderPics"]}>
               {content.map((step) => {
                 return (
-                  <>
+                  <React.Fragment key={step.title}>
                     <ClassFinderSteps
-                      key={step.title}
                       epThumbnail={step.pic}
                       epTitle={step.title}
                       epDescription={step.text}
                     />
-                  </>
+                  </React.Fragment>
                 );
               })}
             </div>
@@ -69,15 +67,14 @@ const AfyopFourthSection = ({variant, content, content2}) => {
         <div className={styles["ClassFinderPics"]}>
                 {content2.map((item) => {
                   return (
-                    <>
+                    <React.Fragment key={item.event}>
                       <NowHappeningContent
-                        key={item.event}
                         time={item.DateTime}
                         event={item.event}
                         platform={item.platform}
                         description={item.desc}
                       />
-                    </>
+                    </React.Fragment>
                   );
                 })}
               </div>
