@@ -1,7 +1,12 @@
 @import "../../../../styles/variables.scss";
+@import '../../../data/imageSrc.module.scss';
 
 .AFYOPFeedSection {
-  background-image: linear-gradient($color--AFYOP-pink, $color--AFYOP-purple);
+  position: relative;
+  background: url($AFYOPGazebo), linear-gradient($color--AFYOP-pink, $color--AFYOP-purple);
+  background-repeat: no-repeat;
+  object-fit: contain;
+  background-position: center;
   padding-block: 4rem;
 
   &__content {

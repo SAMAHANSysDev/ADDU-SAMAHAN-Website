@@ -1,9 +1,10 @@
-import { useState, useEffect } from "react";
+import React from "react";
 import Image from "next/image";
 import { Footer, Navigation } from "../../ComponentIndex";
 import Fade from "react-reveal/Fade";
 import styles from "./LandingPage.module.scss";
 import { image } from "../../../data/dataIndex";
+import Link from 'next/link'
 
 const Landing = () => {
   return (
@@ -61,6 +62,33 @@ const Landing = () => {
           </div>
         </div>
       </section>
+      <div className={styles["SimulaNotice"]}>
+        <div className="container">
+          <h1>Psst! A freshie?</h1>
+          <p>Scroll down!</p>
+        </div>
+      </div>
+      <Link href="/afyop">
+        <section className={styles["SimulaLanding"]}>
+          <div className={styles["background"]}>
+            <Image src={"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaLandingBG.png?alt=media&token=e3a95bae-5196-4e80-9240-f255a0d68881"} 
+              layout="fill"
+              objectFit="cover"
+              objectPosition="top"
+              alt="Simula Webpage Background"
+            />
+          </div>
+          <div className={styles["SimulaLogo"]}>
+            <Image src={"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaLogoType--white.png?alt=media&token=ddf9a88f-1f38-41a5-8a39-0ae2a5be221f"} 
+              layout="fill"
+              objectFit="contain"
+              objectPosition="center"
+              alt="Simula Logo"
+            />
+          </div>
+          <h1>OPEN THE PORTAL</h1>
+        </section>
+      </Link>
       <Footer />
     </>
   );
