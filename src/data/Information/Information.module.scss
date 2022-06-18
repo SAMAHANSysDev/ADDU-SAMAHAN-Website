@@ -6,6 +6,8 @@
 .Appeals,
 .Shifting,
 .LeaveOfAbsences {
+  word-wrap: break-word;
+
   h1 {
     text-align: center;
     font-size: $h3FontSize;
@@ -61,5 +63,35 @@
 
   .bold {
     font-weight: 700;
+  }
+}
+
+@media (max-width: 576px) {
+  .FirstSemesterSchedule,
+  .EnrollmentAndPayment,
+  .ContactDetails,
+  .Appeals,
+  .Shifting,
+  .LeaveOfAbsences {
+    h1 {
+      font-size: $h4FontSize;
+      padding: 1rem 2rem;
+    }
+
+    ol {
+      padding-left: 1.5rem;
+    }
+
+    ol ul {
+      padding-left: 1.5rem;
+    }
+
+    .indent {
+      padding-left: 1rem;
+    }
+
+    .indent-emphasize {
+      padding-left: 1rem;
+    }
   }
 }

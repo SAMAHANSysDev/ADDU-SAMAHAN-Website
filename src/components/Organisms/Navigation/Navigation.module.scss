@@ -126,7 +126,7 @@ $nav-list-2--position: $nav-links-1--ypadding + 4.5rem; // FOR POSITIONING DROPD
     display: none;
   }
 
-  .samahan_logo {
+  .samahan_logo, .simula_logo {
     /* CLEARER IMAGE */
     image-rendering: crisp-edges;
     image-rendering: -moz-crisp-edges; /* Firefox */
@@ -136,8 +136,18 @@ $nav-list-2--position: $nav-links-1--ypadding + 4.5rem; // FOR POSITIONING DROPD
     cursor: pointer;
   }
 
+  .simula_logo {
+    padding-block: 0 !important;
+    padding-left: 1.5rem !important;
+  }
+
   /* HIDE HELP PORTAL LI VERSION */
   li[id="li_help_portal"] {
+    display: none;
+  }
+
+  /* HIDE AFYOP - SIMULA LI VERSION */
+  li[id="li_afyop"] {
     display: none;
   }
 }
@@ -156,6 +166,23 @@ $nav-list-2--position: $nav-links-1--ypadding + 4.5rem; // FOR POSITIONING DROPD
 
   &:hover {
     background-color: $color--nav-bg;
+  }
+}
+@media (min-width: 992px) {
+  .drop_down {
+    &:hover {
+      svg {
+        transform: rotate(180deg);
+
+        transition: transform 0.3s ease-in-out;
+      }
+    }
+
+    svg {
+      transform: rotate(0deg);
+      transition: transform 0.3s ease-in-out;
+      cursor: pointer;
+    }
   }
 }
 
@@ -276,10 +303,20 @@ $nav-list-2--position: $nav-links-1--ypadding + 4.5rem; // FOR POSITIONING DROPD
       display: none;
     }
 
-  /* SHOW HELP PORTAL LI VERSION */
-  li[id="li_help_portal"] {
-    display: block;
-  }
+    /* SHOW HELP PORTAL LI VERSION */
+    li[id="li_help_portal"] {
+      display: block;
+    }
+
+    /* HIDE SIMULA LOGO */
+    .simula_logo {
+      display: none;
+    }
+
+    /* SHOW AFYOP - SIMULA LI VERSION */
+    li[id="li_afyop"] {
+      display: block;
+    }
   }
 }
 

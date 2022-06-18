@@ -1,6 +1,7 @@
 {
   "mainTitle": "VICE PRESIDENT",
   "subTitle": "OFFICE OF THE",
+  "description": "The OVP aims to supervise the internal affairs of the SAMAHAN Central Board and lead the Student Assembly.",
   "initiatives": [
     {
       "id": "initiative_1",
@@ -14,7 +15,7 @@
         },
         {
           "type": "hyperlink",
-          "link": "https://drive.google.com/drive/folders/1WlZnfqweut__sw4BqGV8PF0jJYdfFdAE",
+          "link": "https://drive.google.com/drive/folders/1NmXwA1x8wRmxuTiPjzr0q2ypohEIbV05",
           "contents": "Click here to view the Archives"
         }
       ]

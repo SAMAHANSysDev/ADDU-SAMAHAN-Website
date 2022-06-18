@@ -271,6 +271,139 @@
           "contents": "A student may officially withdraw his enrollment within six weeks from the start of the semester or within two weeks from the start of summer school. No request for withdrawal will be entertained thereafter.  For now, this may be done by sending a request to admissions@addu.edu.ph (for the first years and, new students) and registrar@addu.edu.ph (for old students)."
         }
       ]
+    },
+    {
+      "FAQNum": "FAQ17",
+      "Question": [
+        {
+          "type": "paragraph bold",
+          "contents": "What are the financial implications of withdrawal?"
+        }
+      ],
+      "Answer": [
+        {
+          "type": "paragraph",
+          "contents": "The University may withhold or charge the following amounts for the withdrawal, varying on the period when the same is made."
+        },
+        {
+          "type":"table",
+          "contents":[
+            {
+              "type":"table",
+              "contents":[{
+                "type":"table row",
+                "contents":[
+                  {
+                    "type":"table header",
+                    "colspan":1,
+                    "contents":"Enrollment Period"
+                  },
+                  {
+                    "type":"table header",
+                    "colspan":1,
+                    "contents":"P250.00"
+                  }
+                ]
+              },
+              {
+                "type":"table row",
+                "contents":[
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"1st Week of classes "
+                  },
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"10% of Total Assessment"
+                  }
+                ]
+              },
+              {
+                "type":"table row",
+                "contents":[
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"2nd and 3rd Week of classes "
+                  },
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"25% of Total Assessment"
+                  }
+                ]
+              },
+              {
+                "type":"table row",
+                "contents":[
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"4th and 5th Week of classes "
+                  },
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"50% of Total Assessment"
+                  }
+                ]
+              },
+              {
+                "type":"table row",
+                "contents":[
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"6th Week of classes "
+                  },
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"75% of Total Assessment"
+                  }
+                ]
+              },
+              {
+                "type":"table row",
+                "contents":[
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"7th Week of classes "
+                  },
+                  {
+                    "type":"table cell",
+                    "colspan":1,
+                    "contents":"100% of Total Assessment"
+                  }
+                ]
+              },
+              {
+                "type":"paragraph",
+                "contents":"As the withdrawal charge changes according to the period when it is settled or paid, this must be paid right away upon request for withdrawal to avoid the escalating charges."
+              }
+             ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "FAQNum": "FAQ18",
+      "Question": [
+        {
+          "type": "paragraph bold",
+          "contents": "Can a transferee’s previously taken subject/s be credited in AdDU?"
+        }
+      ],
+      "Answer": [
+        {
+          "type": "paragraph",
+          "contents": "It will depend on the subject and respective policy of the student’s desired program department. The student can contact his/her desired program’s department or the Registrar’s Office to inquire on the creditability of the previously taken subject/s."
+        }
+      ]
     }
   ]
 }

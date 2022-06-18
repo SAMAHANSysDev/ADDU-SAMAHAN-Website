@@ -1,4 +1,4 @@
-import React from "react";
+import { useState, useEffect } from "react";
 import Image from "next/image";
 import { Footer, Navigation } from "../../ComponentIndex";
 import Fade from "react-reveal/Fade";

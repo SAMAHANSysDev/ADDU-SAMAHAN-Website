@@ -13,4 +13,21 @@ const InitiativeNum = () => {
   );
 };
 
+export async function getStaticProps(context) {
+  return {
+    props: {}, // will be passed to the page component as props
+  };
+}
+
+export async function getStaticPaths() {
+  return {
+    paths: [
+      { params: { InitiativeNum: "initiative_1" } },
+      { params: { InitiativeNum: "initiative_2" } },
+      { params: { InitiativeNum: "initiative_3" } },
+    ],
+    fallback: false,
+  };
+}
+
 export default InitiativeNum;

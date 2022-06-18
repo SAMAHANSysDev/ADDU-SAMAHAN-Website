@@ -1,0 +1,19 @@
+@import "../../../../styles/variables.scss";
+
+.component-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: $color--white;
+  padding: 3rem 0;
+
+  background-color: $color--yellow;
+}
+
+.description {
+  font-size: $bodyFontSize;
+  font-weight: $bodyFontSize;
+  padding: 0 3rem;
+}

@@ -7,16 +7,16 @@ import facebookIcon from "@iconify/icons-mdi/facebook";
 import twitterIcon from "@iconify/icons-mdi/twitter";
 import githubIcon from "@iconify/icons-bi/github";
 
-const SysDevSocials = ({ socials }) => {
+const SysDevSocials = ({ socials, color = "#2d419d" }) => {
   function renderIcon(site) {
     if (site === "github")
-      return <Icon icon={githubIcon} color="#2d419d" height="28" />;
+      return <Icon icon={githubIcon} color={color} height="28" />;
     else if (site === "facebook")
-      return <Icon icon={facebookIcon} color="#2d419d" height="28" />;
+      return <Icon icon={facebookIcon} color={color} height="28" />;
     else if (site === "instagram")
-      return <Icon icon={instagramIcon} color="#2d419d" height="28" />;
+      return <Icon icon={instagramIcon} color={color} height="28" />;
     else if (site === "twitter")
-      return <Icon icon={twitterIcon} color="#2d419d" height="28" />;
+      return <Icon icon={twitterIcon} color={color} height="28" />;
   }
 
   return (

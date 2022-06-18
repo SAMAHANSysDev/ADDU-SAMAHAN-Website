@@ -18,10 +18,11 @@ const VerticalTabs = ({ data }) => {
     <div className={styles["background"]}>
       <div className={styles["outerBox"] + " container"}>
         <Bounce>
-          <div className={styles["headerContainer"]}>
-            <h1 className={styles["header"]}>
-              ADVOCA<span>SIX</span>
-            </h1>
+          <h1 className={styles["header"]}>
+            ADVOCA<span className={styles["six"]}>SIX</span>
+          </h1>
+          <div className={styles["description-container"]}>
+            <h1 className={styles["description"]}>{data.description}</h1>
           </div>
         </Bounce>
         <Slide bottom>
@@ -33,13 +34,20 @@ const VerticalTabs = ({ data }) => {
                 value={value}
                 onChange={handleChange}
                 aria-label="Vertical tabs example"
-                indicatorColor="secondary"
+                textColor="primary"
+                TabIndicatorProps={{
+                  style: { background: "#f0ae02" },
+                }}
                 sx={{ borderRight: 2, borderColor: "divider" }}
               >
                 {data.items.map((item, index) => (
                   <Tab
                     key={index}
-                    label={item.heading}
+                    label={
+                      <span className={styles["tab-labels"]}>
+                        {item.heading}
+                      </span>
+                    }
                     sx={{ color: "white" }}
                   />
                 ))}

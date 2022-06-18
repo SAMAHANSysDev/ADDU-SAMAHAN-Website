@@ -1,0 +1,29 @@
+{   
+    "content":{
+        "title":"CLASS FINDER",
+        "variant":"Now Happening",
+        "items":[
+            {
+                "title":"Step 1",
+                "pic":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FClass%20Finder%20Pics%2F1.png?alt=media&token=9f8ad9ee-e407-4e31-8a49-c901b37190b8",
+                "text":"Go to www.sis.addu.edu.ph."
+            },
+            {
+                "title":"Step 2",
+                "pic":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FClass%20Finder%20Pics%2F2.png?alt=media&token=b48ecdab-c834-45d1-b947-db907404b5d1",
+                "text":"Login using your AdDUNET username and password. Your login credentials can be found in the confirmation enrollment email sent once enrolled in the university."
+            },
+            {
+                "title":"Step 3",
+                "pic":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FClass%20Finder%20Pics%2F3.png?alt=media&token=71f5d82f-50e8-466b-be09-47c42d90d8ca",
+                "text":"Once logged in, on the left side of the website, click on “My Registration”."
+            },
+            {
+                "title":"Step 4",
+                "pic":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FClass%20Finder%20Pics%2F4.png?alt=media&token=20c6c920-d803-4b45-9fd9-db533cf6b21b",
+                "text":"Once the page loads, look at the “Section” label. Right next to it is the class section you belong to. Remember your section assignment, go to the Faci Finder section of the AFYOP Webpage, and look for the facilitator assigned to your class section."
+            }
+        ]
+        }
+    
+}

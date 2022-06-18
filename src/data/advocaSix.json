@@ -1,11 +1,7 @@
 {
   "title": "Advocasix",
+  "description": "The Samahan ng mga Mag-aaral ng Pamantasan ng Ateneo de Davao, guided by its Jesuit, Filipino, and Mindanaoan values, aspires to be an autonomous student government that is genuinely present in championing here and now its chosen six pillar advocacies.",
   "items": [
-    {
-      "heading": "AdvocaSix",
-      "subHeading": "#Preface",
-      "desc": "The Samahan ng mga Mag-aaral ng Pamantasan ng Ateneo de Davao, guided by its Jesuit, Filipino, and Mindanaoan values, aspires to be an autonomous student government that is genuinely present in championing here and now its chosen six pillar advocacies."
-    },
     {
       "heading": "Good Governance",
       "subHeading": "#HereForGoodGovernance",

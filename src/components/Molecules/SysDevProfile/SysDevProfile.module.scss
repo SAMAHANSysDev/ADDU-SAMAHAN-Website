@@ -17,6 +17,9 @@
     border-radius: 10px;
     padding: 2rem 2rem;
     color: $color--primary;
+    background-color: $color--white;
+
+    overflow-wrap: anywhere;
 
     h5 {
         font-size: $h4FontSize;
@@ -46,13 +49,13 @@
         flex-direction: column;
         gap: 1rem;
         justify-content: center;
-
+        align-items: center;
+        
         .socials {
             display: flex;
             flex-direction: column;
             gap: .5rem;
         }
-        align-items: center;
         .email {
             color: $color--secondary;
         }

@@ -1,6 +1,7 @@
 {
   "mainTitle": "JUDICIAL COURT",
   "subTitle": "STUDENT",
+  "description": "The Student Judicial Court, abbreviated to the SJC, is in charge of upholding the accountability of the student government as the sole Judiciary branch of the SAMAHAN.",
   "initiatives": [
     {
       "id": "initiative_1",
@@ -9,8 +10,284 @@
       "imgBgSrc": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FStudent%20Judicial%20Court%2FAbout%20the%20Court.png?alt=media&token=bb6bd16c-a4ba-402d-b0e0-ee7720c7b3b1",
       "contents": [
         {
-          "type": "paragraph",
-          "contents": ""
+          "type": "title",
+          "align": "left",
+          "underline": true,
+          "contents": "FAQs"
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "What is the SJC?"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "The Student Judicial Court, abbreviated to the SJC, is in charge of upholding the accountability of the student government as the sole Judiciary branch of the SAMAHAN. The Court is composed of student magistrates from each cluster. There are also 2 court officers of the SJC.    All members must be unaffiliated with any political parties or coalitions within the University."
+            }
+          ]
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "What do we do?"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "Magistrates ensure that all actions done by the SAMAHAN and its officers are within the guidelines of the 2020 SAMAHAN Constitution. The Court will act on any reports and ensure that the proper procedures have been followed to ensure fairness for everyone involved. The SJC handles these cases following the Rules of Court."
+            }
+          ]
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "How can you reach us?"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": [
+                {
+                  "type": "paragraph container",
+                  "indent": false,
+                  "contents": [
+                    {
+                      "type": "paragraph",
+                      "contents": "You can contact us through our social media pages on"
+                    },
+                    {
+                      "type": "paragraph hyperlink",
+                      "link": "https://www.facebook.com/AdDUSJC",
+                      "contents": " Facebook"
+                    },
+                    {
+                      "type": "paragraph",
+                      "contents": " and"
+                    },
+                    {
+                      "type": "paragraph hyperlink",
+                      "link": "https://twitter.com/addusjc",
+                      "contents": " Twitter"
+                    },
+                    {
+                      "type": "paragraph",
+                      "contents": " or through SJC’s"
+                    },
+                    {
+                      "type": "paragraph hyperlink",
+                      "link": "mailto:samahan.sjc@addu.edu.ph",
+                      "contents": " AdDU Gmail"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "title",
+          "align": "left",
+          "underline": true,
+          "contents": "The Court"
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "The Court's Place in the SAMAHAN"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "As recognized by the Constitution, the Student Judicial Court is separate from the executive and legislative branch of the student government and the other SAMAHAN organizations, groups, councils, and commissions, such as the Commission on Audit Multisectoral Council, Council of Class Presidents. The Court consists of the Chief Magistrate, eight Associate Magistrates, and two officers, namely the Clerk of Court and Treasurer; it acts as an independent arm of the student government, which means that it enjoys fiscal autonomy and therefore interprets the rules set in the Constitution for further application to cases."
+            }
+          ]
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "The Rationale behind the SJC"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "The Student Judicial Court serves as a pillar of justice that caters to the whole student body. In a sense, it exists to resolve university-related disputes through a clear and precise set of procedures that abide by the rules within the guidelines of the Constitution. As the judicial branch of the SAMAHAN, it also handles complaints involving student rights and conducts investigations at its discretion, thereby providing an efficient and legitimized method of enforcing sanctions and holding people accountable when necessary."
+            }
+          ]
+        },
+        {
+          "type": "title",
+          "align": "left",
+          "underline": true,
+          "contents": "SJC Services"
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "Judicial Review"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "This process covers acts, policies, rules, resolutions, and other actions by the SAMAHAN. The Judicial Review ensures that the student government’s actions are within the guidelines of the Constitution. The results from this procedure will affect the SAMAHAN’s actions and either stop actions, add new steps, or allow the action to continue."
+            }
+          ]
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "Trials"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "The trial process is a set of procedures for investigating and judging the merits of alleged abuse or wrongful acts done by members of the SAMAHAN. This ensures that the individuals who are in the student government follow the Constitution’s rules. Trials will either prove a person innocent or punish them for wrongful acts."
+            }
+          ]
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "Judicial Mediation"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "This is a particular type of action resulting from the initial steps in the trial, a step where the different parties will settle the issue without proceeding to the full trial. The two groups will negotiate, and the SJC will ratify the result of these discussions."
+            }
+          ]
+        },
+        {
+          "type": "title",
+          "align": "left",
+          "underline": true,
+          "contents": "Petitions"
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "Petitions"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "A petition is a formal document that issues a complaint to the court. These petitions contain the names of the persons or groups involved, the details of the concern, and the action that the petitioner would like to occur."
+            }
+          ]
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "Petition Process"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "Petitions must be made with the complete details outlined in the SJC’s Rules of Court. They must then be sent to the persons who are the subject of the complaint. After the respondent has received it, it must be sent to the Commission of Student’s Rights and Welfare (StRAW), which will then forward it to the Court."
+            }
+          ]
+        },
+        {
+          "type": "title",
+          "align": "left",
+          "underline": true,
+          "contents": "Decisions"
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "How does the SJC reach its decisions?"
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "During its various procedures, the SJC must reach decisions on various issues ranging from the validity of a petition to the verdict on an impeachment case. The Court employs a system whereby all voting Magistrates will be given a chance to speak, question, and conclude their points before casting a final vote. The Chief Magistrate is not allowed to vote unless there is a tie; the decision with 50% + 1 of the votes is the one that will be followed."
+            }
+          ]
+        },
+        {
+          "type": "description list",
+          "contents": [
+            {
+              "type": "description term",
+              "contents": [
+                {
+                  "type": "title italized",
+                  "contents": "Why do these decisions matter? "
+                }
+              ]
+            },
+            {
+              "type": "description data",
+              "contents": "These decisions, without a doubt, deliver justice that explicitly settles disputes between the parties involved, as they are all handled through the deliberation of relevant rules based on the existing SAMAHAN constitution. As what can be expressed, then, their importance lies in their capacity to reveal the court's constitutional interpretation, which will later indicate the necessary sanctions and decisions needed to guarantee that student rights are upheld in light of fairness and equal judgment."
+            }
+          ]
         }
       ]
     },
@@ -21,8 +298,9 @@
       "imgBgSrc": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FStudent%20Judicial%20Court%2FSamahan%20Map.png?alt=media&token=a3c8b8dd-bc90-41e5-962c-ba83199534dd",
       "contents": [
         {
-          "type": "paragraph",
-          "contents": ""
+          "type": "stretched button",
+          "link": "https://drive.google.com/file/d/1pHqgiudQh0j7fUtNc_E_N_p0R3xlp3Kh/view?usp=sharing",
+          "contents": "SAMAHAN MAP"
         }
       ]
     },
@@ -33,8 +311,27 @@
       "imgBgSrc": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FStudent%20Judicial%20Court%2FStudent%20Judicial%20Court%20Archives.png?alt=media&token=4fcf4b1f-1490-43e4-b68c-308597bff880",
       "contents": [
         {
-          "type": "paragraph",
-          "contents": ""
+          "type": "title large",
+          "contents": "Rules of Court and Code of Internal Procedures"
+        },
+        {
+          "type": "stretched button",
+          "link": "https://drive.google.com/file/d/1alHJB6rNaKtAEdcrn6sBVwbWpCzLCNvj/view?usp=sharing",
+          "contents": "SJC Code of Internal Procedures"
+        },
+        {
+          "type": "stretched button",
+          "link": "https://drive.google.com/file/d/1c0SFshefk51LTWHPg5gtVged9ouPrH_V/view?usp=sharing",
+          "contents": "SJC Rules of Court"
+        },
+        {
+          "type": "title large",
+          "contents": "Rullings and Memos"
+        },
+        {
+          "type": "stretched button",
+          "link": "https://drive.google.com/file/d/1yXrmS-tzpMNS-kuKjell57eonwOrbovT/view?usp=sharing",
+          "contents": "Memorandum No.01-2022 (Feb. 21, 2022)"
         }
       ]
     }

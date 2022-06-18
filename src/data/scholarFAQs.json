@@ -36,7 +36,6 @@
       "Answer": [
         {
           "type": "ordered list",
-          "listType": "lowercase letter",
           "contents": [
             {
               "type": "list item",
@@ -44,6 +43,7 @@
             },
             {
               "type": "ordered list",
+              "listType": "lowercase letter",
               "contents": [
                 {
                   "type": "list item",
@@ -61,6 +61,7 @@
             },
             {
               "type": "ordered list",
+              "listType": "lowercase letter",
               "contents": [
                 {
                   "type": "list item",
@@ -105,13 +106,30 @@
       "Question": [
         {
           "type": "paragraph bold",
-          "contents": "When is the application and deadline?"
+          "contents": " I have a Government Grant, is it okay to apply for GIA or JSF Program?"
         }
       ],
       "Answer": [
         {
-          "type": "paragraph",
-          "contents": "For the First Semester, the application will be the first week of April. The deadline is the last Friday of April."
+          "type": "ordered list",
+          "contents": [
+            {
+              "type":"list item",
+              "contents":"For DOST and CHED grants:"
+            },
+            {
+              "type":"paragraph",
+              "contents":"It is allowed however, GIA/JSF grant will be adjusted if the total scholarship grant of the scholar exceeds the student’s total assessment"
+            },
+            {
+              "type":"list item",
+              "contents":"STEP/EBSU:"
+            },
+            {
+              "type":"paragraph",
+              "contents":"They do not allow having a GIA grant. But they will allow students with JSF grant."
+            }
+          ]
         }
       ]
     },
@@ -149,6 +167,81 @@
               "contents": "Filled out the online application"
             }
           ]
+        }
+      ]
+    },
+    {
+      "FAQNum": "FAQ6",
+      "Question": [
+        {
+          "type": "paragraph bold",
+          "contents": " Does GIA or JSF have allowances?"
+        }
+      ],
+      "Answer": [
+        {
+          "type": "paragraph",
+          "contents": "Both grants do not have allowances. "
+        }
+      ]
+    },
+    {
+      "FAQNum": "FAQ7",
+      "Question": [
+        {
+          "type": "paragraph bold",
+          "contents": " How to know the result of the GIA Application?"
+        }
+      ],
+      "Answer": [
+        {
+          "type": "paragraph",
+          "contents": "We will text or email the applicants. Mobile and Email address during application must be active. "
+        }
+      ]
+    },
+    {
+      "FAQNum": "FAQ8",
+      "Question": [
+        {
+          "type": "paragraph bold",
+          "contents": " I am an ADDU Senior High School and have GIA, will I also apply?"
+        }
+      ],
+      "Answer": [
+        {
+          "type": "paragraph",
+          "contents": "Yes, ADDU SHS graduates are required to apply for GIA Grant. There is no automatic granting for ADDU SHS graduates."
+        }
+      ]
+    },
+    {
+      "FAQNum": "FAQ9",
+      "Question": [
+        {
+          "type": "paragraph bold",
+          "contents": " How is/are grantees chosen? "
+        }
+      ],
+      "Answer": [
+        {
+          "type": "paragraph",
+          "contents": "The committee will deliberate on the information provided, as well as the documents submitted."
+        }
+      ]
+    },
+    {
+      "FAQNum": "FAQ10",
+      "Question": [
+        {
+          "type": "paragraph bold",
+          "contents": " Is there a grade that Scholars need to maintain?"
+        }
+      ],
+      "Answer": [
+        {
+          "type": "paragraph",
+          "contents": "A QPI of 2.5 (C+) for GIA and a QPI of 3 (B) for JSF scholars."
         }
       ]
     }

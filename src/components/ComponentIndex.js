@@ -11,6 +11,13 @@ export { default as InformationCard } from "./Atoms/InformationCard/InformationC
 export { default as ScrollDownIcon } from "./Atoms/ScrollDownIcon/ScrollDownIcon";
 export { default as CarouselContent } from "./Atoms/CarouselContent/CarouselContent";
 export { default as SysDevSocials } from "./Atoms/SysDevSocials/SysDevSocials";
+export { default as InitiativeOfficeDescription } from "./Atoms/InitiativeOfficeDescription/InitiativeOfficeDescription";
+export { default as StretchedButton } from "./Atoms/StretchedButton/StretchedButton";
+export { default as AFYOPButton } from "./Atoms/AFYOPButton/AFYOPButton";
+export { default as AFYOPLabel } from "./Atoms/AFYOPLabel/AFYOPLabel";
+export { default as ClassFinderSteps } from "./Atoms/ClassFinderSteps/ClassFinderSteps";
+export { default as NowHappeningContent } from "./Atoms/NowHappeningContent/NowHappeningContent";
+export { default as Facilitator } from "./Atoms/Facilitator/Facilitator";
 
 /* MOLECULES */
 export { default as DepartmentNavigation } from "./Molecules/DepartmentNavigation/DepartmentNavigation";
@@ -24,6 +31,9 @@ export { default as FAQCategories } from "./Molecules/FAQCategories/FAQCategorie
 export { default as FAQAccordion } from "./Molecules/FAQAccordion/FAQAccordion";
 export { default as Carousel } from "./Molecules/Carousel/Carousel";
 export { default as SysDevProfile } from "./Molecules/SysDevProfile/SysDevProfile";
+export { default as AFYOPContainer } from "./Molecules/AFYOPContainer/AFYOPContainer";
+export { default as SimulaTVEP } from "./Atoms/SimulaTVEP/SimulaTVEP";
+export { default as AFYOPCarousel } from "./Molecules/AFYOPCarousel/AFYOPCarousel";
 
 /* ORGANISMS */
 export { default as Navigation } from "./Organisms/Navigation/Navigation";
@@ -36,10 +46,12 @@ export { default as AboutSecondSection } from "./Organisms/AboutSecondSection/Ab
 export { default as InformationSection } from "./Organisms/InformationSection/InformationSection";
 export { default as FAQSection } from "./Organisms/FAQSection/FAQSection";
 export { default as Developers } from "./Organisms/Developers/Developers";
+export { default as AfyopFourthSection } from "./Organisms/AfyopFourthSection/AfyopFourthSection";
+export { default as AFYOPFeedSection } from "./Organisms/AFYOPFeedSection/AFYOPFeedSection";
+export { default as AFYOPLanding } from "./Organisms/AFYOPLanding/AFYOPLanding";
 
 /* TEMPLATES */
 export { default as AboutTemplate } from "./Template/AboutTemplate/AboutTemplate";
-export { default as FAQTemplate } from "./Template/FAQTemplate/FAQTemplate";
 export { default as HelpPortalTemplate } from "./Template/HelpPortalTemplate/HelpPortalTemplate";
 export { default as OfficeOfThePresidentTemplate } from "./Template/OfficeOfThePresidentTemplate/OfficeOfThePresidentTemplate";
 export { default as OfficeOfTheSecretaryGeneralTemplate } from "./Template/OfficeOfTheSecretaryGeneralTemplate/OfficeOfTheSecretaryGeneralTemplate";
@@ -52,10 +64,10 @@ export { default as GsuiteFAQTemplate } from "./Template/GsuiteFAQTemplate/Gsuit
 export { default as RegFAQTemplate } from "./Template/RegFAQTemplate/RegFAQTemplate";
 export { default as SchFAQTemplate } from "./Template/SchFAQTemplate/SchFAQTemplate";
 export { default as SysDevTemplate } from "./Template/SysDevTemplate/SysDevTemplate";
+export { default as AFYOPTemplate } from "./Template/AFYOPTemplate/AFYOPTemplate";
 
 /* PAGES */
 export { default as AboutPage } from "./Pages/AboutPage/AboutPage";
-export { default as FAQPage } from "./Pages/FAQPage/FAQPage";
 export { default as HelpPortalPage } from "./Pages/HelpPortalPage/HelpPortalPage";
 export { default as LandingPage } from "./Pages/LandingPage/LandingPage";
 export { default as OfficeOfThePresidentPage } from "./Pages/OfficeOfThePresidentPage/OfficeOfThePresidentPage";
@@ -74,3 +86,4 @@ export { default as CCPPage } from "./Pages/CCPPage/CCPPage";
 export { default as ClustersPage } from "./Pages/ClustersPage/ClustersPage";
 export { default as SummaryPage } from "./Pages/SummaryPage/SummaryPage";
 export { default as SysDevPage } from "./Pages/SysDevPage/SysDevPage";
+export { default as AFYOPPage } from "./Pages/AFYOPPage/AFYOPPage";

@@ -1,0 +1,33 @@
+{
+  "SimulaTVTwitter": {
+    "title": "SIMULA TV",
+    "variant": "SimulaTVTwitter",
+    "content": [
+      {
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail.png?alt=media&token=486f596a-fcc0-428b-90e0-350739a5d1cd",
+        "title": "Episode 1",
+        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+      },
+      {
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
+        "title": "Episode 2",
+        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+      },
+      {
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
+        "title": "Episode 3",
+        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+      },
+      {
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
+        "title": "Episode 4",
+        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+      },
+      {
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaTV%2Fthumbnail_sample.png?alt=media&token=1fc9e4aa-cb27-4a1c-bf22-b5e18e0270ee",
+        "title": "Episode 5",
+        "description": "Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet"
+      }
+    ]
+  }
+}

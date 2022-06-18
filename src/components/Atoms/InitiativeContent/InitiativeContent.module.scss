@@ -1,7 +1,8 @@
 @import "../../../../styles/variables.scss";
 @import "../../Molecules/InitiativeModal/InitiativeModal.module.scss";
 
-$tableBorders: 1px solid #ffffff;
+$tableBorders: 1px solid $color--black;
+$fontColor: $color--black;
 
 .content-container {
   display: flex;
@@ -10,9 +11,10 @@ $tableBorders: 1px solid #ffffff;
   padding: 2rem 4rem;
   max-width: $maxWidth;
   width: 100%;
+  margin: 0 auto;
   // align-items: center;
 }
-.paragraph-content--container {
+.paragraph-content--container-with-indent {
   text-indent: 5rem;
 }
 
@@ -20,7 +22,7 @@ $tableBorders: 1px solid #ffffff;
   text-align: justify;
   font-size: $bodyFontSize;
   font-weight: $bodyFontWeight;
-  color: #ffff;
+  color: $fontColor;
   line-height: 2rem;
   text-indent: 5rem;
 }
@@ -29,7 +31,7 @@ $tableBorders: 1px solid #ffffff;
   text-align: justify;
   font-size: $bodyFontSize;
   font-weight: bold;
-  color: #ffff;
+  color: $fontColor;
   line-height: 2rem;
   text-indent: 5rem;
 }
@@ -38,7 +40,7 @@ $tableBorders: 1px solid #ffffff;
   text-align: justify;
   font-size: $bodyFontSize;
   font-weight: $bodyFontWeight;
-  color: #ffff;
+  color: $fontColor;
   line-height: 2rem;
   text-indent: 5rem;
 }
@@ -48,7 +50,7 @@ $tableBorders: 1px solid #ffffff;
   font-weight: $h5FontWeight;
   line-height: 2rem;
   text-align: center;
-  color: #ffff;
+  color: $fontColor;
 }
 
 .content-hypertext--large {
@@ -56,36 +58,88 @@ $tableBorders: 1px solid #ffffff;
   font-weight: $h4FontWeight;
   line-height: 2rem;
   text-align: left;
-  color: #ffff;
+  color: $fontColor;
 }
 
-.title {
+.hyperlink {
+  align-self: center;
+}
+
+.title--align-center {
   font-size: $h4FontSize;
   font-weight: $h4FontWeight;
   text-align: center;
-  color: #ffff;
+  color: $fontColor;
+}
+
+.title--align-left {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  text-align: left;
+  color: $fontColor;
+}
+
+.title--align-right {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  text-align: right;
+  color: $fontColor;
+}
+
+.title--align-center-underlined {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  text-align: center;
+  color: $fontColor;
+  text-decoration: underline;
+}
+
+.title--align-left-underlined {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  text-align: left;
+  color: $fontColor;
+  text-decoration: underline;
+}
+
+.title--align-right-underlined {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  text-align: right;
+  color: $fontColor;
+  text-decoration: underline;
 }
 
 .title--large {
   font-size: $h2FontSize;
   font-weight: $h2FontWeight;
   text-align: center;
-  color: #ffff;
+  color: $fontColor;
+}
+
+.title-italized {
+  text-align: left;
+  font-size: $h5FontSize;
+  font-weight: $h5FontWeight;
+  color: $fontColor;
+  font-style: italic;
 }
 
 .orderedList,
 .unorderedList {
   padding: 1rem;
-  color: $color--white;
+  color: $fontColor;
   width: 100%;
   margin-left: 2rem;
+  line-height: 1.5rem;
 }
 
 .listItem,
 .descriptionData {
   margin-left: 1rem;
   padding: 0.3rem;
-  color: $color--white;
+  color: $fontColor;
+  line-height: 1.5rem;
 }
 
 .table {
@@ -93,18 +147,19 @@ $tableBorders: 1px solid #ffffff;
   border-collapse: collapse;
   width: 90%;
   align-self: center;
+  line-height: 1.5rem;
 
   th,
   td,
   tr {
     border: $tableBorders;
-    padding: 1rem;
-    color: $color--white;
+    padding: 0.5rem 1rem;
+    color: $fontColor;
   }
 
   .paragraph-content {
     padding: 1rem;
-    color: $color--white;
+    color: $fontColor;
   }
 
   th {
@@ -112,8 +167,10 @@ $tableBorders: 1px solid #ffffff;
   }
 }
 
-.googleSheets {
-  width: 100%;
+.stretched-button {
+  align-self: center;
+  width: 50%;
+  min-width: 15rem;
 }
 
 @media only screen and (max-width: calc(#{$maxWidth} + 100px)) {

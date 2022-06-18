@@ -10,7 +10,7 @@
         { "site": "facebook", "url": "https://facebook.com/buboy1" },
         { "site": "twitter", "url": "https://twitter.com/vvrbngag" }
       ],
-      "picture": "http://shipboardtraining.com/resources/thumb-female.845dfe89.jpg"
+      "picture": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSysDev%2Fbungag.jpg?alt=media&token=a995dcc6-ce02-431c-8ec5-38840e9adc1f"
     },
     {
       "name": "Cyril M. Olanolan",
@@ -23,7 +23,7 @@
         { "site": "instagram", "url": "https://instagram.com/CyrilOlanolan" },
         { "site": "twitter", "url": "https://twitter.com/CyrilOlanolan" }
       ],
-      "picture": "http://shipboardtraining.com/resources/thumb-female.845dfe89.jpg"
+      "picture": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSysDev%2Folanolan.jpg?alt=media&token=57fd4d69-57b4-45f7-9808-5300fb35c7f7"
     },
     {
       "name": "Jan Patrick D. Matayabas",
@@ -34,7 +34,7 @@
         { "site": "github", "url": "https://github.com/janpatmat" },
         { "site": "twitter", "url": "https://twitter.com/Jpmatayabas" }
       ],
-      "picture": "http://shipboardtraining.com/resources/thumb-female.845dfe89.jpg"
+      "picture": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FProfile%20Pics%2FMatayabas-Patrick.png?alt=media&token=1013d025-7db0-4c3d-a18c-f100647f873f"
     },
     {
       "name": "Miguel Emmanuel P. Dailisan",
@@ -45,20 +45,18 @@
         { "site": "github", "url": "https://github.com/miggydai" },
         { "site": "twitter", "url": "https://twitter.com/miggydailisan__" }
       ],
-      "picture": "http://shipboardtraining.com/resources/thumb-female.845dfe89.jpg"
+      "picture": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSysDev%2Fdailisan.jpg?alt=media&token=44fe53eb-7210-4165-8b4a-08ff4e01e0af"
     },
     {
-      "name": "Wayne",
+      "name": "Sean Wayne R. Gabule",
       "position": "Front-End Developer",
       "course": "BS in Information Technology",
-      "email": "",
+      "email": "waynegabule@gmail.com",
       "socials": [
-        { "site": "github", "url": "https://github.com/" },
-        { "site": "facebook", "url": "https://facebook.com/" },
-        { "site": "instagram", "url": "https://instagram.com/" },
-        { "site": "twitter", "url": "https://twitter.com/" }
+        { "site": "github", "url": "https://github.com/Coralise" },
+        { "site": "facebook", "url": "https://facebook.com/Waynezki" }
       ],
-      "picture": "http://shipboardtraining.com/resources/thumb-female.845dfe89.jpg"
+      "picture": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2Fsample-boy.jpg?alt=media&token=8d693944-533a-45b6-a4be-c3939af02de9"
     }
   ]
 }

@@ -1,6 +1,6 @@
 import Head from "next/head";
 import "../styles/globals.css";
-import "../styles/nprogress.css"
+import "../styles/nprogress.css";
 import Router from "next/router";
 import nProgress from "nprogress";
 import { AnimateSharedLayout } from "framer-motion";

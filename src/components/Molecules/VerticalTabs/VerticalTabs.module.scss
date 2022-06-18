@@ -18,6 +18,17 @@
   height: fit-content;
 }
 
+.tab-labels {
+  font-size: $h4FontSize;
+  font-weight: $h4FontWeight;
+  // color: $color--white;
+  padding: 0.2rem;
+}
+
+.six {
+  color: #f0ae02;
+}
+
 .tabStyle {
   color: black;
 }
@@ -27,11 +38,22 @@
   // padding-bottom: 4rem;
   color: #ffff;
   font-weight: $h1FontWeight;
-  font-size: 72px;
+  font-size: 4.5rem;
   // padding-left: 10rem;
 }
-.six {
-  color: aquamarine;
+
+.description {
+  text-align: justify;
+  font-size: $h5FontSize;
+  font-weight: $h5FontWeight;
+  padding: 3rem 0;
+  padding-top: 1rem;
+  color: $color--white;
+  text-indent: 5rem;
+}
+
+.description-container {
+  max-width: 70rem;
 }
 
 .background {

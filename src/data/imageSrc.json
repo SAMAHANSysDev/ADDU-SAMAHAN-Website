@@ -1,4 +1,6 @@
 {
   "hereAndNow": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FHereAndNow.png?alt=media&token=42b3a96b-1104-444b-969a-7836d39253a8",
-  "samahanLogo": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSAMAHAN-logo.png?alt=media&token=6548244f-7d40-4a52-af76-e0350268a1c0"
+  "samahanLogo": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSAMAHAN-logo.png?alt=media&token=6548244f-7d40-4a52-af76-e0350268a1c0",
+  "samahanLogoOnly": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSAMAHANLogoOnly.png?alt=media&token=92c9c029-dd74-4654-87f1-8c881e2e612f",
+  "AFYOPSimula": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FAFYOP_Simula.png?alt=media&token=d46595e3-ff4d-4769-8a79-4969d67f82e3"
 }

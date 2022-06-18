@@ -4,6 +4,7 @@ import {
   InitiativeList,
   InitiativeModal,
   InitiativeHeader,
+  InitiativeOfficeDescription,
 } from "../../ComponentIndex";
 import styles from "./OfficeInitiative.module.scss";
 
@@ -11,10 +12,8 @@ const OfficeInitiative = ({ id, data, initialRoute }) => {
   const imageHasLoaded = true;
   return (
     <>
-      <InitiativeHeader
-        mainTitle={data.mainTitle}
-        subTitle={data.subTitle}
-      />
+      <InitiativeHeader mainTitle={data.mainTitle} subTitle={data.subTitle} />
+      <InitiativeOfficeDescription description={data.description} />
       <div className={styles["root-container"]}>
         <div className={styles["component-container"]}>
           <InitiativeList

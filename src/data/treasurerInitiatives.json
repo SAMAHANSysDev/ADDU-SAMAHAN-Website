@@ -1,6 +1,7 @@
 {
   "mainTitle": "TREASURER",
   "subTitle": "OFFICE OF THE",
+  "description": "The OST aims to establish a well-financed, transparent, and resourceful student government that can utilize its funds to meet its goals and implement its mandates.",
   "initiatives": [
     {
       "id": "initiative_1",
@@ -429,31 +430,27 @@
       "imgBgSrc": "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FTreasurer%20Initiatives%2FLive%20Budget%20Tracker.png?alt=media&token=6b96f32a-6908-4ce4-857d-0d806bdf6b2b",
       "contents": [
         {
-          "type": "title large",
-          "contents": "SAMAHAN Budget Trackers:"
-        },
-        {
-          "type": "hyperlink large",
+          "type": "stretched button",
           "link": "/budget_tracker_offices_and_department",
           "contents": "1. Offices and Department"
         },
         {
-          "type": "hyperlink large",
+          "type": "stretched button",
           "link": "/budget_tracker_events",
           "contents": "2. Events"
         },
         {
-          "type": "hyperlink large",
+          "type": "stretched button",
           "link": "/budget_tracker_ccp",
           "contents": "3. CCP"
         },
         {
-          "type": "hyperlink large",
+          "type": "stretched button",
           "link": "/budget_tracker_clusters",
           "contents": "4. Clusters"
         },
         {
-          "type": "hyperlink large",
+          "type": "stretched button",
           "link": "/budget_tracker_summary",
           "contents": "5. Summary"
         }
@@ -483,6 +480,7 @@
       "contents": [
         {
           "type": "paragraph container",
+          "indent": true,
           "contents": [
             {
               "type": "paragraph",
@@ -501,6 +499,7 @@
         },
         {
           "type": "paragraph container",
+          "indent": true,
           "contents": [
             {
               "type": "paragraph",
@@ -697,6 +696,7 @@
         },
         {
           "type": "paragraph container",
+          "indent": true,
           "contents": [
             {
               "type": "paragraph",
@@ -718,6 +718,7 @@
         },
         {
           "type": "paragraph container",
+          "indent": true,
           "contents": [
             {
               "type": "paragraph bold",

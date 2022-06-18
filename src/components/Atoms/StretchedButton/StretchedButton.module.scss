@@ -1,0 +1,35 @@
+@import "../../../../styles/variables.scss";
+
+.button {
+  .buttonStyle {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    border: 0;
+    width: 100%;
+    height: fit-content;
+    text-decoration: none;
+    cursor: pointer;
+
+    transition: transform 0.3s ease-in, background-color 0.1s ease;
+
+    &:active {
+      background-color: $color--white-active;
+    }
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+  }
+
+  .buttonLabel {
+    font-size: $h5FontSize;
+    font-weight: $h1FontWeight;
+    color: #2d419d;
+    text-align: center;
+  }
+}
