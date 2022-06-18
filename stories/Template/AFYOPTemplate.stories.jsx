@@ -1,5 +1,5 @@
 import { AFYOPTemplate } from '../../src/components/ComponentIndex';
-import { AFYOPSimulaTVSample } from '../../src/sampleData/dataIndex';
+import { AFYOPSimulaTVSample, FaciFinderSample } from '../../src/sampleData/dataIndex';
 
 export default {
   title: 'Template/AFYOP Template',
@@ -8,6 +8,7 @@ export default {
 
 export const Main = {
   args: {
-    SimulaTVContent: AFYOPSimulaTVSample.SimulaTVTwitter
+    SimulaTVContent: AFYOPSimulaTVSample.SimulaTVTwitter,
+    facilitators: FaciFinderSample.facilitators
   }
 };

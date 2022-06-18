@@ -54,7 +54,7 @@ const AFYOPLanding = ({ AFYOPLandingData }) => {
 
         <section className={styles["body-text-section"]}>
           {AFYOPLandingData.bodyText.map((pargraph) => (
-            <p>{pargraph}</p>
+            <p key={pargraph}>{pargraph}</p>
           ))}
         </section>
 

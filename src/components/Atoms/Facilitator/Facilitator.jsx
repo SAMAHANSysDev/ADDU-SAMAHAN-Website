@@ -6,10 +6,10 @@ import { SysDevSocials } from '../../ComponentIndex'
 const Facilitator = ({ image, name, position, socials }) => {
   return (
     <div className={styles["Facilitator"]}>
-      <div className={styles["Facilitator__image"]}>
-        <Image.default src={image} layout="fill"/>
-      </div>
       <div className={styles["Facilitator__details"]}>
+      <div className={styles["Facilitator__image"]}>
+        <Image.default src={image} layout="fill" objectFit="cover"/>
+      </div>
         <div className={styles["texts"]}>
           <h5 className={styles["name"]}>{name}</h5>
           <p className={styles["position"]}>{position}</p>

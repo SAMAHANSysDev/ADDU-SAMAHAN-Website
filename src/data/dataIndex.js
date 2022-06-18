@@ -22,6 +22,7 @@ export { default as SysDev } from "../data/SysDev.json";
 export { default as AFYOPSimulaTV } from "../data/AFYOPSimulaTV.json";
 export { default as CFData } from "../data/classFinderContent.json";
 export { default as NHData } from "../data/nowHappeningContent.json";
+export { default as FaciFinder } from "../data/FaciFinder.json";
 
 /* INFORMATION AREA */
 export { default as EnrollmentAndPayment } from "../data/Information/EnrollmentAndPayment";

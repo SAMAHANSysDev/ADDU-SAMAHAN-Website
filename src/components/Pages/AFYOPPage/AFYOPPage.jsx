@@ -1,14 +1,17 @@
-import React from 'react'
+import React from "react";
 
-import { AFYOPTemplate } from '../../ComponentIndex'
-import { AFYOPSimulaTV } from '../../../data/dataIndex'
+import { AFYOPTemplate } from "../../ComponentIndex";
+import { AFYOPSimulaTV, FaciFinder } from "../../../data/dataIndex";
 
 const AFYOPPage = () => {
   return (
     <>
-      <AFYOPTemplate SimulaTVContent={AFYOPSimulaTV.SimulaTVTwitter}/>
+      <AFYOPTemplate
+        SimulaTVContent={AFYOPSimulaTV.SimulaTVTwitter}
+        facilitators={FaciFinder.facilitators}
+      />
     </>
-  )
-}
+  );
+};
 
-export default AFYOPPage
+export default AFYOPPage;

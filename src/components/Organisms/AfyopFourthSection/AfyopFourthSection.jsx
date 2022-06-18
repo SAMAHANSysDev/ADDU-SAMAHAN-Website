@@ -16,6 +16,7 @@ const AfyopFourthSection = ({variant, content, content2}) => {
                 return (
                   <>
                     <ClassFinderSteps
+                      key={episode.title}
                       epThumbnail={episode.thumbnail}
                       epTitle={episode.title}
                       epDescription={episode.description}
@@ -47,6 +48,7 @@ const AfyopFourthSection = ({variant, content, content2}) => {
                 return (
                   <>
                     <ClassFinderSteps
+                      key={step.title}
                       epThumbnail={step.pic}
                       epTitle={step.title}
                       epDescription={step.text}
@@ -69,6 +71,7 @@ const AfyopFourthSection = ({variant, content, content2}) => {
                   return (
                     <>
                       <NowHappeningContent
+                        key={item.event}
                         time={item.DateTime}
                         event={item.event}
                         platform={item.platform}
