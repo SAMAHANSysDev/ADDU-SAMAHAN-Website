@@ -18,6 +18,7 @@ export { default as AFYOPLabel } from "./Atoms/AFYOPLabel/AFYOPLabel";
 export { default as ClassFinderSteps } from "./Atoms/ClassFinderSteps/ClassFinderSteps";
 export { default as NowHappeningContent } from "./Atoms/NowHappeningContent/NowHappeningContent";
 export { default as Facilitator } from "./Atoms/Facilitator/Facilitator";
+export { default as Twitterembed } from "./Atoms/Twitterembed/Twitterembed";
 
 /* MOLECULES */
 export { default as DepartmentNavigation } from "./Molecules/DepartmentNavigation/DepartmentNavigation";
