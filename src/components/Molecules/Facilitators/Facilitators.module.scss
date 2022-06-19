@@ -1,0 +1,13 @@
+@import '../../../../styles/variables.scss';
+
+.Facilitators {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 62.5rem;
+    flex-wrap: wrap;
+    column-gap: 3rem;
+    row-gap: 1rem;
+    align-items: stretch;
+    justify-content: center;
+}

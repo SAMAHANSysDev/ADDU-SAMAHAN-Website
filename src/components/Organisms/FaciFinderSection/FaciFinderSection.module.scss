@@ -1,0 +1,16 @@
+@import '../../../../styles/variables.scss';
+
+.FaciFinderSection {
+    position: relative;
+    background-image: linear-gradient(#136FC3, #76EF66);
+    padding-block: 8rem;
+    display: grid;
+    place-content: center;
+
+    .label {
+        position: absolute;
+        top: -3.125rem;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}

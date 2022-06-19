@@ -28,3 +28,23 @@
     padding: 0.625rem 2.5rem;
   }
 }
+
+@media (max-width: 768px) {
+  .AFYOPLabel {
+    &--default {
+      font-size: $h3FontSize;
+      font-weight: 900;
+    }
+  
+    &--h1 {
+      font-size: $h2FontSize;
+      font-weight: $h1FontWeight;
+    }
+  
+    &--h5 {
+      font-size: $h5FontSize;
+      font-weight: $h1FontWeight;
+      padding: 0.625rem 2.5rem;
+    }
+  }
+}

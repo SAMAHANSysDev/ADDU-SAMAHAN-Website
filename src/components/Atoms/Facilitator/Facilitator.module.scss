@@ -3,36 +3,34 @@
 .Facilitator {
     width: 100%;
     max-width: 12.5rem;
-    height: 100%;
-    max-height: 350px;
     isolation: isolate;
 
     &__image {
         position: relative;
-        width: 200px;
+        width: 100%;
         aspect-ratio: 1 / 1;
         background: $color--white;
         border-radius: 10px;
+        overflow: hidden;
     }
 
     &__details {
-        margin-top: -0.5rem;
-        z-index: -1;
         background-color: $color--nav-bg;
         display: flex;
         flex-direction: column;
         flex-direction: column;
-        justify-content: flex-end;
         align-items: center;
         gap: .8rem;
-
-        width: 100%;
         
-        padding: 1.5rem 0 0.75rem 0;
+        width: 100%;
+        height: 100%;
+        padding-bottom: 0.75rem;
 
-        border-radius: 0 0 10px 10px;
+        border-radius: 10px;
 
         .texts {
+            margin-block: auto;
+            padding-inline: 0.5rem;
             display: flex;
             flex-direction: column;
             justify-items: center;

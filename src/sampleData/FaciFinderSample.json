@@ -1,0 +1,90 @@
+{
+    "facilitators":[
+        {
+            "name": "Sapsal, John Paul",
+            "position": "Core Head Facilitator for AFYOP Activities",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/jpdsapsal22" },
+                { "site": "twitter", "url": "https://twitter.com/jpsapsal_22" },
+                { "site": "instagram", "url": "https://www.instagram.com/jpsapsal_22/" }
+            ],
+            "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FProfile%20Pics%2FSapsal-JP.png?alt=media&token=f60da663-08c0-4e9a-b4f7-ce4d73a513e7"
+        },
+        {
+            "name": "Lim, Ruperth Adrianne",
+            "position": "Core Head Facilitator for Pre-AFYOP Activities",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/limruperth" },
+                { "site": "twitter", "url": "https://twitter.com/limruperth" },
+                { "site": "instagram", "url": "https://www.instagram.com/ruperthlim/" }
+            ],
+            "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
+        },
+        {
+            "name": "Ng, Mariah Shane",
+            "position": "Core Facilitator for Training and Development",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/Rairaing" },
+                { "site": "twitter", "url": "Lorem" }
+            ],
+            "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
+        },
+        {
+            "name": "Pang, Margaux",
+            "position": "Core Facilitator for Secretariat",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/Francesca7455" },
+                { "site": "twitter", "url": "https://twitter.com/margauxpang" },
+                { "site": "instagram", "url": "https://www.instagram.com/margauxpang/" }
+            ],
+            "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
+        },
+        {
+            "name": "Tagalog, Dianna Kyle",
+            "position": "Core Facilitator for Secretariat",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/dkatagalog" },
+                { "site": "twitter", "url": "https://twitter.com/diannatagalog_" },
+                { "site": "instagram", "url": "https://www.instagram.com/dkatagalog/" }
+            ],
+            "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
+        },
+        {
+            "name": "Dabon, Zoreyn Victorio",
+            "position": "Core Facilitator for Productions, Events, and Activities",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "facebook.com/xzoreynx" },
+                { "site": "twitter", "url": "twitter.com/xzoreynx" },
+                { "site": "instagram", "url": "instagram.com/xzoreynx" }
+            ],
+            "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
+        },
+        {
+            "name": "Macarayon, Lorence Alfred",
+            "position": "Core Facilitator for Finance and Sponsorships",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/lxrence" },
+                { "site": "twitter", "url": "https://twitter.com/lxrencee" },
+                { "site": "instagram", "url": "instagram.com/lxrence" }
+            ],
+            "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
+        },
+        {
+            "name": "Castillo, Julieanne",
+            "position": "Core Facilitator for Content Development",
+            "classes":"Lorem",
+            "socials":[
+                { "site": "facebook", "url": "https://www.facebook.com/julieannetancastillo/" },
+                { "site": "twitter", "url": "https://twitter.com/juiscastillo" }
+            ],
+            "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
+        }
+    ]
+}

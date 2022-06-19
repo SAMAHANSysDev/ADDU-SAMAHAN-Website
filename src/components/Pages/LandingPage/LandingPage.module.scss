@@ -12,7 +12,7 @@
   image-rendering: -o-crisp-edges; /* Opera */
   image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming)*/
   -ms-interpolation-mode: nearest-neighbor;
-  height: 100vh;
+  height: 90vh;
 
   .hero {
     height: 100%;
@@ -69,6 +69,62 @@
         }
       }
     }
+  }
+}
+
+.SimulaNotice {
+  box-sizing: border-box;
+  display: grid;
+  place-items: center;
+  height: 10vh;
+  background-color: $color--AFYOP-yellow;
+
+  h1 {
+    font-size: 2rem;
+    // padding-block: 2vh;
+    color: $color--AFYOP-brown;
+    text-align: center;
+  }
+
+  p {
+    text-align: center;
+  }
+}
+
+.SimulaLanding {
+  cursor: pointer;
+  isolation: isolate;
+  position: relative;
+  height: 40vh;
+  background: linear-gradient(90deg, #9D3ED7 0%, #EB6395 32.81%, #88D6E0 68.23%, #F2CC2B 100%);
+  display: grid;
+  place-items: center;
+  
+  .background {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+
+  .SimulaLogo {
+    display: flex;
+    position: relative;
+    width: 20rem;
+    height: 12.188rem;
+    place-self: end auto;
+  }
+
+  h1 {
+    z-index: 1;
+    color: $color--white;
+    letter-spacing: 1px;
+    place-self: start auto;
+  }
+
+  &:hover {
+    background: linear-gradient(90deg, #EB6395 0%, #88D6E0 32.81%, #F2CC2B 68.23%,  #9D3ED7 100%);
   }
 }
 

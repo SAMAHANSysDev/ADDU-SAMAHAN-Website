@@ -2,7 +2,7 @@
 
 .AFYOPFeedSection {
     background-image: linear-gradient($color--AFYOP-yellow, $color--AFYOP-brown);
-    padding-block: 4rem;
+    padding-block: 4rem 8rem;
     &__content {
       display: grid;
       grid-template-columns: repeat(12, 1fr);

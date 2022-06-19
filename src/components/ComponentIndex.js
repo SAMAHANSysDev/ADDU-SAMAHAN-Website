@@ -35,6 +35,7 @@ export { default as SysDevProfile } from "./Molecules/SysDevProfile/SysDevProfil
 export { default as AFYOPContainer } from "./Molecules/AFYOPContainer/AFYOPContainer";
 export { default as SimulaTVEP } from "./Atoms/SimulaTVEP/SimulaTVEP";
 export { default as AFYOPCarousel } from "./Molecules/AFYOPCarousel/AFYOPCarousel";
+export { default as Facilitators } from "./Molecules/Facilitators/Facilitators";
 
 /* ORGANISMS */
 export { default as Navigation } from "./Organisms/Navigation/Navigation";
@@ -50,6 +51,7 @@ export { default as Developers } from "./Organisms/Developers/Developers";
 export { default as AfyopFourthSection } from "./Organisms/AfyopFourthSection/AfyopFourthSection";
 export { default as AFYOPFeedSection } from "./Organisms/AFYOPFeedSection/AFYOPFeedSection";
 export { default as AFYOPLanding } from "./Organisms/AFYOPLanding/AFYOPLanding";
+export { default as FaciFinderSection } from "./Organisms/FaciFinderSection/FaciFinderSection";
 
 /* TEMPLATES */
 export { default as AboutTemplate } from "./Template/AboutTemplate/AboutTemplate";

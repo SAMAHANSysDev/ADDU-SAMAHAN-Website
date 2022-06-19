@@ -1,4 +1,4 @@
-var webpack = require("webpack");
+const path = require('path')
 module.exports = {
   stories: [
     "../stories/**/*.stories.mdx",
@@ -20,4 +20,13 @@ module.exports = {
   core: {
     builder: "@storybook/builder-webpack5",
   },
+  webpackFinal: async (config, { configType }) => {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      '/assets/fonts/brant/brant-bold-webfont.woff2': path.resolve(__dirname, "../public/assets/fonts/brant/brant-bold-webfont.woff2"),
+      '/assets/fonts/brant/brant-bold-webfont.woff': path.resolve(__dirname, "../public/assets/fonts/brant/brant-bold-webfont.woff"),
+    };
+
+    return config;
+  }
 };
