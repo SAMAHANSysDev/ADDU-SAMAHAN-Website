@@ -69,7 +69,7 @@ const AfyopFourthSection = ({variant, content, content2}) => {
         <div className={styles["ClassFinderPics"]}>
                 {content2.map((item) => {
                   return (
-                    <React.Fragment key={item.event}>
+                    <React.Fragment key={item.DateTime}>
                       <NowHappeningContent
                         time={item.DateTime}
                         event={item.event}
