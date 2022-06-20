@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./AFYOPFeedSection.module.scss";
-import { AFYOPContainer, SimulaTVEP } from "../../ComponentIndex";
+import { AFYOPContainer, SimulaTVEP, Twitterembed } from "../../ComponentIndex";
 
 const AFYOPFeedSection = ({ variant, content }) => {
   function RenderSimulaTVTwitter() {
@@ -33,7 +33,9 @@ const AFYOPFeedSection = ({ variant, content }) => {
           /* TWITTER FEED */
         }
         <div className={styles["grid-container-2"]}>
-          <AFYOPContainer title={"Twitter Feed"}></AFYOPContainer>
+          <AFYOPContainer title={"Twitter Feed"} type="twitterFeed">
+            <Twitterembed scrType={"profile"} scrName={"AFYOPSimula"} />
+          </AFYOPContainer>
         </div>
       </>
     )

@@ -1,18 +1,18 @@
-import React from 'react'
-import {TwitterTimelineEmbed} from 'react-twitter-embed';
+import React from "react";
+import { TwitterTimelineEmbed } from "react-twitter-embed";
 import styles from "./Twitterembed.module.scss";
-const Twitterembed = ({srcType,scrName}) => {
-  return (
-    <div> 
-    <div className={styles["outerContainer"]}>
-    <TwitterTimelineEmbed
-    sourceType={srcType}
-    screenName={scrName}
-    options={{height: 600, width: 600}}
-  />
-  </div>
-  </div>
-  )
-}
+const Twitterembed = ({ srcType, scrName }) => {
 
-export default Twitterembed
+  
+  return (
+    <div className={styles["outerContainer"]}>
+      <TwitterTimelineEmbed
+        sourceType={srcType}
+        screenName={scrName}
+        options={{ height: "100%", width: "100%" }}
+      />
+    </div>
+);
+};
+
+export default Twitterembed;
