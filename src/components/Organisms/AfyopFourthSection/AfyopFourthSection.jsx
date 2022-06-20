@@ -1,8 +1,10 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styles from "./AfyopFourthSection.module.scss";
 import { AFYOPContainer, ClassFinderSteps, NowHappeningContent } from '../../ComponentIndex';
 
 const AfyopFourthSection = ({variant, content, content2}) => {
+
+
   function RenderSimulaTVTwitter() {
     {
       /* FOR SIMULA TV ADN TWITTER FEED SECTION */
