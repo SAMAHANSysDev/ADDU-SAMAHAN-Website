@@ -42,7 +42,7 @@ const AfyopFourthSection = ({variant, content, content2}) => {
   function RenderClassFinderNowHappening() {
     return (
       <>
-      <div className={styles["grid-container-1"]}>
+      <div className={styles["grid-container-1"]} id="ClassFinder">
       <AFYOPContainer title={"CLASS FINDER"}>
             <div className={styles["ClassFinderPics"]}>
               {content.map((step) => {

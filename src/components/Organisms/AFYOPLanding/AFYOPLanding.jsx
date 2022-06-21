@@ -4,6 +4,8 @@ import Image from "next/image";
 import { AFYOPLabel, AFYOPButton } from "../../ComponentIndex";
 import useMediaQuery from "@mui/material/useMediaQuery";
 
+const parse = require('html-react-parser');
+
 const AFYOPLanding = ({ AFYOPLandingData }) => {
   const isScreenWidth576px = useMediaQuery("(max-width:576px)");
   return (
@@ -39,6 +41,7 @@ const AFYOPLanding = ({ AFYOPLandingData }) => {
             width="100"
             height="38"
             draggable={false}
+            priority
           ></Image.default>
         </div>
 
@@ -47,31 +50,42 @@ const AFYOPLanding = ({ AFYOPLandingData }) => {
             title="Ateneo First Year Onboarding Program"
             variant="h5"
           ></AFYOPLabel>
-          <p className={styles["first-year-onboard-section--date"]}>
-            JUNE 28 - JULY 1, 2022
-          </p>
+          <div className={styles["dates"]}>
+            <p className={styles["first-year-onboard-section--date"]}>
+              JUNE 28 - JULY 1, 2022
+            </p>
+            <p className={styles["italic"]}>Sa simulang babalikan, kuwento’y ating simulan.</p>
+          </div>
         </section>
 
         <section className={styles["body-text-section"]}>
+          <div className={styles["intro"]}>
+            <p><span className={styles["yellow"]}>Simula</span> (n.)</p>
+            <p>origin; start; the beginning of something. </p>
+          </div>
           {AFYOPLandingData.bodyText.map((pargraph) => (
-            <p key={pargraph}>{pargraph}</p>
+            <p key={pargraph}>{parse(pargraph)}</p>
           ))}
         </section>
 
         <section className={styles["finders-section"]}>
           <div className={styles["class-finder"]}>
-            <AFYOPButton
-              title="CLASS FINDER"
-              variant={isScreenWidth576px ? "h3" : "h1"}
-            />
-            <p>Find your AFYOP class assignments</p>
+            <a href="#ClassFinder">
+              <AFYOPButton
+                title="CLASS FINDER"
+                variant={isScreenWidth576px ? "h3" : "h1"}
+              />
+            </a>
+            <p>Know your class through our detailed steps and procedures of our Simula Class Finder!</p>
           </div>
           <div className={styles["faci-finder"]}>
-            <AFYOPButton
-              title="FACI FINDER"
-              variant={isScreenWidth576px ? "h3" : "h1"}
-            />
-            <p>Afterwards, connect with your assigned facilitators.</p>
+            <a href="#FaciFinder">
+              <AFYOPButton
+                title="FACI FINDER"
+                variant={isScreenWidth576px ? "h3" : "h1"}
+              />
+            </a>
+            <p>After finding your class, connect with your assigned facilitators through our Simula Faci Finder.</p>
           </div>
         </section>
       </div>

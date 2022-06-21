@@ -4,6 +4,7 @@ html,
 body {
   font-family: "Montserrat", Helvetica, sans-serif;
   height: 100vh;
+  scroll-padding-top: 3rem;
 }
 
 * {

@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 
-import styles from './AFYOPTemplate.module.scss';
 import { Navigation, Footer, AFYOPFeedSection, AfyopFourthSection, FaciFinderSection, AFYOPLanding } from '../../ComponentIndex';
 import { CFData, NHData } from '../../../data/dataIndex';
 import { ALandingData } from '../../../sampleData/dataIndex';
