@@ -320,7 +320,7 @@
             "socials":[
                 { "site": "facebook", "url": "facebook.com/piolo.liquit" },
                 { "site": "twitter", "url": "www.twitter.com/piol_liquit" },
-                { "site": "instagram", "url": "lorem" }
+                { "site": "instagram", "url": "https://www.instagram.com/piol_liquit/" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
         },
@@ -342,7 +342,7 @@
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/parejaneekah" },
                 { "site": "twitter", "url": "https://twitter.com/nikaparejarch" },
-                { "site": "instagram", "url": "https://www.instagram.com/neekah_pareja/" }
+                { "site": "instagram", "url": "https://www.instagram.com/nika_pareja/" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
         },
