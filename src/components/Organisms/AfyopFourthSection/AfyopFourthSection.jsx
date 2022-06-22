@@ -65,7 +65,7 @@ const AfyopFourthSection = ({variant, content, content2}) => {
         }
 
       <div className={styles["grid-container-2"]}>
-      <AFYOPContainer title={"NOW HAPPENING"}>
+      <AFYOPContainer title={"LIVE"}>
         <div className={styles["ClassFinderPics"]}>
                 {content2.map((item) => {
                   return (
