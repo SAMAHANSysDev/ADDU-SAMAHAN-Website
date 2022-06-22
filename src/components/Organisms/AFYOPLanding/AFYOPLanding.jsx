@@ -11,7 +11,7 @@ const AFYOPLanding = ({ AFYOPLandingData }) => {
   return (
     <div className={styles["background"]}>
       <div className={styles["AFYOPLanding"] + " container"}>
-        <div className={styles["AFYOP-logo"]}>
+        {/* <div className={styles["AFYOP-logo"]}>
           <Image.default
             src="https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FAFYOP%20Landing%2FAFYOP%20LOGO.png?alt=media&token=67dba0f5-1d41-4990-be1e-0617d37c4cb9"
             layout="responsive"
@@ -43,6 +43,17 @@ const AFYOPLanding = ({ AFYOPLandingData }) => {
             draggable={false}
             priority
           ></Image.default>
+        </div> */}
+
+        <div className={styles["SimulaLogo"]}>
+          <Image.default 
+          src="https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FAFYOP%20Landing%2Fsimula-logo-landing.png?alt=media&token=0e1d2133-47da-409f-a0e2-5b430a53574e"
+          layout="fill"
+          objectFit="contain"
+          draggable={false}
+          >
+
+          </Image.default>
         </div>
 
         <section className={styles["first-year-onboard-section"]}>

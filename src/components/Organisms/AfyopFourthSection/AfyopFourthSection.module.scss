@@ -5,8 +5,9 @@
     position: relative;
     background-image: url($FinstrHallway), linear-gradient($color--AFYOP-yellow, $color--AFYOP-brown);
     background-repeat: no-repeat;
-    object-fit: contain;
+    object-fit: fill;
     background-position: center;
+    background-size: cover;
     padding-block: 4rem 8rem;
     &__content {
       display: grid;

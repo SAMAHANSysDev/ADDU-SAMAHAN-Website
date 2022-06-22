@@ -5,8 +5,9 @@
   position: relative;
   background: url($AFYOPGazebo), linear-gradient($color--AFYOP-pink, $color--AFYOP-purple);
   background-repeat: no-repeat;
-  object-fit: contain;
+  object-fit: fill;
   background-position: center;
+  background-size: cover;
   padding-block: 4rem;
 
   &__content {

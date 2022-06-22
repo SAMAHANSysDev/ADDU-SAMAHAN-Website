@@ -28,7 +28,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Rairaing" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/mariahshaneng" },
+                { "site": "instagram", "url": "https://www.instagram.com/rairaing/" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
         },
@@ -124,7 +125,8 @@
             "classes":"Lorem",
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/bongching.antigo" },
-                { "site": "twitter", "url": "Lorem" }
+                { "site": "twitter", "url": "https://twitter.com/princeantigo" },
+                { "site": "instagram", "url": "https://www.instagram.com/prbantigo/" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2Ffaci__profile.png?alt=media&token=46e0836f-cf53-42d3-bde6-be110ad54b8e"
         },
