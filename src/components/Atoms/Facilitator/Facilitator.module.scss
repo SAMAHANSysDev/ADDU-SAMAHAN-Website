@@ -29,11 +29,9 @@
         border-radius: 10px;
 
         .texts {
-            margin-block: auto;
             padding-inline: 0.5rem;
             display: flex;
             flex-direction: column;
-            justify-items: center;
             align-items: center;
             text-align: center;
             color: $color--white;
@@ -48,6 +46,18 @@
                 font-size: $captionFontSize;
                 font-weight: $captionFontWeight;
             }
+
+            .classes {
+                margin-top: 0.5rem;
+
+                & > .class {
+                    font-size: $body2FontSize;
+                }
+            }
+        }
+
+        .socials {
+            margin-top: auto;
         }
     }
 }

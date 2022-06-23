@@ -3,7 +3,7 @@
         {
             "name": "Sapsal, John Paul",
             "position": "Core Head Facilitator for AFYOP Activities",
-            "classes":"Lorem",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/jpdsapsal22" },
                 { "site": "twitter", "url": "https://twitter.com/jpsapsal_22" },
@@ -14,7 +14,7 @@
         {
             "name": "Lim, Ruperth Adrianne",
             "position": "Core Head Facilitator for Pre-AFYOP Activities",
-            "classes":"Lorem",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/limruperth" },
                 { "site": "twitter", "url": "https://twitter.com/limruperth" },
@@ -25,7 +25,7 @@
         {
             "name": "Ng, Mariah Shane",
             "position": "Core Facilitator for Training and Development",
-            "classes":"Lorem",
+            "classes":["Lorem"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Rairaing" },
                 { "site": "twitter", "url": "Lorem" }
@@ -35,7 +35,7 @@
         {
             "name": "Pang, Margaux",
             "position": "Core Facilitator for Secretariat",
-            "classes":"Lorem",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Francesca7455" },
                 { "site": "twitter", "url": "https://twitter.com/margauxpang" },
@@ -46,7 +46,7 @@
         {
             "name": "Tagalog, Dianna Kyle",
             "position": "Core Facilitator for Secretariat",
-            "classes":"Lorem",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A", "ACC 1-A", "ENTRP 1-A", "ACC 1-A", "ENTRP 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/dkatagalog" },
                 { "site": "twitter", "url": "https://twitter.com/diannatagalog_" },
@@ -57,7 +57,7 @@
         {
             "name": "Dabon, Zoreyn Victorio",
             "position": "Core Facilitator for Productions, Events, and Activities",
-            "classes":"Lorem",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A", "ACC 1-A", "ENTRP 1-A", "ACC 1-A", "ENTRP 1-A"],
             "socials":[
                 { "site": "facebook", "url": "facebook.com/xzoreynx" },
                 { "site": "twitter", "url": "twitter.com/xzoreynx" },
@@ -68,7 +68,7 @@
         {
             "name": "Macarayon, Lorence Alfred",
             "position": "Core Facilitator for Finance and Sponsorships",
-            "classes":"Lorem",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A", "ACC 1-A", "ENTRP 1-A", "ACC 1-A", "ENTRP 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/lxrence" },
                 { "site": "twitter", "url": "https://twitter.com/lxrencee" },
@@ -79,7 +79,7 @@
         {
             "name": "Castillo, Julieanne",
             "position": "Core Facilitator for Content Development",
-            "classes":"Lorem",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A", "ACC 1-A", "ENTRP 1-A", "ACC 1-A", "ENTRP 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/julieannetancastillo/" },
                 { "site": "twitter", "url": "https://twitter.com/juiscastillo" }

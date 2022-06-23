@@ -3,7 +3,7 @@
         {
             "name": "Sapsal, John Paul",
             "position": "Core Head Facilitator for AFYOP Activities",
-            "classes":"ACC 1-A, ENTRP 1-A, AEngg 1-A",
+            "classes": ["ACC 1-A", "ENTRP 1-A", "AEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/jpdsapsal22" },
                 { "site": "twitter", "url": "https://twitter.com/jpsapsal_22" },
@@ -14,7 +14,7 @@
         {
             "name": "Lim, Ruperth Adrianne",
             "position": "Core Head Facilitator for Pre-AFYOP Activities",
-            "classes":"ACC 1-B, BM 1-A, ARCHI 1-A",
+            "classes":["ACC 1-B", "BM 1-A", "ARCHI 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/limruperth" },
                 { "site": "twitter", "url": "https://twitter.com/limruperth" },
@@ -25,7 +25,7 @@
         {
             "name": "Ng, Mariah Shane",
             "position": "Core Facilitator for Training and Development",
-            "classes":"NURSG 1-B, Ameri 1-A, Asian 1-A, IEngg 1-A, EEngg 1-A ",
+            "classes":["NURSG 1-B", "Ameri 1-A", "Asian 1-A", "IEngg 1-A", "EEngg 1-A "],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Rairaing" },
                 { "site": "twitter", "url": "https://twitter.com/mariahshaneng" },
@@ -36,7 +36,7 @@
         {
             "name": "Pang, Margaux",
             "position": "Core Facilitator for Secretariat",
-            "classes":"NURSNG 1-C, NURSNG 1-D, PSYCH 1-L, ECEng 1-A, MEngg 1-A",
+            "classes":["NURSNG 1-C", "NURSNG 1-D", "PSYCH 1-L", "ECEng 1-A", "MEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Francesca7455" },
                 { "site": "twitter", "url": "https://twitter.com/margauxpang" },
@@ -47,7 +47,7 @@
         {
             "name": "Tagalog, Dianna Kyle",
             "position": "Core Facilitator for Secretariat",
-            "classes":"ACC 1-C, BIOGN 1-A, BioSc 1-A, ChemB 1-A, EnvSc 1-A, CVEng 1-B",
+            "classes":["ACC 1-C", "BIOGN 1-A", "BioSc 1-A", "ChemB 1-A", "EnvSc 1-A", "CVEng 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/dkatagalog" },
                 { "site": "twitter", "url": "https://twitter.com/diannatagalog_" },
@@ -58,7 +58,7 @@
         {
             "name": "Dabon, Zoreyn Victorio",
             "position": "Core Facilitator for Productions, Events, and Activities",
-            "classes":"ACC 1-D, PolSc 1-A, CVEng 1-A",
+            "classes":["ACC 1-D", "PolSc 1-A", "CVEng 1-A"],
             "socials":[
                 { "site": "facebook", "url": "facebook.com/xzoreynx" },
                 { "site": "twitter", "url": "twitter.com/xzoreynx" },
@@ -69,7 +69,7 @@
         {
             "name": "Macarayon, Lorence Alfred",
             "position": "Core Facilitator for Finance and Sponsorships",
-            "classes":"ACC 1-D, AGRIB 1-A, FIN 1-A, HRDM 1-A, PMgmt 1-A, CVEng 1-B",
+            "classes":["ACC 1-D", "AGRIB 1-A", "FIN 1-A", "HRDM 1-A", "PMgmt 1-A", "CVEng 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/lxrence" },
                 { "site": "twitter", "url": "https://twitter.com/lxrencee" },
@@ -80,7 +80,7 @@
         {
             "name": "Castillo, Julieanne",
             "position": "Core Facilitator for Content Development",
-            "classes":"ACC 1-E, MANACC 1-A, PolSc 1-A, DatSc 1-A, InSys 1-A, InTec 1-A",
+            "classes":["ACC 1-E", "MANACC 1-A", "PolSc 1-A", "DatSc 1-A", "InSys 1-A", "InTec 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/julieannetancastillo/" },
                 { "site": "twitter", "url": "https://twitter.com/juiscastillo" }
@@ -90,7 +90,7 @@
         {
             "name": "Wenceslao, Dianne",
             "position": "Core Facilitator for Logistics",
-            "classes":"ACC 1-B, PSYCH 1-L, CVEng 1-A",
+            "classes":["ACC 1-B", "PSYCH 1-L", "CVEng 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/dianne.wnc" },
                 { "site": "twitter", "url": "https://twitter.com/didiwnc" }
@@ -100,7 +100,7 @@
         {
             "name": "Salas, Chloe Mikaela",
             "position": "Core Facilitator for Publicity and Promotions ",
-            "classes":"ACC 1-C, PSYCH 1-M, CPEng 1-A, RoboE 1-A",
+            "classes":["ACC 1-C", "PSYCH 1-M", "CPEng 1-A", "RoboE 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/chloemikaelasalas" },
                 { "site": "twitter", "url": "https://twitter.com/chloesalas_" },
@@ -111,7 +111,7 @@
         {
             "name": "Ignas, Stephanie Lorraine",
             "position": "Core Facilitator for Creatives ",
-            "classes":"NURSG 1-A, ABCOM 1-A, EnglL 1-A, PHILO 1-A, CS 1-A, CS 1-B",
+            "classes":["NURSG 1-A", "ABCOM 1-A", "EnglL 1-A", "PHILO 1-A", "CS 1-A", "CS 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/ignasstephanie" },
                 { "site": "twitter", "url": "https://twitter.com/stephanieignas" },
@@ -122,7 +122,7 @@
         {
             "name": "Antigo, Prince Robin",
             "position": "Senior Facilitator ",
-            "classes":"NURSG 1-A, IDSLL, IDSMB, IDSMT, IDSPT, ChEng 1-A",
+            "classes":["NURSG 1-A", "IDSLL", "IDSMB", "IDSMT", "IDSPT", "ChEng 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/bongching.antigo" },
                 { "site": "twitter", "url": "https://twitter.com/princeantigo" },
@@ -133,7 +133,7 @@
         {
             "name": "Remoroza, Johann",
             "position": "Senior Facilitator ",
-            "classes":"ACC 1-A, MKTG 1-A, ARCHI 1-B",
+            "classes":["ACC 1-A", "MKTG 1-A", "ARCHI 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/JohannBorral" },
                 { "site": "instagram", "url": "https://www.instagram.com/genborral/" }
@@ -143,7 +143,7 @@
         {
             "name": "Acosta, Sung Goon",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-D, AGRIB 1-A, FIN 1-A, HRDM 1-A, PMgmt 1-A, CVEng 1-B",
+            "classes":["ACC 1-D", "AGRIB 1-A", "FIN 1-A", "HRDM 1-A", "PMgmt 1-A", "CVEng 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/sgacsta" },
                 { "site": "twitter", "url": "https://twitter.com/sung_acosta?t=a2OJleOhrh_elxQVnixJ0w&s=09" },
@@ -154,7 +154,7 @@
         {
             "name": "Ang, Joanna Danielle",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-E, MANACC 1-A, PolSc 1-A, DatSc 1-A, InSys 1-A, InTec 1-A",
+            "classes":["ACC 1-E", "MANACC 1-A", "PolSc 1-A", "DatSc 1-A", "InSys 1-A", "InTec 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/joannadanielleee/" },
                 { "site": "twitter", "url": "https://twitter.com/thejoannaang" },
@@ -165,7 +165,7 @@
         {
             "name": "Antalan, Alyssa Cloe",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-B, PSYCH 1-L, CVEng 1-A",
+            "classes":["ACC 1-B", "PSYCH 1-L", "CVEng 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/alyssacloe.antalan.5/" },
                 { "site": "twitter", "url": "https://twitter.com/cloeantalan" },
@@ -176,7 +176,7 @@
         {
             "name": "Arrieta, Patricia Isabelle",
             "position": "Junior Facilitator ",
-            "classes":"EDUC, ISLMC 1-A, Econo 1-A, SocWk 1-A, CVEng 1-C",
+            "classes":["EDUC", "ISLMC 1-A", "Econo 1-A", "SocWk 1-A"," CVEng 1-C"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/piarrieta" },
                 { "site": "twitter", "url": "https://twitter.com/arrietapi" },
@@ -187,7 +187,7 @@
         {
             "name": "Balagot, Mikaela Abrielle",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-C, BIOGN 1-A, BioSc 1-A, ChemB 1-A, EnvSc 1-A, CVEng 1-B",
+            "classes":["ACC 1-C", "BIOGN 1-A", "BioSc 1-A", "ChemB 1-A", "EnvSc 1-A", "CVEng 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/profile.php?id=100025112900512" },
                 { "site": "twitter", "url": "https://twitter.com/mikaelabalagot" }
@@ -197,7 +197,7 @@
         {
             "name": "Cadeña, Jenielou Marie",
             "position": "Junior Facilitator ",
-            "classes":"NURSNG 1-C, NURSNG 1-D, PSYCH 1-L, ECEng 1-A, MEngg 1-A",
+            "classes":["NURSNG 1-C"," NURSNG 1-D", "PSYCH 1-L", "ECEng 1-A", "MEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/jenieloumarie.cadena" },
                 { "site": "twitter", "url": "https://www.twitter.com/jenieloucadena" },
@@ -208,7 +208,7 @@
         {
             "name": "Corias, Danika Maria Sandra",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-B, BM 1-A, ARCHI 1-A",
+            "classes":["ACC 1-B", "BM 1-A", "ARCHI 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/danikaqueen/" },
                 { "site": "twitter", "url": "https://twitter.com/corias_danika" }
@@ -218,7 +218,7 @@
         {
             "name": "David, Francis Clark",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-B, BM 1-A, ARCHI 1-A",
+            "classes":["ACC 1-B", "BM 1-A", "ARCHI 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/franciscddavid" },
                 { "site": "twitter", "url": "https://twitter.com/_clarkdavid" },
@@ -229,7 +229,7 @@
         {
             "name": "Dondonayos, Renil Jed Angelo",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-B, PSYCH 1-L, CVEng 1-A",
+            "classes":["ACC 1-B", "PSYCH 1-L", "CVEng 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/rjangelod/" },
                 { "site": "twitter", "url": "https://twitter.com/rjangelod" }
@@ -239,7 +239,7 @@
         {
             "name": "Eyas, Fitzgerald",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-B, BM 1-A, ARCHI 1-A",
+            "classes":["ACC 1-B", "BM 1-A", "ARCHI 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/fitzgerald.eyas.3/" },
                 { "site": "twitter", "url": "https://twitter.com/fitzeyas" },
@@ -250,7 +250,7 @@
         {
             "name": "Fernandez, Khrysha Louise",
             "position": "Junior Facilitator ",
-            "classes":"NURSG 1-A, ABCOM 1-A, EnglL 1-A, PHILO 1-A, CS 1-A, CS 1-B",
+            "classes":["NURSG 1-A", "ABCOM 1-A", "EnglL 1-A", "PHILO 1-A", "CS 1-A", "CS 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/YshaFernandez.04/" },
                 { "site": "twitter", "url": "https://twitter.com/yshamaziiing" },
@@ -261,7 +261,7 @@
         {
             "name": "Gomez, Daniel Dave",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-E, MANACC 1-A, PolSc 1-A, DatSc 1-A, InSys 1-A, InTec 1-A",
+            "classes":["ACC 1-E", "MANACC 1-A", "PolSc 1-A", "DatSc 1-A", "InSys 1-A", "InTec 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/daneossaur/" },
                 { "site": "twitter", "url": "https://twitter.com/DaneGomez_" },
@@ -272,7 +272,7 @@
         {
             "name": "Isla, Nur-aine Jaizzah",
             "position": "Junior Facilitator ",
-            "classes":"EDUC, ISLMC 1-A, Econo 1-A, SocWk 1-A, CVEng 1-C",
+            "classes":["EDUC", "ISLMC 1-A", "Econo 1-A", "SocWk 1-A", "CVEng 1-C"],
             "socials":[
                 { "site": "facebook", "url": "facebook.com/nurainejaizzah" },
                 { "site": "twitter", "url": "https://twitter.com/nuraineisla" },
@@ -283,7 +283,7 @@
         {
             "name": "Lapatis, Leen Juliet",
             "position": "Junior Facilitator ",
-            "classes":"NURSG 1-A, IDSLL, IDSMB, IDSMT, IDSPT, ChEng 1-A",
+            "classes":["NURSG 1-A", "IDSLL", "IDSMB", "IDSMT", "IDSPT", "ChEng 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/leenjulietlapatis/" },
                 { "site": "twitter", "url": "https://twitter.com/itsleenlapatis" },
@@ -294,7 +294,7 @@
         {
             "name": "Ledesma, Frenzie Christine",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-C, PSYCH 1-M, CPEng 1-A, RoboE 1-A",
+            "classes":["ACC 1-C", "PSYCH 1-M", "CPEng 1-A", "RoboE 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/chin.madria" },
                 { "site": "twitter", "url": "https://twitter.com/frenzieledesma" },
@@ -305,7 +305,7 @@
         {
             "name": "Legaspina, Chyna Marie",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-A, MKTG 1-A, ARCHI 1-B",
+            "classes":["ACC 1-A", "MKTG 1-A", "ARCHI 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://facebook.com/chynamarie.legaspina/" },
                 { "site": "twitter", "url": "https://twitter.com/chylegaspina" },
@@ -316,7 +316,7 @@
         {
             "name": "Liquit, Piolo",
             "position": "Junior Facilitator ",
-            "classes":"NURSNG 1-B, BM 1-A, ARCHI 1-A",
+            "classes":["NURSNG 1-B", "BM 1-A", "ARCHI 1-A"],
             "socials":[
                 { "site": "facebook", "url": "facebook.com/piolo.liquit" },
                 { "site": "twitter", "url": "www.twitter.com/piol_liquit" },
@@ -327,7 +327,7 @@
         {
             "name": "Manapol, Trisha Mae Barral",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-A, ENTRP 1-A, AEngg 1-A",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/tmbmanapol" },
                 { "site": "twitter", "url": "twitter.com/tmbmanapol" },
@@ -338,7 +338,7 @@
         {
             "name": "Pareja, Nika",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-C, BIOGN 1-A, BioSc 1-A, ChemB 1-A, EnvSc 1-A, CVEng 1-B",
+            "classes":["ACC 1-C", "BIOGN 1-A", "BioSc 1-A", "ChemB 1-A", "EnvSc 1-A", "CVEng 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/parejaneekah" },
                 { "site": "twitter", "url": "https://twitter.com/nikaparejarch" },
@@ -349,7 +349,7 @@
         {
             "name": "Pariñas, Kathy Calatao",
             "position": "Junior Facilitator ",
-            "classes":"NURSG 1-A, IDSLL, IDSMB, IDSMT, IDSPT, ChEng 1-A",
+            "classes":["NURSG 1-A", "IDSLL", "IDSMB", "IDSMT", "IDSPT", "ChEng 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/kat.parinas14" },
                 { "site": "twitter", "url": "https://twitter.com/KathyParinas" },
@@ -360,7 +360,7 @@
         {
             "name": "Regno, Rean Marco",
             "position": "Junior Facilitator ",
-            "classes":"NURSG 1-B, Ameri 1-A, Asian 1-A, IEngg 1-A, EEngg 1-A",
+            "classes":["NURSG 1-B", "Ameri 1-A", "Asian 1-A", "IEngg 1-A", "EEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/r3anrn" },
                 { "site": "twitter", "url": "https://twitter.com/reanmarcoregno" },
@@ -371,7 +371,7 @@
         {
             "name": "Sakamoto, Sakura",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-D, AGRIB 1-A, FIN 1-A, HRDM 1-A, PMgmt 1-A, CVEng 1-B",
+            "classes":["ACC 1-D", "AGRIB 1-A", "FIN 1-A", "HRDM 1-A", "PMgmt 1-A", "CVEng 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/sakura.sakamotoii/" },
                 { "site": "twitter", "url": "https://twitter.com/sakurasakamoto_" },
@@ -382,7 +382,7 @@
         {
             "name": "Sotto, Niña Gwyn",
             "position": "Junior Facilitator ",
-            "classes":"NURSG 1-B, Ameri 1-A, Asian 1-A, IEngg 1-A, EEngg 1-A",
+            "classes":["NURSG 1-B", "Ameri 1-A", "Asian 1-A", "IEngg 1-A", "EEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "fb.me/nenyagwyn" },
                 { "site": "twitter", "url": "https://twitter.com/sottoninna" },
@@ -393,7 +393,7 @@
         {
             "name": "Tawantawan, Ali Louis",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-A, MKTG 1-A, ARCHI 1-B",
+            "classes":["ACC 1-A", "MKTG 1-A", "ARCHI 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/alilouismanigos.tawantawan" }
                 
@@ -403,7 +403,7 @@
         {
             "name": "Teng, Thalia Lim",
             "position": "Junior Facilitator ",
-            "classes":"NURSNG 1-B, BM 1-A, ARCHI 1-A",
+            "classes":["NURSNG 1-B", "BM 1-A", "ARCHI 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Tengthalia" },
                 { "site": "twitter", "url": "https://twitter.com/thaliatengg" },
@@ -414,7 +414,7 @@
         {
             "name": "Tinnae, Ville Margareth Dupa",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-D, PolSc 1-A, CVEng 1-A",
+            "classes":["ACC 1-D", "PolSc 1-A", "CVEng 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/margarille" },
                 { "site": "twitter", "url": "https://twitter.com/margarille" },
@@ -425,7 +425,7 @@
         {
             "name": "Tongco, Pauline Alexandra",
             "position": "Junior Facilitator ",
-            "classes":"NURSNG 1-C, NURSNG 1-D, PSYCH 1-L, ECEng 1-A, MEngg 1-A",
+            "classes":["NURSNG 1-C", "NURSNG 1-D", "PSYCH 1-L", "ECEng 1-A", "MEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "www.facebook.com/paulinealexandra.tongco" },
                 { "site": "twitter", "url": "twitter.com/paulinetongco" }
@@ -435,7 +435,7 @@
         {
             "name": "Unga, Mohammad Abdunur",
             "position": "Junior Facilitator ",
-            "classes":"NURSG 1-A, ABCOM 1-A, EnglL 1-A, PHILO 1-A, CS 1-A, CS 1-B",
+            "classes":["NURSG 1-A", "ABCOM 1-A", "EnglL 1-A", "PHILO 1-A", "CS 1-A"," CS 1-B"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/auunga" },
                 { "site": "twitter", "url": "https://www.twitter.com/au_unga" },
@@ -446,7 +446,7 @@
         {
             "name": "Victoriano, Neomi",
             "position": "Junior Facilitator ",
-            "classes":"ACC 1-A, ENTRP 1-A, AEngg 1-A",
+            "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/Victoriano.Neomi/" },
                 { "site": "twitter", "url": "https://twitter.com/neomivictoriano" },

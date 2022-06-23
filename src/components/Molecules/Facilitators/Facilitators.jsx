@@ -18,6 +18,7 @@ const Facilitators = ({ facilitators }) => {
             position={facilitator.position}
             socials={facilitator.socials}
             image={facilitator.picture}
+            classes={facilitator.classes}
           />
         );
       })}
