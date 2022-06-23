@@ -1,7 +1,10 @@
 import React from 'react'
-import { GimmicksHeading } from "../../ComponentIndex";
+import { GimmicksHeading, GimmicksButton } from "../../ComponentIndex";
 import styles from "./AfyopGimmickSection.module.scss";
+
+
 const AfyopGimmickSection = ({text}) => {
+
   return (
     <div className={styles["container"]}>
      <GimmicksHeading heading = "LOREM IPSUM"/>
@@ -10,5 +13,6 @@ const AfyopGimmickSection = ({text}) => {
     </div>
   )
 }
+
 
 export default AfyopGimmickSection

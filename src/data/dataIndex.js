@@ -23,6 +23,7 @@ export { default as AFYOPSimulaTV } from "../data/AFYOPSimulaTV.json";
 export { default as CFData } from "../data/classFinderContent.json";
 export { default as NHData } from "../data/nowHappeningContent.json";
 export { default as FaciFinder } from "../data/FaciFinder.json";
+export { default as GimmicksData } from "../data/GimmicksData.json";
 
 /* INFORMATION AREA */
 export { default as EnrollmentAndPayment } from "../data/Information/EnrollmentAndPayment";

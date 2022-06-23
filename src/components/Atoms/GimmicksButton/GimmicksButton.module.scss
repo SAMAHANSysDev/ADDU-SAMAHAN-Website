@@ -1,0 +1,44 @@
+@import "../../../../styles/variables.scss";
+
+.GimmicksButton {
+    appearance: none;
+    border: none;
+    border-radius: 100px;
+    background-color: $color--AFYOP-yellow;
+    color: $color--AFYOP-brown;
+    cursor: pointer;
+    text-align: center;
+  
+    transition: transform 0.3s ease-in-out;
+  
+    &:hover {
+      transform: translateY(-10px);
+    }
+  
+    &--default {
+      font-size: $h5FontSize;
+      font-weight: $h1FontWeight;
+      padding: 0.625rem 0.938rem;
+    }
+  
+    &--h1 {
+      font-size: $h1FontSize;
+      font-weight: 900;
+      padding: 1.25rem 2.5rem;
+    }
+  
+    &--h3 {
+      font-size: $h3FontSize;
+      font-weight: $h3FontWeight;
+      padding: 0.938rem 2.5rem;
+    }
+  
+    &--h5-white {
+      font-size: $h5FontSize;
+      font-weight: $h1FontWeight;
+      padding: 0.625rem 1.875rem;
+      background-color: $color--white;
+      color: $color--yellow;
+    }
+  }
+  

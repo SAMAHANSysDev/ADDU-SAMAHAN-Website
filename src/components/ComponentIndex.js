@@ -20,6 +20,7 @@ export { default as NowHappeningContent } from "./Atoms/NowHappeningContent/NowH
 export { default as Facilitator } from "./Atoms/Facilitator/Facilitator";
 export { default as Twitterembed } from "./Atoms/Twitterembed/Twitterembed";
 export { default as GimmicksHeading } from "./Atoms/GimmicksHeading/GimmicksHeading";
+export { default as GimmicksButton } from "./Atoms/GimmicksButton/GimmicksButton";
 
 /* MOLECULES */
 export { default as DepartmentNavigation } from "./Molecules/DepartmentNavigation/DepartmentNavigation";
@@ -54,6 +55,7 @@ export { default as AfyopFourthSection } from "./Organisms/AfyopFourthSection/Af
 export { default as AFYOPFeedSection } from "./Organisms/AFYOPFeedSection/AFYOPFeedSection";
 export { default as AFYOPLanding } from "./Organisms/AFYOPLanding/AFYOPLanding";
 export { default as FaciFinderSection } from "./Organisms/FaciFinderSection/FaciFinderSection";
+export { default as AFYOPGimmicks } from "./Organisms/AFYOPGimmicks/AFYOPGimmicks";
 
 /* TEMPLATES */
 export { default as AboutTemplate } from "./Template/AboutTemplate/AboutTemplate";

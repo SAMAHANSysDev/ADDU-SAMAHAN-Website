@@ -19,3 +19,4 @@ export { default as CFData } from "./classFinderContent.json";
 export { default as NHData } from "./nowHappeningContent.json";
 export { default as ALandingData } from "./AFYOPLanding.json";
 export { default as FaciFinderSample } from "./FaciFinderSample.json";
+export { default as GimmicksData } from "../data/GimmicksData.json";

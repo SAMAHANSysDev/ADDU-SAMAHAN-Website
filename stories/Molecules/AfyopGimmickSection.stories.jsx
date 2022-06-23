@@ -1,5 +1,5 @@
 import { AfyopGimmickSection } from "../../src/components/ComponentIndex";
-// import { SysDevProfileSample } from "../../src/sampleData/dataIndex";
+import { GimmicksData } from "../../src/sampleData/dataIndex";
 
 export default {
   title: "Molecules/AfyopGimmickSection",
@@ -13,6 +13,6 @@ export default {
 
 export const Main = {
   args: {
-   text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed tempora, blanditiis eaque accusamus exercitationem nihil, modi debitis possimus cumque delectus sunt porro necessitatibus officiis, fugiat perferendis sit. Repellat, eius cum!"
+   text: GimmicksData.firstP
   },
 };
