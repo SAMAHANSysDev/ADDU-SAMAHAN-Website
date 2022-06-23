@@ -19,6 +19,7 @@ export { default as ClassFinderSteps } from "./Atoms/ClassFinderSteps/ClassFinde
 export { default as NowHappeningContent } from "./Atoms/NowHappeningContent/NowHappeningContent";
 export { default as Facilitator } from "./Atoms/Facilitator/Facilitator";
 export { default as Twitterembed } from "./Atoms/Twitterembed/Twitterembed";
+export { default as GimmicksHeading } from "./Atoms/GimmicksHeading/GimmicksHeading";
 
 /* MOLECULES */
 export { default as DepartmentNavigation } from "./Molecules/DepartmentNavigation/DepartmentNavigation";
@@ -36,6 +37,7 @@ export { default as AFYOPContainer } from "./Molecules/AFYOPContainer/AFYOPConta
 export { default as SimulaTVEP } from "./Atoms/SimulaTVEP/SimulaTVEP";
 export { default as AFYOPCarousel } from "./Molecules/AFYOPCarousel/AFYOPCarousel";
 export { default as Facilitators } from "./Molecules/Facilitators/Facilitators";
+export { default as AfyopGimmickSection } from "./Molecules/AfyopGimmickSection/AfyopGimmickSection";
 
 /* ORGANISMS */
 export { default as Navigation } from "./Organisms/Navigation/Navigation";

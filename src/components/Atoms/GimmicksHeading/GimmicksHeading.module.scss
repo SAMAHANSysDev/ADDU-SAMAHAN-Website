@@ -1,0 +1,14 @@
+@import "../../../../styles/variables.scss";
+
+.outerContainer{
+    background-color: white;
+    color:$color--AFYOP-yellow;
+    width: fit-content;
+    border-radius: 100px;
+    height: fit-content;
+}
+.label{
+    padding: 0 1rem;
+    font-size: $h4FontSize;
+    font-weight: $h1FontWeight;
+}
