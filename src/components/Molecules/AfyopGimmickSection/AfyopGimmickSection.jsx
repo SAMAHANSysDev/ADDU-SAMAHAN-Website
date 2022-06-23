@@ -3,12 +3,16 @@ import { GimmicksHeading, GimmicksButton } from "../../ComponentIndex";
 import styles from "./AfyopGimmickSection.module.scss";
 
 
-const AfyopGimmickSection = ({text}) => {
+const AfyopGimmickSection = ({text , heading}) => {
 
   return (
     <div className={styles["container"]}>
-     <GimmicksHeading heading = "LOREM IPSUM"/>
-        <p className={styles["paragraph"]}>{text}</p>
+     
+     <GimmicksHeading heading = {heading}/>
+     
+     
+     <p className={styles["paragraph"]}>{text}</p>
+        
         
     </div>
   )

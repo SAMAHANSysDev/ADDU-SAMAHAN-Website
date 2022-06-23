@@ -1,5 +1,5 @@
 import { AFYOPGimmicks } from "../../src/components/ComponentIndex";
-import { GimmicksData } from "../../src/sampleData/dataIndex";
+import { GimmicksData, GimmicksHeading } from "../../src/sampleData/dataIndex";
 
 export default {
   title: "Organisms/AFYOP Gimmicks",
@@ -8,9 +8,12 @@ export default {
 
 export const Basic = {
   args: {
-    link: "google.com",
+   
     firstP: GimmicksData.firstP,
     secondP: GimmicksData.secondP,
     thirdP: GimmicksData.thirdP,
+    fHeading: GimmicksHeading.fHeading,
+    sHeading: GimmicksHeading.sHeading,
+    tHeading: GimmicksHeading.tHeading
   },
 };

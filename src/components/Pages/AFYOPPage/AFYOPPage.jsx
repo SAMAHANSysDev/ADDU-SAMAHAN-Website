@@ -1,7 +1,7 @@
 import React from "react";
 
 import { AFYOPTemplate } from "../../ComponentIndex";
-import { AFYOPSimulaTV, FaciFinder } from "../../../data/dataIndex";
+import { AFYOPSimulaTV, FaciFinder, GimmicksData, GimmicksHeading } from "../../../data/dataIndex";
 
 const AFYOPPage = () => {
   return (
@@ -9,6 +9,12 @@ const AFYOPPage = () => {
       <AFYOPTemplate
         SimulaTVContent={AFYOPSimulaTV.SimulaTVTwitter}
         facilitators={FaciFinder.facilitators}
+    firstP= {GimmicksData.firstP}
+    secondP= {GimmicksData.secondP}
+    thirdP= {GimmicksData.thirdP}
+    fHeading= {GimmicksHeading.fHeading}
+    sHeading= {GimmicksHeading.sHeading}
+    tHeading= {GimmicksHeading.tHeading}
       />
     </>
   );

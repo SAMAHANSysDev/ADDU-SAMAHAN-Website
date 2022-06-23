@@ -1,1 +1,58 @@
 @import "../../../../styles/variables.scss";
+@import '../../../data/imageSrc.module.scss';
+
+.section{
+    
+    width: fit-content;
+    height: fit-content;
+    
+    border-radius: 50px;
+    background-color: $color--AFYOP-light-purple;
+    padding: 0 3rem 2rem;
+    
+    
+    
+    
+    
+}
+.container{
+    display: flex;
+    text-align: center;
+    width: 90%;
+    
+    border-radius: 100px;
+    gap: 3rem;
+    padding-block: 7rem;
+    
+    
+    
+    
+    
+}
+.outerContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.background{
+    width: 100%;
+    height: fit-content;
+    background: url($gimmicksBackground), linear-gradient( $color--AFYOP-purple, $color--AFYOP-pink);
+    background-repeat: no-repeat;
+    object-fit: fill;
+    background-position: center;
+    background-size: cover;
+}
+
+@media screen and (max-width: 840px) {
+    .container {
+     
+        display: flex;
+        flex-direction: column;
+       
+      }
+    }
+  
+

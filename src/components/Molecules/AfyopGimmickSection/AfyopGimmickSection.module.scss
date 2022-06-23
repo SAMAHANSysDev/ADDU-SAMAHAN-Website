@@ -1,11 +1,20 @@
 @import "../../../../styles/variables.scss";
 
 .container{
-    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
 }
 
 .paragraph{
     font-weight: bold;
     padding: 1rem 1rem;
+    text-align: left;
     
 }
+
+.header{
+    padding-top: -12rem;
+}
+

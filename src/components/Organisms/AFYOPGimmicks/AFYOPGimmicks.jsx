@@ -1,38 +1,49 @@
 import React from 'react'
 import { GimmicksButton, AfyopGimmickSection } from "../../ComponentIndex";
-const AFYOPGimmicks = ({link, firstP, secondP, thirdP}) => {
+import styles from "./AFYOPGimmicks.module.scss";
+const AFYOPGimmicks = ({firstP, secondP, thirdP, fHeading, sHeading, tHeading}) => {
   return (
-    <div>
-        <section>
+    <div className={styles["background"]}>
+      <div className={styles["outerContainer"]}>
+        <div className={styles["container"]}>
+        <div className={styles["section"]}>
+
        <AfyopGimmickSection 
        text= {firstP}
+       heading = {fHeading}
        />
+
        <GimmicksButton 
        title = "Coming Soon"
        variant='default'
        />
-       </section>
+       </div>
 
-       <section>
+       <div className={styles["section"]}>
        <AfyopGimmickSection 
        text={secondP}
+       heading = {sHeading}
        />
        <GimmicksButton 
        title = "Coming Soon"
        variant='default'
        />
-       </section>
+       </div>
 
-       <section>
+       <div className={styles["section"]}>
        <AfyopGimmickSection 
        text={thirdP}
+       heading = {tHeading}
        />
+       <a href="https://tinyurl.com/AFYOPLateNights ">
        <GimmicksButton 
        title = "JOIN DISCORD SERVER"
        variant='default'
        />
-       </section>
-
+       </a>
+       </div>
+       </div>
+       </div>
     </div>
   )
 }
