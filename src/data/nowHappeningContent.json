@@ -3,7 +3,6 @@
         "title":"NOW HAPPENING",
         "contents":[
             {
-                "ItemNum":"Item #1",
                 "DateTime":"June 23, 2022 | 2:00 PM",
                 "event":" Sending of Simula Invites to Freshies",
                 "platform": "Platform: Google Mail",
@@ -11,7 +10,6 @@
                 "expiry": "June 23 2022 02:30 PM"
             },
             {
-                "ItemNum":"Item #2",
                 "DateTime":" June 23, 2022 | 2:30 PM",
                 "event":" Creation of Simula Group Chats with Freshies",
                 "platform": "Platform: Messenger",
@@ -19,7 +17,6 @@
                 "expiry": "June 24 2022 12:00 AM"
             },
             {
-                "ItemNum":"Item #3",
                 "DateTime":"June 25-26, 2022 | 2:30 PM",
                 "event":"Pre-AFYOP Days",
                 "platform": "Platform: Zoom [to be sent through Simula Group Chats]",
@@ -27,7 +24,6 @@
                 "expiry": "June 27 2022 12:00 AM"
             },
             {
-                "ItemNum":"Item #4",
                 "DateTime":"June 27, 2022 | 10:00 AM",
                 "event":"Eucharistic Celebration",
                 "platform": "Platform: AdDU Official Facebook Live",
@@ -35,47 +31,76 @@
                 "expiry": "June 27 2022 01:00 PM"
             },
             {
-                "ItemNum":"Item #5",
                 "DateTime":" June 27, 2022 | 1:00 PM",
                 "event":"AFYOP Simula 2022 Opening Ceremony",
                 "platform": "Platform: Ateneo First Year Onboarding Program Facebook Live",
                 "desc":"Simulan na ang iyong AFYOP kwuento by tuning in to the Live Opening Ceremony as we officially kick-start this year’s AFYOP. ",
+                "expiry": "June 27 2022 08:00 PM"
+            },
+            {
+                "DateTime":" June 27, 2022 | 8:00 PM",
+                "event":"Simula Late Nights Tambayan",
+                "platform": "Platform: Discord",
+                "desc":"Join the SIMULA Tambayan if you are in the mood for late night talks and sharings!  ",
                 "expiry": "June 28 2022 12:00 AM"
             },
             {
-                "ItemNum":"Item #6",
                 "DateTime":"  June 28, 2022 | 8:00 AM ",
                 "event":"AFYOP Simula 2022 Breakout Sessions for ACCOUNTANCY, NURSING, and EDUCATION Freshies",
                 "platform": "Platform: Zoom [sent through Simula Invites and Group Chats] ",
                 "desc":"Today marks the first day of the breakout sessions of the freshies coming from the Accountancy, Nursing, and Education Cluster. ",
+                "expiry": "June 28 2022 08:00 PM"
+            },
+            {
+                "DateTime":"  June 28, 2022 | 8:00 PM  ",
+                "event":"Simula Late Nights Trivia Nights",
+                "platform": "Platform: Discord ",
+                "desc":"Show what you’ve got in that big brain energy and learn more in our informative game as we are holding the SIMULA Trivia Nights! ",
                 "expiry": "June 29 2022 12:00 AM"
             },
             {
-                "ItemNum":"Item #7",
                 "DateTime":"June 29, 2022 | 8:00 AM",
                 "event":"AFYOP Simula 2022 Breakout Sessions for BUSINESS & MANAGEMENT, HUMANITIES AND LETTERS, NATURAL SCIENCES AND MATHEMATICS, and SOCIAL SCIENCES",
                 "platform": "Platform: Zoom [sent through Simula Invites and Group Chats] ",
                 "desc":"Onto the second day of breakout sessions with the freshies from the Business & Management, Humanities and Letter, Natural Sciences and Mathematics, and Social Sciences Cluster.",
+                "expiry": "June 29 2022 08:00 PM"
+            },
+            {
+                "DateTime":"June 29, 2022 | 8:00 PM",
+                "event":"Simula Late Nights Movie Nights",
+                "platform": "Platform: Discord ",
+                "desc":"Get your popcorn ready and relax a little bit while watching your favorite genre in our SIMULA Movie House!",
                 "expiry": "June 30 2022 12:00 AM"
             },
             {
-                "ItemNum":"Item #7",
                 "DateTime":"June 30, 2022 | 8:00 AM ",
                 "event":" AFYOP Simula 2022 Breakout Sessions for ENGINEERING AND ARCHITECTURE and COMPUTER STUDIES",
                 "platform": "Platform: Zoom [sent through Simula Invites and Group Chats] ",
                 "desc":"The last day of the breakout sessions is finally here as we welcome the freshies from the Engineering and Architecture and Computer Studies Clusters.",
+                "expiry": "June 30 2022 08:00 PM"
+            },
+            {
+                "DateTime":"June 30, 2022 | 8:00 PM ",
+                "event":" Simula Late Nights Game Nights",
+                "platform": "Platform: Discord ",
+                "desc":" Don't miss out on the fun by joining our SIMULA Gaming Channel as exciting games await you!",
                 "expiry": "July 01 2022 12:00 AM"
             },
             {
-                "ItemNum":"Item #8",
                 "DateTime":"July 1, 2022 | 1:00 PM ",
                 "event":"AFYOP Simula 2022 Closing Ceremony",
                 "platform": "Platform: Ateneo First Year Onboarding Program Facebook Live ",
                 "desc":" We are now officially down to the last day of our AFYOP week. Tune in to the Closing Ceremony as we get to share and learn different stories from our AFYOP experience, know the winners from our most-awaited AFYOP Sensation, and more!",
+                "expiry": "July 01 2022 08:00 PM"
+            },
+            {
+                "DateTime":"July 1, 2022 | 8:00 PM ",
+                "event":"Simula Late Nights Musikahan",
+                "platform": "Platform: Discord ",
+                "desc":" Send your youthful stories and jam with us in the SIMULA Musikahan — a chill night with good music!",
                 "expiry": "July 02 2022 12:00 AM"
             },
             {
-                "ItemNum":"Item #8",
                 "DateTime":"July 4-12, 2022 | 1-hour session from 8:00 AM - 5:00 PM ",
                 "event":" Campus Tour",
                 "platform": "Venue: Ateneo de Davao University, Jacinto Campus ",

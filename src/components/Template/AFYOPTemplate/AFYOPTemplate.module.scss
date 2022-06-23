@@ -1,0 +1,13 @@
+@import '../../../../styles/variables.scss';
+
+.divider {
+    height: 4.375rem;
+
+    &-1 {
+        background: linear-gradient(90deg, $color--AFYOP-purple, $color--AFYOP-pink);
+    }
+
+    &-2 {
+        background: linear-gradient(90deg, $color--AFYOP-pink, $color--AFYOP-purple);
+    }
+}

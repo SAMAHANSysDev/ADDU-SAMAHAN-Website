@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 import styles from './Facilitator.module.scss'
 import { SysDevSocials } from '../../ComponentIndex'
-const Facilitator = ({ image, name, position, socials }) => {
+const Facilitator = ({ image, name, position, socials, classes }) => {
   return (
     <div className={styles["Facilitator"]}>
       <div className={styles["Facilitator__details"]}>
@@ -13,6 +13,14 @@ const Facilitator = ({ image, name, position, socials }) => {
         <div className={styles["texts"]}>
           <h5 className={styles["name"]}>{name}</h5>
           <p className={styles["position"]}>{position}</p>
+          <div className={styles["classes"]}>
+            {classes.map((assigned) => {
+              return (
+                <p key={assigned} className={styles["class"]}>{assigned}</p>
+              )
+            })}
+          </div>
+
         </div>
         <div className={styles["socials"]}>
           <SysDevSocials socials={socials} color={"#FFFFFF"}/>

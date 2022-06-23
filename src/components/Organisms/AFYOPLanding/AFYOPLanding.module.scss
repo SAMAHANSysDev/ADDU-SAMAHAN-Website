@@ -4,10 +4,17 @@
 .background {
   width: 100%;
   height: fit-content;
-  background: url($AFYOPClassroom), linear-gradient($color--AFYOP-pink, $color--AFYOP-purple);
+  background: url($AFYOPLandingBG), linear-gradient($color--AFYOP-pink, $color--AFYOP-purple);
   background-repeat: no-repeat;
-  object-fit: contain;
+  object-fit: fill;
   background-position: center;
+  background-size: cover;
+}
+
+.SimulaLogo {
+  position: relative;
+  width: 30.625rem;
+  height: 19.063rem;
 }
 
 .AFYOPLanding {
@@ -49,12 +56,12 @@
     .dates {
       padding: 1rem;
       border-radius: 20px;
-      background-color: rgba(255, 217, 0, 0.6);
+      background-color: rgba(255, 255, 255, 0.9);
       backdrop-filter: blur(10px);
       text-align: center;
 
       p {
-        color: $color--AFYOP-brown;
+        color: $color--AFYOP-purple;
       }
     }
   }
@@ -69,7 +76,7 @@
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    max-width: 47rem;
+    max-width: 65rem;
     
     background: rgba(255, 255, 255, 0.9);
     backdrop-filter: blur(10px);
