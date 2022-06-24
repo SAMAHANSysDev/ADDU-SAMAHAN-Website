@@ -1,15 +1,8 @@
 @import "../../../../styles/variables.scss";
 
-.sliderContainer{
-    height:800px;
-    border: 1px;
-    border-width: 1px;
-    object-fit: contain;
-    
-    
-}
-
-.slick {
+.mySwiper {
+    height: 50rem;
+    width: 100%;
     position: relative;
-    height: 50rem !important;
+    background: linear-gradient($color--AFYOP-yellow, $color--AFYOP-brown);
 }
