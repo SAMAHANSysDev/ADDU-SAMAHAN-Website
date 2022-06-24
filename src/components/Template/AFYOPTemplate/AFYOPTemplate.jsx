@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react'
 
 import styles from './AFYOPTemplate.module.scss'
-import { Navigation, Footer, AFYOPFeedSection, AfyopFourthSection, FaciFinderSection, AFYOPLanding, AFYOPGimmicks } from '../../ComponentIndex';
+import { Navigation, Footer, AFYOPFeedSection, AfyopFourthSection, FaciFinderSection, AFYOPLanding, AFYOPGimmicks, AFYOPCarousel } from '../../ComponentIndex';
 import { CFData, NHData } from '../../../data/dataIndex';
 import { ALandingData } from '../../../sampleData/dataIndex';
 import { FilterContents } from '../../../utilities/datetime'
 
-const AFYOPTemplate = ({ SimulaTVContent, facilitators, AFYOPLandingData, firstP, secondP, thirdP, fHeading, sHeading, tHeading }) => {
+const AFYOPTemplate = ({ SimulaTVContent, facilitators, AFYOPLandingData, firstP, secondP, thirdP, fHeading, sHeading, tHeading, carcon }) => {
   const [NHContent, SetNHContent] = useState(NHData.content.contents);
 
   useEffect(() => {
@@ -23,6 +23,7 @@ const AFYOPTemplate = ({ SimulaTVContent, facilitators, AFYOPLandingData, firstP
     <>
         <Navigation />
         <AFYOPLanding AFYOPLandingData={ALandingData}/>
+        <AFYOPCarousel carcon = {carcon}/>
         <div className={[styles["divider"], styles['divider-1']].join(' ')}></div>
         <AFYOPFeedSection variant={SimulaTVContent.variant} content={SimulaTVContent.content}/>
         <div className={[styles["divider"], styles['divider-2']].join(' ')}></div>

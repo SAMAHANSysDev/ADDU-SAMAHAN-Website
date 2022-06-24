@@ -25,6 +25,7 @@ export { default as NHData } from "../data/nowHappeningContent.json";
 export { default as FaciFinder } from "../data/FaciFinder.json";
 export { default as GimmicksData } from "../data/GimmicksData.json";
 export { default as GimmicksHeading } from "../data/GimmicksHeading.json";
+export { default as AFYOPcarouselcontent } from "../data/AFYOPcarouselcontent.json";
 
 /* INFORMATION AREA */
 export { default as EnrollmentAndPayment } from "../data/Information/EnrollmentAndPayment";

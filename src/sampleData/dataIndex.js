@@ -21,3 +21,4 @@ export { default as ALandingData } from "./AFYOPLanding.json";
 export { default as FaciFinderSample } from "./FaciFinderSample.json";
 export { default as GimmicksData } from "../data/GimmicksData.json";
 export { default as GimmicksHeading } from "../data/GimmicksHeading.json";
+export { default as AFYOPcarouselcontent } from "../data/AFYOPcarouselcontent.json";

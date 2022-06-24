@@ -1,10 +1,12 @@
 @import "../../../../styles/variables.scss";
 
 .sliderContainer{
-    height: fit-content;
+    height:800px;
     border: 1px;
     border-width: 1px;
-    opacity: 0.5;
+    object-fit: contain;
+    
+    
 }
 
 .slick {

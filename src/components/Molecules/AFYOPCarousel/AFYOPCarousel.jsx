@@ -18,12 +18,12 @@ const settings = {
   autoplaySpeed: 2000,
 };
 
-const AFYOPCarousel = ({ data }) => {
+const AFYOPCarousel = ({ carcon }) => {
   return (
     <div>
       <div className={styles["sliderContainer"]}>
         <Slider {...settings}>
-          {data.content.map((item, index) => {
+          {carcon.content.map((item, index) => {
             return (
               <div key={index} className={styles["slick"]}>
                 <CarouselContent imgSrc={item} />

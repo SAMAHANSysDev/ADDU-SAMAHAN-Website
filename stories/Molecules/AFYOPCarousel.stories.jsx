@@ -1,5 +1,5 @@
 import { AFYOPCarousel} from "../../src/components/ComponentIndex";
-import { slideshowContent } from "../../src/data/dataIndex";
+import { AFYOPcarouselcontent } from "../../src/data/dataIndex";
 export default {
     
     title: "Molecules/AFYOPCarousel",
@@ -19,7 +19,7 @@ export default {
     //   data4 : "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSlideshow%20pics%2F%5B4%5D%20OSG.png?alt=media&token=41037406-f040-4bb9-b0ea-d9b5682ada2a",
     //   data5 : "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSlideshow%20pics%2F%5B5%5D%20OST.png?alt=media&token=fc2692f8-ea87-4aec-aa99-af028740f16f",
     //   data6 : "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSlideshow%20pics%2F%5B6%5D%20Advocasix.png?alt=media&token=f7475e29-e935-449d-b393-a657867adecd"
-    data : slideshowContent
+    carcon : AFYOPcarouselcontent
     },
     
   };
