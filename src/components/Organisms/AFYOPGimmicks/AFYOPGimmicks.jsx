@@ -13,11 +13,13 @@ const AFYOPGimmicks = ({firstP, secondP, thirdP, fHeading, sHeading, tHeading , 
        heading = {fHeading}
        pic = {fPicture}
        />
-
+       
+        <a href=" https://tinyurl.com/AFYOPSimulaStart-upKit ">
        <GimmicksButton 
-       title = "Coming Soon"
+       title = "CLICK TO VIEW"
        variant='default'
        />
+       </a>
        </div>
 
        <div className={styles["section"]}>
@@ -27,8 +29,10 @@ const AFYOPGimmicks = ({firstP, secondP, thirdP, fHeading, sHeading, tHeading , 
        pic = {sPicture}
        />
        <a href="https://tinyurl.com/AFYOPSimulaScrapbook  ">
+       
+
        <GimmicksButton 
-       title = "Click to view"
+       title = "CLICK TO VIEW"
        variant='default'
        />
        </a>
