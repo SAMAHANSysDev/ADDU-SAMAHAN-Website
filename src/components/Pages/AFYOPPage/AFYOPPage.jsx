@@ -1,7 +1,7 @@
 import React from "react";
 
 import { AFYOPTemplate } from "../../ComponentIndex";
-import { AFYOPSimulaTV, FaciFinder, GimmicksData, GimmicksHeading,AFYOPcarouselcontent } from "../../../data/dataIndex";
+import { AFYOPSimulaTV, FaciFinder, GimmicksData, GimmicksHeading,AFYOPcarouselcontent,AFYOPGimmicksPics } from "../../../data/dataIndex";
 
 const AFYOPPage = () => {
   return (
@@ -16,6 +16,9 @@ const AFYOPPage = () => {
     sHeading= {GimmicksHeading.sHeading}
     tHeading= {GimmicksHeading.tHeading}
     carcon = {AFYOPcarouselcontent}
+    fPicture= {AFYOPGimmicksPics.fPic}
+    sPicture= {AFYOPGimmicksPics.tPic}
+    tPicture= {AFYOPGimmicksPics.sPic}
       />
     </>
   );

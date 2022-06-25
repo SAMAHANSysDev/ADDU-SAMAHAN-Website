@@ -1,5 +1,5 @@
 import { AfyopGimmickSection } from "../../src/components/ComponentIndex";
-import { GimmicksData, GimmicksHeading } from "../../src/sampleData/dataIndex";
+import { GimmicksData, GimmicksHeading, AFYOPGimmicksPics } from "../../src/sampleData/dataIndex";
 
 export default {
   title: "Molecules/AfyopGimmickSection",
@@ -14,6 +14,7 @@ export default {
 export const Main = {
   args: {
    text: GimmicksData.firstP,
-   heading: GimmicksHeading.fHeading
+   heading: GimmicksHeading.fHeading,
+   pic: AFYOPGimmicksPics.fPic
   },
 };

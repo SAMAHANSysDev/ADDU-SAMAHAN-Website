@@ -6,7 +6,7 @@ import { CFData, NHData } from '../../../data/dataIndex';
 import { ALandingData } from '../../../sampleData/dataIndex';
 import { FilterContents } from '../../../utilities/datetime'
 
-const AFYOPTemplate = ({ SimulaTVContent, facilitators, AFYOPLandingData, firstP, secondP, thirdP, fHeading, sHeading, tHeading, carcon }) => {
+const AFYOPTemplate = ({ SimulaTVContent, facilitators, AFYOPLandingData, firstP, secondP, thirdP, fHeading, sHeading, tHeading, carcon, fPicture,sPicture,tPicture }) => {
   const [NHContent, SetNHContent] = useState(NHData.content.contents);
 
   useEffect(() => {
@@ -29,7 +29,7 @@ const AFYOPTemplate = ({ SimulaTVContent, facilitators, AFYOPLandingData, firstP
         <div className={[styles["divider"], styles['divider-2']].join(' ')}></div>
         <AfyopFourthSection variant={CFData.content.variant} content={CFData.content.items} content2={NHContent} />
         <FaciFinderSection facilitators={facilitators}/>
-        <AFYOPGimmicks firstP = {firstP} secondP = {secondP} thirdP ={thirdP} fHeading={fHeading} sHeading={sHeading} tHeading={tHeading}/>
+        <AFYOPGimmicks firstP = {firstP} secondP = {secondP} thirdP ={thirdP} fHeading={fHeading} sHeading={sHeading} tHeading={tHeading} fPicture={fPicture} sPicture={sPicture} tPicture={tPicture}/>
         <Footer />
     </>
   )

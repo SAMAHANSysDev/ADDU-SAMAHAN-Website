@@ -3,28 +3,22 @@
 
 .section{
     
-    width: fit-content;
-    height: fit-content;
-    
-    border-radius: 50px;
-    background-color: $color--AFYOP-light-purple;
-    padding: 0 3rem 2rem;
-    
-    
-    
+   width: fit-content;
+   height: fit-content;  
+   padding: 1rem;
+ 
     
     
 }
 .container{
-    display: flex;
-    text-align: center;
-    width: 90%;
+   width: fit-content;
     
-    border-radius: 100px;
-    gap: 3rem;
-    padding-block: 7rem;
-    
-    
+   background: rgba(255, 255, 255, 0.7);
+   backdrop-filter: blur(10px);
+   padding: 2rem;
+   border-radius: 50px;
+   
+   
     
     
     
@@ -33,6 +27,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 1rem;
     
 }
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import { GimmicksButton, AfyopGimmickSection } from "../../ComponentIndex";
 import styles from "./AFYOPGimmicks.module.scss";
-const AFYOPGimmicks = ({firstP, secondP, thirdP, fHeading, sHeading, tHeading}) => {
+const AFYOPGimmicks = ({firstP, secondP, thirdP, fHeading, sHeading, tHeading , fPicture,sPicture,tPicture}) => {
   return (
     <div className={styles["background"]}>
       <div className={styles["outerContainer"]}>
@@ -11,6 +11,7 @@ const AFYOPGimmicks = ({firstP, secondP, thirdP, fHeading, sHeading, tHeading}) 
        <AfyopGimmickSection 
        text= {firstP}
        heading = {fHeading}
+       pic = {fPicture}
        />
 
        <GimmicksButton 
@@ -23,17 +24,21 @@ const AFYOPGimmicks = ({firstP, secondP, thirdP, fHeading, sHeading, tHeading}) 
        <AfyopGimmickSection 
        text={secondP}
        heading = {sHeading}
+       pic = {sPicture}
        />
+       <a href="https://tinyurl.com/AFYOPSimulaScrapbook  ">
        <GimmicksButton 
-       title = "Coming Soon"
+       title = "Click to view"
        variant='default'
        />
+       </a>
        </div>
 
        <div className={styles["section"]}>
        <AfyopGimmickSection 
        text={thirdP}
        heading = {tHeading}
+       pic = {tPicture}
        />
        <a href="https://tinyurl.com/AFYOPLateNights ">
        <GimmicksButton 

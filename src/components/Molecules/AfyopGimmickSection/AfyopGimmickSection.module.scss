@@ -1,9 +1,15 @@
 @import "../../../../styles/variables.scss";
 
-.container{
+.outerContainer{
+    display: flex;
+    
+}
+
+
+.innerContainer{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     
 }
 
@@ -12,9 +18,5 @@
     padding: 1rem 1rem;
     text-align: left;
     
-}
-
-.header{
-    padding-top: -12rem;
 }
 

@@ -1,5 +1,5 @@
 import { AFYOPGimmicks } from "../../src/components/ComponentIndex";
-import { GimmicksData, GimmicksHeading } from "../../src/sampleData/dataIndex";
+import { GimmicksData, GimmicksHeading, AFYOPGimmicksPics } from "../../src/sampleData/dataIndex";
 
 export default {
   title: "Organisms/AFYOP Gimmicks",
@@ -14,6 +14,9 @@ export const Basic = {
     thirdP: GimmicksData.thirdP,
     fHeading: GimmicksHeading.fHeading,
     sHeading: GimmicksHeading.sHeading,
-    tHeading: GimmicksHeading.tHeading
+    tHeading: GimmicksHeading.tHeading,
+    fPicture: AFYOPGimmicksPics.fPic,
+    sPicture: AFYOPGimmicksPics.tPic,
+    tPicture: AFYOPGimmicksPics.sPic,
   },
 };

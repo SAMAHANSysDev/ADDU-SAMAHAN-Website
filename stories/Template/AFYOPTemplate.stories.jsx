@@ -1,5 +1,5 @@
 import { AFYOPTemplate } from '../../src/components/ComponentIndex';
-import { AFYOPSimulaTVSample, FaciFinderSample, GimmicksData, GimmicksHeading, AFYOPcarouselcontent} from '../../src/sampleData/dataIndex';
+import { AFYOPSimulaTVSample, FaciFinderSample, GimmicksData, GimmicksHeading, AFYOPcarouselcontent, AFYOPGimmicksPics} from '../../src/sampleData/dataIndex';
 
 export default {
   title: 'Template/AFYOP Template',
@@ -16,6 +16,10 @@ export const Main = {
     fHeading: GimmicksHeading.fHeading,
     sHeading: GimmicksHeading.sHeading,
     tHeading: GimmicksHeading.tHeading,
-    carcon: AFYOPcarouselcontent
+    carcon: AFYOPcarouselcontent,
+    fPicture: AFYOPGimmicksPics.fPic,
+    sPicture: AFYOPGimmicksPics.tPic,
+    tPicture: AFYOPGimmicksPics.sPic
+    
   }
 };
