@@ -59,7 +59,8 @@ const AFYOPCarousel = ({ carcon }) => {
         {carcon.content.map((item, index) => {
           return (
             <SwiperSlide key={index}>
-              <Image src={item} layout="fill" objectFit="contain" alt="Carousel Image" />
+              <Image.default src={item} layout="fill" objectFit="contain" alt="Carousel Image" />
+              
             </SwiperSlide>
           );
         })}
