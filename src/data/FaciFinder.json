@@ -60,9 +60,9 @@
             "position": "Core Facilitator for Productions, Events, and Activities",
             "classes":["ACC 1-D", "PolSc 1-A", "CVEng 1-A"],
             "socials":[
-                { "site": "facebook", "url": "facebook.com/xzoreynx" },
-                { "site": "twitter", "url": "twitter.com/xzoreynx" },
-                { "site": "instagram", "url": "instagram.com/xzoreynx" }
+                { "site": "facebook", "url": "https://facebook.com/xzoreynx" },
+                { "site": "twitter", "url": "https://twitter.com/xzoreynx" },
+                { "site": "instagram", "url": "https://instagram.com/xzoreynx" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2FDABON.png?alt=media&token=1b001faf-6268-4416-b48a-6eba0d771eb9"
         },
@@ -73,7 +73,7 @@
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/lxrence" },
                 { "site": "twitter", "url": "https://twitter.com/lxrencee" },
-                { "site": "instagram", "url": "instagram.com/lxrence" }
+                { "site": "instagram", "url": "https://instagram.com/lxrence" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2FMACARAYON.png?alt=media&token=a3b8e19e-4120-42bb-aded-4436749160bb"
         },
@@ -274,7 +274,7 @@
             "position": "Junior Facilitator ",
             "classes":["EDUC", "ISLMC 1-A", "Econo 1-A", "SocWk 1-A", "CVEng 1-C"],
             "socials":[
-                { "site": "facebook", "url": "facebook.com/nurainejaizzah" },
+                { "site": "facebook", "url": "https://facebook.com/nurainejaizzah" },
                 { "site": "twitter", "url": "https://twitter.com/nuraineisla" },
                 { "site": "instagram", "url": "https://www.instagram.com/nurainejaizzah/" }
             ],
@@ -287,7 +287,7 @@
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/leenjulietlapatis/" },
                 { "site": "twitter", "url": "https://twitter.com/itsleenlapatis" },
-                { "site": "instagram", "url": "instagram.com/leenlapatis_/" }
+                { "site": "instagram", "url": "https://instagram.com/leenlapatis_/" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2FLAPATIS.png?alt=media&token=def04c28-c9bc-4ade-a804-72de7a31983e"
         },
@@ -318,8 +318,8 @@
             "position": "Junior Facilitator ",
             "classes":["NURSNG 1-B", "BM 1-A", "ARCHI 1-A"],
             "socials":[
-                { "site": "facebook", "url": "facebook.com/piolo.liquit" },
-                { "site": "twitter", "url": "www.twitter.com/piol_liquit" },
+                { "site": "facebook", "url": "https://facebook.com/piolo.liquit" },
+                { "site": "twitter", "url": "https://www.twitter.com/piol_liquit" },
                 { "site": "instagram", "url": "https://www.instagram.com/piol_liquit/" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2FLIQUIT.png?alt=media&token=5dc9cc7c-de8f-4d13-9555-f34a95539de5"
@@ -330,8 +330,8 @@
             "classes":["ACC 1-A", "ENTRP 1-A", "AEngg 1-A"],
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/tmbmanapol" },
-                { "site": "twitter", "url": "twitter.com/tmbmanapol" },
-                { "site": "instagram", "url": "instagram.com/tmbmanapol" }
+                { "site": "twitter", "url": "https://twitter.com/tmbmanapol" },
+                { "site": "instagram", "url": "https://instagram.com/tmbmanapol" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2FMANAPOL.png?alt=media&token=e281eed3-a8bb-44b7-bb56-e8b728b2b059"
         },
@@ -364,7 +364,7 @@
             "socials":[
                 { "site": "facebook", "url": "https://www.facebook.com/r3anrn" },
                 { "site": "twitter", "url": "https://twitter.com/reanmarcoregno" },
-                { "site": "instagram", "url": "instagram.com/re_marcoregno" }
+                { "site": "instagram", "url": "https://instagram.com/re_marcoregno" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2FREGNO.png?alt=media&token=801e0943-361e-49f2-a952-7b6446c0f3d5"
         },
@@ -384,7 +384,7 @@
             "position": "Junior Facilitator ",
             "classes":["NURSG 1-B", "Ameri 1-A", "Asian 1-A", "IEngg 1-A", "EEngg 1-A"],
             "socials":[
-                { "site": "facebook", "url": "fb.me/nenyagwyn" },
+                { "site": "facebook", "url": "https://fb.me/nenyagwyn" },
                 { "site": "twitter", "url": "https://twitter.com/sottoninna" },
                 { "site": "instagram", "url": "https://instagram.com/sottoninna" }
             ],
@@ -427,7 +427,7 @@
             "position": "Junior Facilitator ",
             "classes":["NURSNG 1-C", "NURSNG 1-D", "PSYCH 1-L", "ECEng 1-A", "MEngg 1-A"],
             "socials":[
-                { "site": "facebook", "url": "www.facebook.com/paulinealexandra.tongco" },
+                { "site": "facebook", "url": "https://www.facebook.com/paulinealexandra.tongco" },
                 { "site": "twitter", "url": "twitter.com/paulinetongco" }
             ],
             "picture":"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FFacilitators%2FTONGCO.png?alt=media&token=1f258897-b399-44e8-b39b-cf5dae4b8bc0"
