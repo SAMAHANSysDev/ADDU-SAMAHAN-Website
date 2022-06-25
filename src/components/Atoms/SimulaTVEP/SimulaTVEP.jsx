@@ -51,6 +51,10 @@ const SimulaTVEP = ({ epThumbnail, epTitle, epDescription, epCaption }) => {
           <Typography id="modal-modal-title" variant="h6" component="h2">
             {epTitle}: {epDescription}
           </Typography>
+          
+          <Typography sx={{ mt: 5 }}>
+            [LINK COMING SOON]
+          </Typography>
           <Typography id="modal-modal-description" sx={{ mt: 2 }}>
             {epCaption}
           </Typography>
