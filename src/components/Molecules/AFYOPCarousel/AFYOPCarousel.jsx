@@ -55,6 +55,7 @@ const AFYOPCarousel = ({ carcon }) => {
         modules={[Pagination, Navigation, Autoplay]}
         autoplay={{delay: 5000}}
         className={styles["mySwiper"]}
+        loop={true}
       >
         {carcon.content.map((item, index) => {
           return (
