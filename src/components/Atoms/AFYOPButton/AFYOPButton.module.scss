@@ -40,4 +40,13 @@
     background-color: $color--white;
     color: $color--yellow;
   }
+
+  &--purple {
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    font-weight: $h1FontWeight;
+    padding: 0.625rem 1.875rem;
+    background-color: $color--AFYOP-purple;
+    color: $color--white;
+  }
 }
