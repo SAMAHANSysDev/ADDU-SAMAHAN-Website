@@ -3,7 +3,7 @@ import Head from "next/head";
 
 import { AFYOPPage } from '../src/components/ComponentIndex'
 
-const afyop = () => {
+const afyop_simula = () => {
   return (
     <>
       <Head>
@@ -14,4 +14,4 @@ const afyop = () => {
   )
 }
 
-export default afyop
+export default afyop_simula

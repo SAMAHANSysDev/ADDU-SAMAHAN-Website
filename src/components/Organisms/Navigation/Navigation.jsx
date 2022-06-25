@@ -131,7 +131,7 @@ const Navigation = ({ transparent = false }) => {
               <li
                 className={styles["simula_logo"] + " " + styles["nav-links-1"]}
               >
-                <Link href="/afyop">
+                <Link href="/afyop_simula">
                   <div>
                     <Image.default
                       src={image.AFYOPSimula}

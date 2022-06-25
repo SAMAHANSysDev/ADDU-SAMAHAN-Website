@@ -68,7 +68,7 @@ const Landing = () => {
           <p>Scroll down!</p>
         </div>
       </div>
-      <Link href="/afyop">
+      <Link href="/afyop_simula">
         <section className={styles["SimulaLanding"]}>
           <div className={styles["background"]}>
             <Image src={"https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/Images%2FSimulaLandingBG.png?alt=media&token=e3a95bae-5196-4e80-9240-f255a0d68881"} 
