@@ -149,7 +149,7 @@ const Navigation = ({ transparent = false }) => {
                 className={styles["nav-links-1"] + " " + styles["li_afyop"]}
                 id="li_afyop"
               >
-                <Link href="/afyop">AFYOP - Simula</Link>
+                <Link href="/afyop_simula">AFYOP - Simula</Link>
               </li>
               <li
                 className={styles["nav-links-1"]}

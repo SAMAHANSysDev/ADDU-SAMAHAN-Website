@@ -51,6 +51,7 @@ const AFYOPLanding = ({ AFYOPLandingData }) => {
           layout="fill"
           objectFit="contain"
           draggable={false}
+          priority
           >
 
           </Image.default>
