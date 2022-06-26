@@ -64,7 +64,7 @@ const AFYOPLanding = ({ AFYOPLandingData }) => {
           ></AFYOPLabel>
           <div className={styles["dates"]}>
             <p className={styles["first-year-onboard-section--date"]}>
-              JUNE 28 - JULY 1, 2022
+              JUNE 27 - JULY 1, 2022
             </p>
             <p className={styles["italic"]}>Sa simulang babalikan, kuwento’y ating simulan.</p>
           </div>
