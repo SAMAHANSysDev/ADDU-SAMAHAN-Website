@@ -146,3 +146,19 @@
     }
   }
 }
+
+@media (max-width: 576px) {
+    .SimulaLogo {
+      position: relative;
+      width: 22.625rem;
+      height: 11.063rem;
+    }
+}
+
+@media (max-width: 320px) {
+  .SimulaLogo {
+    position: relative;
+    width: 20.625rem;
+    height: 9.063rem;
+  }
+}
