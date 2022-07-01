@@ -49,7 +49,7 @@ const HelpPortalTemplate = ({ faqData, information }) => {
               <Button
                 label="DOWNLOAD"
                 href={
-                  "https://firebasestorage.googleapis.com/v0/b/samahan-website.appspot.com/o/samahan-guidebook.pdf?alt=media&token=3a86ac03-448e-4e1a-b934-a2bc60a7d13b"
+                  "https://drive.google.com/uc?export=download&id=1SxvuOWmGZbXp5GngXRDff5Qj4tAd_KVt&confirm=t&uuid=5c6092dd-e064-4a0d-bc31-6bdf216d57e5"
                 }
               />
             </div>
