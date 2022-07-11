@@ -59,6 +59,22 @@
             font-weight: 600;
         }
     }
+
+}
+
+.frame {
+    height: 720px;
+    width: 100%;
+    max-width: 1920px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 1200px) {
+    .frame {
+        height: 500px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -71,6 +87,9 @@
                 font-size: 12px;
             }
         }
+    }
+    .frame {
+        height: 300px;
     }
 }
 
@@ -95,5 +114,8 @@
         .details {
             display: none;
         }
+    }
+    .frame {
+        height: 200px;
     }
 }

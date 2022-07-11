@@ -1,29 +1,29 @@
 import React from "react";
 
 import styles from "./SimulaTVEP.module.scss";
-import { Icon } from '@iconify/react';
-import playFill from '@iconify/icons-bi/play-fill';
+import { Icon } from "@iconify/react";
+import playFill from "@iconify/icons-bi/play-fill";
 
-import Box from '@mui/material/Box';
-import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
-import Modal from '@mui/material/Modal';
+import Box from "@mui/material/Box";
+import Button from "@mui/material/Button";
+import Typography from "@mui/material/Typography";
+import Modal from "@mui/material/Modal";
 
 const style = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
+  position: "absolute",
+  top: "50%",
+  left: "50%",
+  transform: "translate(-50%, -50%)",
   width: "100%",
   maxWidth: "75vw",
-  bgcolor: 'background.paper',
-  border: '5px solid #8C4AC8',
+  bgcolor: "background.paper",
+  border: "5px solid #8C4AC8",
   boxShadow: 24,
   p: 4,
-  outline: "none"
+  outline: "none",
 };
 
-const SimulaTVEP = ({ epThumbnail, epTitle, epDescription, epCaption }) => {
+const SimulaTVEP = ({ epThumbnail, epTitle, epDescription, epCaption, link }) => {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
@@ -31,7 +31,11 @@ const SimulaTVEP = ({ epThumbnail, epTitle, epDescription, epCaption }) => {
   return (
     <>
       <div className={styles["SimulaTVEP"]}>
-        <div onClick={handleOpen} className={styles["thumbnail"]} style={{backgroundImage: `url(${epThumbnail})`}}>
+        <div
+          onClick={handleOpen}
+          className={styles["thumbnail"]}
+          style={{ backgroundImage: `url(${epThumbnail})` }}
+        >
           <Icon icon={playFill} color="white" height="50" />
           <p className={styles["smallTitle"]}>{epTitle}</p>
         </div>
@@ -40,7 +44,7 @@ const SimulaTVEP = ({ epThumbnail, epTitle, epDescription, epCaption }) => {
           <p>{epDescription}</p>
         </div>
       </div>
-        
+
       <Modal
         open={open}
         onClose={handleClose}
@@ -51,9 +55,20 @@ const SimulaTVEP = ({ epThumbnail, epTitle, epDescription, epCaption }) => {
           <Typography id="modal-modal-title" variant="h6" component="h2">
             {epTitle}: {epDescription}
           </Typography>
-          
+
           <Typography sx={{ mt: 5 }}>
-            [LINK COMING SOON]
+            <div className={styles["frame"]}>
+              <iframe
+                width="100%"
+                height="100%"
+                src={link}
+                title="YouTube video player"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                className={styles["iframe"]}
+              ></iframe>
+            </div>
           </Typography>
           <Typography id="modal-modal-description" sx={{ mt: 2 }}>
             {epCaption}
