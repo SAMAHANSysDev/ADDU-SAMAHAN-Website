@@ -81,6 +81,22 @@
                 "platform": "Venue: Ateneo de Davao University, Jacinto Campus ",
                 "desc":" This year, we welcome our incoming Freshies, Sophomores, and Juniors back to our University campus through our Campus Tour and Org Fair, now on its blended modality. See you in campus!",
                 "expiry": "July 12 2022 05:00 PM"
+            },
+            {
+                "ItemNum":"Item #9",
+                "DateTime":"July 16, 2022 | 8:00 AM ",
+                "event": "AFYOP Batch 2 Breakout Sessions ",
+                "platform": "Zoom [sent through Simula Invites and Group Chats] ",
+                "desc":" We welcome the second wave of AdDU freshie enrollees through our AFYOP Simula Batch 2 Breakout Sessions by exploring our VMG, academic, and non-academic policies!",
+                "expiry": "July 17 2022 12:00 AM"
+            },
+            {
+                "ItemNum":"Item #9",
+                "DateTime":" July 30, 2022 | 8:00 AM ",
+                "event": "AFYOP Batch 3 Breakout Sessions ",
+                "platform": "Zoom [sent through Simula Invites and Group Chats] ",
+                "desc":" We welcome the second wave of AdDU freshie enrollees through our AFYOP Simula Batch 2 Breakout Sessions by exploring our VMG, academic, and non-academic policies!",
+                "expiry": "July 31 2022 12:00 AM"
             }
         ]
         }   
