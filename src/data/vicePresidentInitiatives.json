@@ -14,9 +14,251 @@
           "contents": "The Student Assembly Archives serves as the official virtual library of the Student Assembly. It compiles all Student Assembly's publications and documents on their legislative procedures and activities made accessible to the public for recordkeeping and transparency purposes. It includes such but is not limited to enacted resolutions, policies, proposals, appointments, bills, journals, minutes, and others. Through the archives, the Student Assembly narrows the gap and makes the student body more involved in legislative affairs."
         },
         {
-          "type": "hyperlink",
-          "link": "https://drive.google.com/drive/folders/1NmXwA1x8wRmxuTiPjzr0q2ypohEIbV05",
-          "contents": "Click here to view the Archives"
+          "type": "title large",
+          "align": "center",
+          "underline": true,
+          "contents": "APPROVED RESOLUTIONS"
+        },
+        {
+          "type": "title",
+          "align": "left",
+          "underline": true,
+          "contents": "Departments: "
+        },
+        {
+          "type": "resolutions container",
+          "contents": [
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 015 Series of 2022",
+                  "title": "A RESOLUTION ACCEPTING THE PROPOSAL TO ESTABLISH THE DEPARTMENT OF EXTERNAL AFFAIRS AS A NEW DEPARTMENT OF THE SAMAHAN",
+                  "date": "May 06, 2022",
+                  "link": "https://docs.google.com/document/d/12ZqzKJImXNjQ64cGvzdKurRr0K2-I3VxsNsrlMelw_s/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "title",
+              "align": "left",
+              "underline": true,
+              "contents": "Directors and Head Commissioners Appointments:"
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 002 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF MERIRAVEN ROMERO AS DEPARTMENT DIRECTOR OF THE DEPARTMENT OF EXTERNAL AFFAIRS",
+                  "date": "April 18, 2022",
+                  "link": "https://docs.google.com/document/d/1B_9OPEAitjJGaczcJh6tnHAFhZVTqnnCyDL8JIaJdG4/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 003 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF MOHAMMAD ABDUNUR UNGA AS DEPARTMENT DIRECTOR OF THE DEPARTMENT OF CAMPAIGNS AND ADVOCACIES",
+                  "date": "April 18, 2022",
+                  "link": "https://docs.google.com/document/d/1LTDa96ARZnBIIl8fcpiB_58bkABzU0zuD5aqoLWu4uA/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 004 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF MARIAN MAGSIGAY AS DEPARTMENT DIRECTOR OF THE SAMAHAN ECOTENEO STUDENT UNIT",
+                  "date": "April 18, 2022",
+                  "link": "https://docs.google.com/document/d/1C4n50gztDFO0U1Hb5zu0rJtCRsps6avLQb7jjXAkYGg/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 005 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF MONICA GWEN CORTES AS DEPARTMENT DIRECTOR OF THE DEPARTMENT OF ACADEMIC AFFAIRS",
+                  "date": "April 18, 2022",
+                  "link": "https://docs.google.com/document/d/1Gr2ZryQzCtjOe_zfViGiSZTrzMmZ--fENEi9r7xigEE/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 006 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF RODEL BANAL AS DEPARTMENT DIRECTOR OF THE DEPARTMENT FOR DISASTER RISK MANAGEMENT",
+                  "date": "April 18, 2022",
+                  "link": "https://docs.google.com/document/d/1S78vRcRDGnjqSXMRzy3KIX_eY8xOBdwN-QUhHeIKZl4/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 007 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF INGRID SILFVERBERG AS DEPARTMENT DIRECTOR OF THE SAMAHAN CREATIVE TEAM",
+                  "date": "April 18, 2022",
+                  "link": "https://docs.google.com/document/d/1mwq7lyrcS3c3f9AAQHSbqdKffBKU9jWiuPVEH7I_H3c/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 008 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF LIEZEL RESTAURO AS DEPARTMENT DIRECTOR OF THE ATENEO SAMAHAN PRODUCTIONS",
+                  "date": "April 19, 2022",
+                  "link": "https://docs.google.com/document/d/15eJWsT5fD0cIfp73nDFnevsTEqce5A7jnGO3NKJKKyI/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 009 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF KATRINA JESRENE DATOY AS DEPARTMENT DIRECTOR OF THE DEPARTMENT OF COMMUNICATIONS",
+                  "date": "April 19, 2022",
+                  "link": "https://docs.google.com/document/d/1BnV4lUnHyTNLaITM3IvuzWtYGnL1DIuJYyYp-LMo_6U/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 010 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF JAN PATRICK MATAYABAS AS DEPARTMENT DIRECTOR OF THE DEPARTMENT OF SYSTEM DEVELOPMENT",
+                  "date": "April 30, 2022",
+                  "link": "https://docs.google.com/document/d/1_lzM05bEpzoook7YgRNDRpppoFTmHzI3BvFIMMLb9So/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 011 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF LOUIE JOY GUTIB AS DEPARTMENT DIRECTOR OF THE SAMAHAN LOGISTICS DEPARTMENT",
+                  "date": "April 19, 2022",
+                  "link": "https://docs.google.com/document/d/1Y3D3Pun8zgZVdLUH13n9DgXGfk0WY2_CH-2hBh9DoEs/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 012 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF JOICE JONAH ESTERON AS DEPARTMENT DIRECTOR OF THE SAMAHAN SPONSORSHIPS AND SUPPORT DEPARTMENT",
+                  "date": "April 19, 2022",
+                  "link": "https://docs.google.com/document/d/1-p9asjykYeHpItKYKXfztbrMmYJUdZkjwOWgo3h4A3k/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 013 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF MIKAELA ABRIELLE BALAGOT AS HEAD COMMISSIONER OF THE COMMISSION OF STUDENTS’ RIGHTS AND WELFARE",
+                  "date": "April 19, 2022",
+                  "link": "https://docs.google.com/document/d/1pSXn42u5hAFnYVO584Glw_oYwObnQ2lYVqKB8maPH3w/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 014 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF RUTHCE MAE COSTELO AS HEAD COMMISSIONER OF THE COMMISSION ON AUDIT",
+                  "date": "April 19, 2022",
+                  "link": "https://docs.google.com/document/d/1UeBTjKAuj5pdonyTswT5pqqAs2U0X6rqPJ7jjajcmcY/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 016 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF MAE ANTONNETTE BALILI  AS DEPARTMENT DIRECTOR OF THE DEPARTMENT OF RESEARCH AND DEVELOPMENT",
+                  "date": "May 06, 2022",
+                  "link": "https://docs.google.com/document/d/1Cq3TfhIIYvC5OwBljvTa2phs4LmbY2TU4AMYGliO5YE/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 017 Series of 2022",
+                  "title": "A RESOLUTION CONFIRMING THE APPOINTMENT OF ANDREA ROSE REYNO AS HEAD COMMISSIONER OF THE COMMISSION ON ELECTIONS",
+                  "date": "May 15, 2022",
+                  "link": "https://docs.google.com/document/d/1mdICS1AeM8zPYlnD8CZjDN-KoOZVSpo-EZkzjh0dDtU/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "title",
+              "align": "left",
+              "underline": true,
+              "contents": "OSP(Resolution No. 001-2022):"
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "RESOLUTION PROFILE FORM",
+                  "link": "https://docs.google.com/document/d/14Of72f0nk4X9so6ILS09q-Ey6QI_mkbtjZF5VKIfKJU/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 001 Series of 2022",
+                  "title": "A RESOLUTION ESTABLISHING CANDID DATES 2022: THE SENATORIABLES AND VOTERS MOBILIZATION CAMPAIGN",
+                  "date": "April 19, 2022",
+                  "link": "https://docs.google.com/document/d/1scT88hsaDYJ5mFQhB3hDwRUp_sPpPv6DWYlA7-Ky_0Y/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "title",
+              "align": "left",
+              "underline": true,
+              "contents": "OSP(Resolution No. 018-2022):"
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "RESOLUTION PROFILE FORM",
+                  "link": "https://docs.google.com/document/d/1n5fdk7-hPTvDTY-R0pXZfjwlIdK6YD3sl-Gbv4hGSRk/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 018 Series of 2022",
+                  "title": "A RESOLUTION ESTABLISHING ABAKADA: BALIK ESKWELA MINDANAO",
+                  "date": "May 21, 2022",
+                  "link": "https://docs.google.com/document/d/1Et39GtJ6UdQgcqqiJM1jiSv23B89wn4wv7EjmoDjGJI/edit?usp=sharing"
+                }
+            },
+            {
+              "type": "title",
+              "align": "left",
+              "underline": true,
+              "contents": "OST:"
+            },
+            {
+              "type": "resolutions item",
+              "contents": 
+                {
+                  "resolution": "Resolution No. 019 Series of 2022",
+                  "title": "A BOARD RESOLUTION FOR ADDU PERKS: OST FINANCIAL AID PROGRAM",
+                  "date": "June 24, 2022",
+                  "link": "https://docs.google.com/document/d/1lwkQczlwF6IJpwMwRqwMLzCY1WD-usEfT0mWh2PWsng/edit?usp=sharing"
+                }
+            }
+          ]
         }
       ]
     },

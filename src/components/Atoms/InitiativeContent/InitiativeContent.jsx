@@ -282,6 +282,36 @@ const contentRecurrsion = (contents) => {
         </h2>
       );
     }
+
+    if (content.type === "resolutions container") {
+      return (
+        <div key={index} className={styles["resolutions-container"]}>
+          {hasSubContent
+            ? contentRecurrsion(content.contents)
+            : content.contents}
+        </div>
+      );
+    }
+
+    if (content.type === "resolutions item") {
+      return (
+        <div key={index} className={styles["resolutions-item"]}>
+          {/* {hasSubContent
+            ? contentRecurrsion(content.contents)
+            : content.contents} */
+
+          <Link href={content.contents.link}>
+            <a target="_blank" className={styles["resolutions-item__link"]}>
+              <h4 className={styles["resolutions-item__number"]}>{content.contents?.resolution}</h4>
+              <h4 className={styles["resolutions-item__title"]}>{content.contents?.title}</h4>
+              <h5 className={styles["resolutions-item__date"]}>{content.contents?.date}</h5>
+            </a>
+          </Link>
+
+            }
+        </div>
+      );
+    }
   });
 };
 

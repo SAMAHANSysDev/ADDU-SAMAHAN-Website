@@ -173,6 +173,38 @@ $fontColor: $color--black;
   min-width: 15rem;
 }
 
+.resolutions-container{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.resolutions-item{
+  &__link{
+    text-decoration: none;
+    color: inherit;
+
+    &:hover{
+      opacity: 0.5;
+    }
+  }
+
+  &__number{
+    font-size: $h5FontSize;
+    font-weight: $h4FontWeight;
+  }
+
+  &__title{
+    font-size: $bodyFontSize;
+    font-weight: $h5FontWeight;
+  }
+
+  &__date{
+    font-size: $body2FontSize;
+    font-weight: $body2FontWeight;
+  }
+}
+
 @media only screen and (max-width: calc(#{$maxWidth} + 100px)) {
   .content-container {
     max-width: 90%;

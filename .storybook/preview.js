@@ -29,10 +29,6 @@ export const parameters = {
     default: "White",
     values: [
       {
-        name: "ADDU Blue",
-        value: "#2D419D",
-      },
-      {
         name: "White",
         value: "#FFFFFF",
       },
@@ -41,8 +37,8 @@ export const parameters = {
         value: "#BABABA",
       },
       {
-        name: "Dark Grey",
-        value: "#282828",
+        name: "Dark",
+        value: "121212",
       },
     ],
   },
